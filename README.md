@@ -2,16 +2,15 @@
 
 ## Inspiration: Artists, Movies, Projects, etc.
 
-1. List of [inspirational movies](http://eat.cca.edu) collected by [Barney
+### List of [inspirational movies](http://eat.cca.edu) collected by [Barney
 Haynes](http://www.ultrafuzz.net/) (also
 [here](https://vimeo.com/barneyhaynes)) and shown at his Interface classes. In
 particular
 
-1. Inspirational videos collected by [J.D.
-Zamfirescu](https://github.com/zamfi)  
-	1.1. Basic robots  
-		1.1.1. [Tree-climbing robot](http://www.youtube.com/watch?v=zkpH1BjD6Wc)  
-		1.1.1. [Self-balancing robot](http://www.youtube.com/watch?v=Tw9Jr-SPL0Y)  
+### Inspirational videos collected by [J.D.Zamfirescu](https://github.com/zamfi)  
+- Basic robots  
+- [Tree-climbing robot](http://www.youtube.com/watch?v=zkpH1BjD6Wc)  
+- [Self-balancing robot](http://www.youtube.com/watch?v=Tw9Jr-SPL0Y)  
 		1.1.1. [Insect robot](http://www.youtube.com/watch?v=tOsNXg2vAd4#t=120)  
 		1.1.1. [Treadbot](http://www.youtube.com/watch?v=YblSltHDbIU)  
 		1.1.1. [Velociraptor robot](http://www.youtube.com/watch?v=lPEg83vF_Tw)  
