@@ -2,48 +2,43 @@
 
 ## Inspiration: Artists, Movies, Projects, etc.
 
-### List of [inspirational movies](http://eat.cca.edu) collected by [Barney
-Haynes](http://www.ultrafuzz.net/) (also
+#### List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](http://www.ultrafuzz.net/) (also
 [here](https://vimeo.com/barneyhaynes)) and shown at his Interface classes. In
 particular
 
-### Inspirational videos collected by [J.D.Zamfirescu](https://github.com/zamfi)  
+#### Inspirational videos collected by [J.D.Zamfirescu](https://github.com/zamfi)  
 - Basic robots  
-- [Tree-climbing robot](http://www.youtube.com/watch?v=zkpH1BjD6Wc)  
-- [Self-balancing robot](http://www.youtube.com/watch?v=Tw9Jr-SPL0Y)  
-		1.1.1. [Insect robot](http://www.youtube.com/watch?v=tOsNXg2vAd4#t=120)  
-		1.1.1. [Treadbot](http://www.youtube.com/watch?v=YblSltHDbIU)  
-		1.1.1. [Velociraptor robot](http://www.youtube.com/watch?v=lPEg83vF_Tw)  
-	1.1. Installations  
-		1.1.1. [The Bay Lights](http://thebaylights.org/)  
-		1.1.1. [Murmur Wall](http://www.future-cities-lab.net/projects/#/murmurwall/)  
-		1.1.1. [Floating Couch](http://vimeo.com/72826106)  
-		1.1.1. [Wooden Segment Mirror](https://www.youtube.com/watch?v=BZysu9QcceM#t=36)  
-		1.1.1. [Generative design](https://www.youtube.com/watch?v=pNkz8wEJljc)  
-	1.1. Art & Music bots  
-		1.1.1. [Textile weaving](https://vimeo.com/71044541)  
-		1.1.1. [ReacTable](https://www.youtube.com/user/marcosalonso)  
-		1.1.1. [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)  
-		1.1.1. [Laser harp](http://www.youtube.com/watch?v=sLVXmsbVwUs#t=20)  
-		1.1.1. [Cubli: Floating Cube](https://www.youtube.com/watch?v=n_6p-1J551Y)  
-		1.1.1. [Arc-o-matic](http://vimeo.com/57082262#at=130)  
-		1.1.1. [Robo Faber](http://vimeo.com/78771257)  
-		1.1.1. [Eggbot](https://www.youtube.com/watch?v=w4cdbV2oaEc)  
-	1.1. Drink-makers  
-		1.1.1. [Textspresso](http://www.youtube.com/watch?v=kx9D74t7GD8#t=89)  
-		1.1.1. [The Inebriator](http://www.youtube.com/watch?v=WqY7fchs7H0)  
-	1.1. Computer Numerical Control (CNC)  
-		1.1.1. [Shapoko / tinyg](http://www.youtube.com/watch?v=pCC1GXnYfFI#t=11)  
-		1.1.1. [Makerbot Replicator](http://www.youtube.com/watch?v=NAbiAzYhTOQ)  
-	1.1. Vacuuming  
-		1.1.1. [Roomba](https://www.youtube.com/watch?v=0DNkbZvVYvc)  
-
-2. [Golan Levin: Art that looks back at
-you](https://www.youtube.com/watch?v=1G0MzlfMPuM)
-
-3. [Drawdio](https://www.youtube.com/watch?v=PV_w38ldZaE)
-
-4. Sudhu Tewari's [Yasmin Electro Mechanical Sequencer](https://www.youtube.com/watch?v=MjNB3nKPMb8)
+  - [Tree-climbing robot](http://www.youtube.com/watch?v=zkpH1BjD6Wc)  
+  - [Self-balancing robot](http://www.youtube.com/watch?v=Tw9Jr-SPL0Y)  
+  - [Insect robot](http://www.youtube.com/watch?v=tOsNXg2vAd4#t=120)  
+  - [Treadbot](http://www.youtube.com/watch?v=YblSltHDbIU)  
+  - [Velociraptor robot](http://www.youtube.com/watch?v=lPEg83vF_Tw)  
+- Installations  
+  - [The Bay Lights](http://thebaylights.org/)  
+  - [Murmur Wall](http://www.future-cities-lab.net/projects/#/murmurwall/)  
+  - [Floating Couch](http://vimeo.com/72826106)  
+  - [Wooden Segment Mirror](https://www.youtube.com/watch?v=BZysu9QcceM#t=36)  
+  - [Generative design](https://www.youtube.com/watch?v=pNkz8wEJljc)  
+- Art & Music bots  
+  - [Textile weaving](https://vimeo.com/71044541)  
+  - [ReacTable](https://www.youtube.com/user/marcosalonso)  
+  - [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)  
+  - [Laser harp](http://www.youtube.com/watch?v=sLVXmsbVwUs#t=20)  
+  - [Cubli: Floating Cube](https://www.youtube.com/watch?v=n_6p-1J551Y)  
+  - [Arc-o-matic](http://vimeo.com/57082262#at=130)  
+  - [Robo Faber](http://vimeo.com/78771257)  
+  - [Eggbot](https://www.youtube.com/watch?v=w4cdbV2oaEc)
+  - [Drawdio](https://www.youtube.com/watch?v=PV_w38ldZaE)
+  - [Yasmin Electro Mechanical Sequencer](https://www.youtube.com/watch?v=MjNB3nKPMb8)
+  -[Golan Levin: Art that looks back at you](https://www.youtube.com/watch?v=1G0MzlfMPuM)
+- Drink-makers  
+  - [Textspresso](http://www.youtube.com/watch?v=kx9D74t7GD8#t=89)  
+  - [The Inebriator](http://www.youtube.com/watch?v=WqY7fchs7H0)  
+- Computer Numerical Control (CNC)  
+  - [Shapoko / tinyg](http://www.youtube.com/watch?v=pCC1GXnYfFI#t=11)  
+  - [Makerbot Replicator](http://www.youtube.com/watch?v=NAbiAzYhTOQ) 
+- Vacuuming  
+  - [Roomba](https://www.youtube.com/watch?v=0DNkbZvVYvc)  
 
 ### Data Visualization Examples
 
@@ -85,24 +80,20 @@ Sample piece: [Meditation #1](http://www.youtube.com/watch?v=kY2Df78faiE)
 Search youTube for many other videos of his work
 
 6. Daniel Rozinin
-[Wooden
-mirror](http://www.designboom.com/weblog/read.php?CATEGORY_PK=&TOPIC_PK=2897) 
-in which over 800 small blocks of wood
-are individually rotated slightly to display an image of what the camera
+[Wooden mirror](http://www.designboom.com/weblog/read.php?CATEGORY_PK=&TOPIC_PK=2897) 
+in which over 800 small blocks of wood are individually rotated slightly to display an image of what the camera
 captures
 
 7. [Theo Jansen](http://www.strandbeest.com/)
 Theo Jansen creates new forms of life using plastic tubing as the basic
 building material. Wind is their "food", and their "stomach" is made of recycled
 plastic bottles.
-Theo’s [The art of creating
-creatures](http://www.youtube.com/watch?v=b694exl_oZo) 
+Theo’s [The art of creating creatures](http://www.youtube.com/watch?v=b694exl_oZo) 
 presentation at TED in 2006 includes
 a wonderful video of his work and a live demonstration of portions of his
 mechanisms. Search youTube for many other videos of his work
 
-8. [Del’s Beautiful New Wooden
-Machine](http://www.youtube.com/watch?v=u7ziwuIpnVY)
+8. [Del’s Beautiful New Wooden Machine](http://www.youtube.com/watch?v=u7ziwuIpnVY)
 An intricate hand-cranked machine demonstrating many types of simple
 mechanisms: cranks, gears, chains, sprockets, offset gears to change speed,
 escapements, conversion of rotary motion to linear motion. Thanks to Tristan
