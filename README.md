@@ -182,9 +182,9 @@ to explanations of related concepts every step of the way.
 Physical World with Computers" by Igoe/O'Sullivan, available in the
 Hybrid Lab
 
-1. "How to Build Automata" book, available in the Hybrid Lab
+~~1. "How to Build Automata" book, available in the Hybrid Lab~~
 
-1. "How to Build Simple Automata" book, available in the Hybrid Lab
+1. ["How to Build Simple Automata" by Robert Addams](https://issuu.com/hmorenop/docs/addams_robert_-_how_to_design_and_m)
 
 1. A nice [overview](https://makezine.com/projects/make-your-own-gears/) of
 making your own gears. Don't worry about the specifics (Inkscape etc.) 
@@ -193,7 +193,7 @@ ways and using different tools.
 
 1. "Making Things Move" book, available in the Hybrid Lab and in our library
 
-1. [Machinations/Mechanisms](doc/machinations-mechanisms.pdf)
+1. [Machinations/Mechanisms](doc/machinations-mechanisms.pdf) by Paul Spooner
 
 1. [Gear generator](http://www.geargenerator.com)
 
