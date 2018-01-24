@@ -393,11 +393,21 @@ guide](https://oscarliang.com/how-to-use-mosfet-beginner-tutorial/)
 	Your account name should be your name (unless for privacy reasons you'd prefer
 	something else) and your repository name could be the course name. 
 
+1. How do I edit the main text?
+
+		In order to edit the README.md file:
+		- Click on the README.md file in the top of your repository folder
+		- Click on the little pencil icon to edit the file
+		- Make any edits you wish
+		- Save the file by clicking on the green _Commit changes_ button at the
+			bottom of the page
+
 1. Help! I created my account and repository, but I can't find the button 
 that says "Create new file" or "Upload files". How do I fix this?
 
 	Answer: It sounds like you forgot to create a README.md file when you created the
 	repository. See below.
+	
 
 2. Help! I created a new repository but I forgot to check the box that says
 "Initialize this repository with a README". How can I create a README file?
