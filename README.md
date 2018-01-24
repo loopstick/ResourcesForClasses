@@ -101,6 +101,7 @@ for bringing this to my attention.
 
 
 ## Basic Arduino Resources
+1. What is Arduino? [Arduino Introduction](https://www.arduino.cc/en/Guide/Introduction)
 
 1. Arduino basics: Intro through Lesson 3 of Adafruit's Arduino [tutorial](http://www.ladyada.net/learn/arduino/index.html)
 
@@ -165,14 +166,16 @@ to explanations of related concepts every step of the way.
 
 1. Adafruit [guide](http://www.ladyada.net/learn/sensors/) to sensors
 
+### Arduino Types 
+How do you choose the right board for your project?
+- [Sparkfun Arduino board comparison](https://www.sparkfun.com/standard_arduino_comparison_guide]
+
 
 ## Mechatronic Resources
 
 1. Pages 272-281 in "Physical Computing: Sensing and Controlling the
 Physical World with Computers" by Igoe/O'Sullivan, available in the
 Hybrid Lab
-
-~~1. "How to Build Automata" book, available in the Hybrid Lab~~
 
 1. ["How to Build Simple Automata" by Robert Addams](https://issuu.com/hmorenop/docs/addams_robert_-_how_to_design_and_m)
 
@@ -212,92 +215,11 @@ automata builder
 [article](http://makezine.com/projects/make-cardboard-automata/) on Make:
 Projects website (which itself is a great resource for all sorts of projects).
 
-## Github Resources
-
-1. How to create a Github account and your first repository
-[guide](https://github.com/zamfi/github-guide)
-
-	Your account name should be your name (unless for privacy reasons you'd prefer
-	something else) and your repository name could be the course name. 
-
-1. Help! I created my account and repository, but I can't find the button 
-that says "Create new file" or "Upload files". How do I fix this?
-
-	Answer: It sounds like you forgot to create a README.md file when you created the
-	repository. See below.
-
-2. Help! I created a new repository but I forgot to check the box that says
-"Initialize this repository with a README". How can I create a README file?
-	
-	Answer: You can either:
-
-	1. Delete your repository and create a new one, this time with the box
-	checked.
-
-	2.  Click where it says "README" and then click "Commit new file" at the 
-	bottom of the page that comes up. This will create a "README" file.
-
-2. How to upload a file to Github
-	1. Click on "Upload files"
-
-3. How to create a folder in Github
-
-	Git doesn't store empty folders, so you can only create a new folder when
-	you have a file to put in it. Also, you can't create a folder
-	when you _upload_ a file. The only way to create a folder is 
-	to create a _new_ file, and then to tell Github to put that new file
-	in a new folder:
-	1. Go to the folder inside which you want to create another folder.
-	2. Click on _Create new file_.
-	3. On the text field for the file name, first write the folder name you
-		 want to create, then type _/_ (which creates the new folder) and then
-		 the name of the new file you want to create. The name doesn't matter.
-	5. Finally, save your new file by pressing the green _Commit new file_
-		button at the bottom of the page
-	6. If you don't need the file, you may delete it now that the folder
-		has been created.
-
-4. How to delete a file
-	1. Browse to the file in your repository that you want to delete.
-	2. At the top of the file, click the icon of the trash can
-	4. Add a short description of why you are deleting this file
-	5. Finally, save your changes by pressing the green _Commit changes_
-		button at the bottom of the page
-
-4. How to upload a code file so that Github formats it as code
-
-	Use the extension along with the file name. Github recognizes that .ino 
-	are code files. Github recognizes many other file extensions as code.
-
-4. How to [organize folders and files]
-(https://github.com/blog/1436-moving-and-renaming-files-on-github) 
-	in Github (move and rename)
-
-5. How do I control the appearance of my README.md file?
-
-	There are many guides to Github Markdown. I find
-	[this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-	particularly useful.
-
-	Any file that has the .md extension will be interpreted by Github as a
-	markdown file.
-
-4. How do I create code blocks within in a markdown (.md) file?
-
-	You can create fenced code blocks by placing triple backticks ``` before and
-	after the code block. We recommend placing a blank line before and after code
-	blocks to make the raw formatting easier to read.
-
-```
-	function test() {
-		console.log("notice the blank line before this function?");
-		}
-```
-
 ## Making Sounds without Arduino
 1. Basic 40106 (hex Schmitt trigger inverter)
 		[oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
 2. Other 40106 [ideas](http://bleeplabs.com/rad-fi-analog/)
+3. 555 astable oscillators
 
 ## Schematics
 1. A great
@@ -374,7 +296,7 @@ tutorial
 
 4. Processing [Color](http://processing.org/tutorials/color/) tutorial
 
-## Classes and Objects
+## Classes and Objects - Processing
 1. Daniel Shiffman’s [Objects](https://processing.org/tutorials/objects/)
 tutorial (Processing)
 
@@ -464,9 +386,89 @@ Motors](https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors/ove
 1. Quite good MOSFET [tutorial and usage
 guide](https://oscarliang.com/how-to-use-mosfet-beginner-tutorial/)
 
+## Github Resources
+1. How to create a Github account and your first repository
+[guide](https://github.com/zamfi/github-guide)
+
+	Your account name should be your name (unless for privacy reasons you'd prefer
+	something else) and your repository name could be the course name. 
+
+1. Help! I created my account and repository, but I can't find the button 
+that says "Create new file" or "Upload files". How do I fix this?
+
+	Answer: It sounds like you forgot to create a README.md file when you created the
+	repository. See below.
+
+2. Help! I created a new repository but I forgot to check the box that says
+"Initialize this repository with a README". How can I create a README file?
+	
+	Answer: You can either:
+
+	1. Delete your repository and create a new one, this time with the box
+	checked.
+
+	2.  Click where it says "README" and then click "Commit new file" at the 
+	bottom of the page that comes up. This will create a "README" file.
+
+2. How to upload a file to Github
+	1. Click on "Upload files"
+
+3. How to create a folder in Github
+
+	Git doesn't store empty folders, so you can only create a new folder when
+	you have a file to put in it. Also, you can't create a folder
+	when you _upload_ a file. The only way to create a folder is 
+	to create a _new_ file, and then to tell Github to put that new file
+	in a new folder:
+	1. Go to the folder inside which you want to create another folder.
+	2. Click on _Create new file_.
+	3. On the text field for the file name, first write the folder name you
+		 want to create, then type _/_ (which creates the new folder) and then
+		 the name of the new file you want to create. The name doesn't matter.
+	5. Finally, save your new file by pressing the green _Commit new file_
+		button at the bottom of the page
+	6. If you don't need the file, you may delete it now that the folder
+		has been created.
+
+4. How to delete a file
+	1. Browse to the file in your repository that you want to delete.
+	2. At the top of the file, click the icon of the trash can
+	4. Add a short description of why you are deleting this file
+	5. Finally, save your changes by pressing the green _Commit changes_
+		button at the bottom of the page
+
+4. How to upload a code file so that Github formats it as code
+
+	Use the extension along with the file name. Github recognizes that .ino 
+	are code files. Github recognizes many other file extensions as code.
+
+4. How to [organize folders and files]
+(https://github.com/blog/1436-moving-and-renaming-files-on-github) 
+	in Github (move and rename)
+
+5. How do I control the appearance of my README.md file?
+
+	There are many guides to Github Markdown. I find
+	[this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+	particularly useful.
+
+	Any file that has the .md extension will be interpreted by Github as a
+	markdown file.
+
+4. How do I create code blocks within in a markdown (.md) file?
+
+	You can create fenced code blocks by placing triple backticks ``` before and
+	after the code block. We recommend placing a blank line before and after code
+	blocks to make the raw formatting easier to read.
+
+```
+	function test() {
+		console.log("notice the blank line before this function?");
+		}
+```
+
 ## Wordpress
 
-1. Rather than upload a video to a Wordpress blog, it 
-is better to upload video to Vimeo or
-Youtube and to embed those in your post. [Here](http://www.wpbeginner.com/beginners-guide/how-to-easily-embed-videos-in-wordpress-blog-posts/) are instructions.
+1. Rather than upload a video to a Wordpress blog (or gitHub repository), it 
+is better to upload video to Vimeo or Youtube and to embed those in your post. [Here](http://www.wpbeginner.com/beginners-guide/how-to-easily-embed-videos-in-wordpress-blog-posts/) are instructions.
 
