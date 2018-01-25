@@ -166,9 +166,11 @@ to explanations of related concepts every step of the way.
 
 1. Adafruit [guide](http://www.ladyada.net/learn/sensors/) to sensors
 
+1. ITP [Analog In with Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
+
 ### Arduino Types 
 How do you choose the right board for your project?
-- [Sparkfun Arduino board comparison](https://www.sparkfun.com/standard_arduino_comparison_guide]
+1. [Sparkfun Arduino board comparison](https://www.sparkfun.com/standard_arduino_comparison_guide]
 
 
 ## Mechatronic Resources
