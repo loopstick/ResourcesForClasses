@@ -107,25 +107,32 @@ for bringing this to my attention.
 
 1. [Arduino in a Nutshell](http://hci.rwth-aachen.de/arduino)
 
-1. Another [Getting Started with
-Arduino](http://reboot.yoha.co.uk/index.php?title=Getting_Started_with_Arduino)
+1. Another [Getting Started with Arduino](http://reboot.yoha.co.uk/index.php?title=Getting_Started_with_Arduino)
 	with links to many other sources of information
 
-4. [Introduction](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/introduction-sik-arduino-uno)
+1. [Introduction](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/introduction-sik-arduino-uno)
 to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 
-5. [Experiment 1: Blinking an LED](
-https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-1-blinking-an-led)
+1. [Jeremy Bloom's Arduino Tutorials](https://www.youtube.com/playlist?list=PL162738B96C8291EB)
+
+1. Great Scott Arduino Tutorials (recommended by Luis)
+   - [Arduino Basics 101: Hardware Overview, Fundamental Code Commands](https://www.youtube.com/watch?v=BtLwoNJ6klE)
+   - [Arduino Basics 102: Control Structures, Variables, Interrupts](https://www.youtube.com/watch?v=YT3birSKLLU)
+   
+   
+## How to ...
+
+1. [Experiment 1: Blinking an LED](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-1-blinking-an-led) in the SparkFun Inventor's Kit for Arduino Experimenter's Guide
+
+## Arduino Sensor Resources
+
+1. [Experiment 2: Reading a Potentiometer](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-2-reading-a-potentiometer)
 in the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 
-6. [Experiment 2: Reading a
-Potentiometer](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-2-reading-a-potentiometer)
-in the SparkFun Inventor's Kit for Arduino Experimenter's Guide
-
-2. AnalogReadSerial [tutorial](http://arduino.cc/en/Tutorial/AnalogReadSerial)
+1. AnalogReadSerial [tutorial](http://arduino.cc/en/Tutorial/AnalogReadSerial)
 by Arduino
 
-3. Photoresistor
+1. Photoresistor
 [Instructables](http://www.instructables.com/id/How-to-Use-a-Light-Dependent-Resistor-LDR/)
 
 ## Arduino Multitasking Resources
@@ -224,19 +231,9 @@ Projects website (which itself is a great resource for all sorts of projects).
 3. 555 astable oscillators
 
 ## Schematics
-1. A great
-[tutorial](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic) on
-schematics
-2. There are many different symbols for MOSFETs depending on subtle
-difference that we won't be concerned with. 
-
-	I suggest that you use these symbols:
-
-	![](http://www.electrotechservices.com/electronics/images/metal_oxide_semiconductor_fet_symbol.jpg)
-
-	We have both N-channel and P-channel MOSFETs in the lab, but the ones that
-	we use primarily (and the only ones I've discussed in class) are N-channel
-	enhancement mode MOSFETs
+1. A great [tutorial](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic) on schematics
+2. There are many different symbols for MOSFETs depending on subtle difference that we won't be concerned with. 
+   - We have both N-channel and P-channel MOSFETs in the lab, but the ones that we use primarily (and the only ones I've 	discussed in class) are N-channel enhancement mode MOSFETs
 
 ## Edge Detection 
 1. Arduino [tutorial](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
@@ -299,18 +296,15 @@ tutorial
 4. Processing [Color](http://processing.org/tutorials/color/) tutorial
 
 ## Classes and Objects - Processing
-1. Daniel Shiffman’s [Objects](https://processing.org/tutorials/objects/)
-tutorial (Processing)
+1. Daniel Shiffman’s [Objects](https://processing.org/tutorials/objects/) tutorial (Processing)
 
-2. A simple Processing class
-[example](http://teachmetomake.com/wordpress/simple-processing-class-example)
+2. A simple Processing class [example](http://teachmetomake.com/wordpress/simple-processing-class-example)
 
-3. "[Arduino the Object Oriented
-way](https://paulmurraycbr.github.io/ArduinoTheOOWay.html)" tutorial
+3. "[Arduino the Object Oriented way](https://paulmurraycbr.github.io/ArduinoTheOOWay.html)" tutorial
 
 ## Soldering
-1. Adafruit 
-[guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
+
+1. Adafruit [guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
 to excellent soldering
 
 ## Fritzing Resources
@@ -321,13 +315,13 @@ to excellent soldering
 3. Getting started with Fritzing’s [Project
 View](http://fritzing.org/learning/get-started/project-view/)
 
-4. Fritzing Designing
-PCB [tutorial](http://fritzing.org/learning/tutorials/designing-pcb/)
+4. Fritzing Designing PCB [tutorial](http://fritzing.org/learning/tutorials/designing-pcb/)
 
-5. My [repository](https://github.com/michaelshiloh/Fritzing)
-of assorted Fritzing projects
+5. My [repository](https://github.com/michaelshiloh/Fritzing) of assorted Fritzing projects
+
 
 ## Othermill/Bantam Tools Printer Circuit Board mill
+
 1. Getting Started
 		[project](https://support.bantamtools.com/hc/en-us/articles/115003204926-Bantam-Tools-PCB-Badge)
 
@@ -388,7 +382,9 @@ Motors](https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors/ove
 1. Quite good MOSFET [tutorial and usage
 guide](https://oscarliang.com/how-to-use-mosfet-beginner-tutorial/)
 
+
 ## Github Resources
+
 1. How to create a Github account and your first repository
 [guide](https://github.com/zamfi/github-guide)
 
