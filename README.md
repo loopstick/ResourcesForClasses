@@ -124,7 +124,8 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 
 1. [Experiment 1: Blinking an LED](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-1-blinking-an-led) in the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 
-## Arduino Sensor Resources
+## Arduino Sensor Resources: How To
+1. Adafruit [guide](http://www.ladyada.net/learn/sensors/) to sensors
 
 1. [Experiment 2: Reading a Potentiometer](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-2-reading-a-potentiometer)
 in the SparkFun Inventor's Kit for Arduino Experimenter's Guide
@@ -134,6 +135,17 @@ by Arduino
 
 1. Photoresistor
 [Instructables](http://www.instructables.com/id/How-to-Use-a-Light-Dependent-Resistor-LDR/)
+
+1. ITP [Analog In with Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
+
+## Arduino Sensor Resources: How To
+1. Infrared sensor
+   - [nice simple guide:](http://oomlout.com/PROX/PROX-Guide.pdf)
+   
+1. Ultrasonic
+
+1. Sound Sensor
+	[Freetronics Microphone Sound Input Module](https://www.freetronics.com.au/products/microphone-sound-input-module#.UVskURziD2F)
 
 ## Arduino Multitasking Resources
 
@@ -169,11 +181,6 @@ to explanations of related concepts every step of the way.
 2. Using switches to control the tone
 [here](http://arduino-tutorials.eu/creating-sounds-with-arduino-buzzer)
 
-## Arduino Sensors Resources
-
-1. Adafruit [guide](http://www.ladyada.net/learn/sensors/) to sensors
-
-1. ITP [Analog In with Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
 
 ### Arduino Types 
 How do you choose the right board for your project?
