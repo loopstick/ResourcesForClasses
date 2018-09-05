@@ -2,8 +2,8 @@
 
 ## Inspiration: Artists, Movies, Projects, etc.
 
-#### List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](http://www.ultrafuzz.net/) (also
-[here](https://vimeo.com/barneyhaynes)) and shown at his Interface classes. 
+#### List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](http://www.ultrafuzz.net/) 
+- [movies](http://eat.cca.edu) shown in his Interface classes - also [here](https://vimeo.com/barneyhaynes)
 
 #### Inspirational videos collected by [J.D.Zamfirescu](https://github.com/zamfi)  
 - Basic robots  
