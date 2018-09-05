@@ -3,8 +3,7 @@
 ## Inspiration: Artists, Movies, Projects, etc.
 
 #### List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](http://www.ultrafuzz.net/) (also
-[here](https://vimeo.com/barneyhaynes)) and shown at his Interface classes. In
-particular
+[here](https://vimeo.com/barneyhaynes)) and shown at his Interface classes. 
 
 #### Inspirational videos collected by [J.D.Zamfirescu](https://github.com/zamfi)  
 - Basic robots  
@@ -30,7 +29,7 @@ particular
   - [Eggbot](https://www.youtube.com/watch?v=w4cdbV2oaEc)
   - [Drawdio](https://www.youtube.com/watch?v=PV_w38ldZaE)
   - [Yasmin Electro Mechanical Sequencer](https://www.youtube.com/watch?v=MjNB3nKPMb8)
-  -[Golan Levin: Art that looks back at you](https://www.youtube.com/watch?v=1G0MzlfMPuM)
+  - [Golan Levin: Art that looks back at you](https://www.youtube.com/watch?v=1G0MzlfMPuM)
 - Drink-makers  
   - [Textspresso](http://www.youtube.com/watch?v=kx9D74t7GD8#t=89)  
   - [The Inebriator](http://www.youtube.com/watch?v=WqY7fchs7H0)  
@@ -41,63 +40,37 @@ particular
   - [Roomba](https://www.youtube.com/watch?v=0DNkbZvVYvc)  
 
 ### Data Visualization Examples
-
-1. [Ben Fry](http://benfry.com/allstreets/)
-
-2. [Aaron Koblin](http://www.aaronkoblin.com/project/flight-patterns/)
-
-3. Jer Thorp
-
-	3.1. [Just
-Landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data)
-
-	3.2. [another](http://nytlabs.com/projects/cascade.html)
-
-	3.3. [nytimes top coverage and
-connections](https://www.flickr.com/photos/blprnt/sets/72157614008027965/with/3288898519/)
-
-4. [Nicholas Feltron](http://feltron.com/FAR14.html)
+ - [Ben Fry](http://benfry.com/allstreets/)
+ - [Aaron Koblin](http://www.aaronkoblin.com/project/flight-patterns/)
+ - Jer Thorp
+   - [Just Landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data)
+   - [another](http://nytlabs.com/projects/cascade.html)
+   - [nytimes top coverage and connections](https://www.flickr.com/photos/blprnt/sets/72157614008027965/with/3288898519/)
+ - [Nicholas Feltron](http://feltron.com/FAR14.html)
 
 ### Mechanical or Primarily Mechanical
 
-1. [Survival Research Labs](http://www.srl.org) Machine or industrial art
-
-2. [Matt Heckert](http://www.mattheckert.com/)
-Machine and kinetic art, machine sound art, and creator of many early SRL
+- [Survival Research Labs](http://www.srl.org) Machine or industrial art
+- [Matt Heckert](http://www.mattheckert.com/) Machine and kinetic art, machine sound art, and creator of many early SRL
 machines
-
-3. [Carl Pisaturo](http://carlpisaturo.com/index.html)
+- [Carl Pisaturo](http://carlpisaturo.com/index.html)
 Artist, master machinist, and inventor, Carl documents his process in detail
 for great learning opportunities. Great examples of complex motions via cables
-
-4. [North Pitney](http://www.northpitney.com/)
+- [North Pitney](http://www.northpitney.com/)
 North Pitney’s amazing [reconfigurable maze](http://www.northpitney.com/works/maze/maze.html) is one of my favorite examples of kinetic art.
-
-5. Arthur Ganson
-makes amazing sculptures using wire gears and mechanisms
+- [Arthur Ganson](http://arthurganson.com/) makes amazing sculptures using wire gears and mechanisms
 [Making wire gears](http://www.youtube.com/watch?v=f0UNz-ayzrE)
 Sample piece: [Meditation #1](http://www.youtube.com/watch?v=kY2Df78faiE)
 Search youTube for many other videos of his work
-
-6. Daniel Rozinin
-[Wooden mirror](http://www.designboom.com/weblog/read.php?CATEGORY_PK=&TOPIC_PK=2897) 
-in which over 800 small blocks of wood are individually rotated slightly to display an image of what the camera
-captures
-
-7. [Theo Jansen](http://www.strandbeest.com/)
-Theo Jansen creates new forms of life using plastic tubing as the basic
-building material. Wind is their "food", and their "stomach" is made of recycled
-plastic bottles.
-Theo’s [The art of creating creatures](http://www.youtube.com/watch?v=b694exl_oZo) 
-presentation at TED in 2006 includes
-a wonderful video of his work and a live demonstration of portions of his
+- [Daniel Rozinin](http://www.smoothware.com/danny/) created a [wooden mirror](http://www.smoothware.com/danny/woodenmirror.html) in which over 800 small blocks of wood are individually rotated slightly to display an image of what the camera captures
+- [Theo Jansen](http://www.strandbeest.com/)
+Theo Jansen creates new forms of life using plastic tubing as the basic building material. Wind is their "food", and their "stomach" is made of recycled plastic bottles. Theo’s [The art of creating creatures](http://www.youtube.com/watch?v=b694exl_oZo) presentation at TED in 2006 includes a wonderful video of his work and a live demonstration of portions of his
 mechanisms. Search youTube for many other videos of his work
-
-8. [Del’s Beautiful New Wooden Machine](http://www.youtube.com/watch?v=u7ziwuIpnVY)
+- [Del’s Beautiful New Wooden Machine](http://www.youtube.com/watch?v=u7ziwuIpnVY)
 An intricate hand-cranked machine demonstrating many types of simple
 mechanisms: cranks, gears, chains, sprockets, offset gears to change speed,
-escapements, conversion of rotary motion to linear motion. Thanks to Tristan
-for bringing this to my attention.
+escapements, conversion of rotary motion to linear motion. 
+- [Chico Macmurtrie](http://amorphicrobotworks.org/)
 
 
 ## Basic Arduino Resources
