@@ -233,8 +233,10 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Download and install Fritzing from [fritzing.org](http://www.fritzing.org)
 - Fritzing’s [Getting Started](http://fritzing.org/learning/get-started/)
 - Getting started with Fritzing’s [Project View](http://fritzing.org/learning/get-started/project-view/)
-- Fritzing Designing PCB [tutorial](http://fritzing.org/learning/tutorials/designing-pcb/)
+- Fritzing's Designing PCB [tutorial](http://fritzing.org/learning/tutorials/designing-pcb/)
 - Michael Shiloh's [repository](https://github.com/michaelshiloh/Fritzing) of assorted Fritzing projects
+ - [PCB: from Concept to design to fabrication and testing using Fritzing](http://www.whatimade.today/pcb-from-concept-to-design-to-fabrication-and-testing-using-fritzing/)
+
 
 ## Circuito.io Resources
 - [Circuito.io](https://www.circuito.io/) is a newer design tool like Fritzing 
