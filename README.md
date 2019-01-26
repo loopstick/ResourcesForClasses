@@ -152,43 +152,42 @@ to explanations of related concepts every step of the way.
 3. 555 astable oscillators
 
 ## Mechatronic Resources
-
-- Pages 272-281 in "Physical Computing: Sensing and Controlling the Physical World with Computers" by Igoe/O'Sullivan, available in the Hybrid Lab
-
--["How to Build Simple Automata" by Robert Addams](https://issuu.com/hmorenop/docs/addams_robert_-_how_to_design_and_m)
-
+- 507 Mechanical Movements](http://507movements.com/about.html), some animated
+- Mechanisms: http://www.technologystudent.com/cams/camdex.htm
+- Servo linkage basics](https://docs.google.com/document/d/1b0QdAfAoI1c5wIIlVZ22a3fBJ51FG91L76lW9aPa-Fs/edit?usp=sharing) 
+- Animated linkage mechanisms](http://www.mekanizmalar.com/menu_linkage.html) 
+- [Short article on servo alignment](http://www.modelairplanenews.com/blog/2012/02/09/total-control-the-right-way-to-set-up-servos/)
+- Library of [kinematic models](http://kmoddl.library.cornell.edu/index.php) for design
+- [Four Bar Linkages simulation](http://singsurf.org/things/fourbar.php)
 - A nice [overview](https://makezine.com/projects/make-your-own-gears/) ofmaking your own gears. Don't worry about the specifics (Inkscape etc.) but get the general concept which can be achieved in many different ways and using different tools.
-
-- "Making Things Move" book, available in the Hybrid Lab and in our library
-
 - [Machinations/Mechanisms](doc/machinations-mechanisms.pdf) by Paul Spooner
-
 -[Gear generator](http://www.geargenerator.com)
-
 - [Free plans](http://cabaret.co.uk/store/downloads/) from Cabaret Mechanical Theatre
-
 - Instructables [tagged](http://www.instructables.com/tag/type-id/keyword-automata/) with the
 keyword Automata
-
 - Nice collection of resources for [Cam and Crank toys](http://re.trotoys.com/projects/cat/cam-crank-toys/)
-
 - Simple [descriptions](http://www.mechanical-toys.com/mechanisums.htm) ofthe 6 basic mechanisms
-
 - Cardboard Automata [pamphlet](https://www.exploratorium.edu/pie/downloads/Cardboard_Automata.pdf)
 from The Exploratorium
-
 - Free plans to download and other [resources](http://dugnorth.com/automaton-plans.aspx) from Dug North, a master
 automata builder
-
-1. How to Make Cardboard Automata [article](http://makezine.com/projects/make-cardboard-automata/) on Make:
+- How to Make Cardboard Automata [article](http://makezine.com/projects/make-cardboard-automata/) on Make:
 Projects website (which itself is a great resource for all sorts of projects).
 
+- [How to select the right size motor](http://www.orientalmotor.com/support/motor-sizing.html)
+
+
+### Mechatronics Books
+- [Cabaret Mechanical Movement](http://cmuems.com/resources/cabaret_mechanical_movement.pdf) by Aiden Lawrence Onn and Gary Alexander
+- [How to Design and Make Automata by Robert Addams](https://drive.google.com/open?id=0B43590UC58A9MXlRU0RTWnhtbkk) also [here](https://issuu.com/hmorenop/docs/addams_robert_-_how_to_design_and_m)
+- [Machinations: Mechanisms](https://drive.google.com/open?id=0B43590UC58A9ZHItNmxiWEs2UEk) by Paul Spooner
+- Pages 272-281 in "Physical Computing: Sensing and Controlling the Physical World with Computers" by Igoe/O'Sullivan, available in the Hybrid Lab
+- "Making Things Move" book, available in the Hybrid Lab and in our library
 
 
 ## Schematics
 - A great [tutorial](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic) on schematics
-- There are many different symbols for MOSFETs depending on subtle difference that we won't be concerned with. 
-   - We have both N-channel and P-channel MOSFETs in the lab, but the ones that we use primarily (and the only ones I've 	discussed in class) are N-channel enhancement mode MOSFETs
+
 
 ## Edge Detection 
 - Arduino [tutorial](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
