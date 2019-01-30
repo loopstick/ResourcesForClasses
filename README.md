@@ -9,11 +9,14 @@
 - Basic robots  
   - [Tree-climbing robot](http://www.youtube.com/watch?v=zkpH1BjD6Wc)  
   - [Self-balancing robot](http://www.youtube.com/watch?v=Tw9Jr-SPL0Y)  
+    - [Jacob Tonski - Balance From Within](https://vimeo.com/41786246)
   - [Insect robot](http://www.youtube.com/watch?v=tOsNXg2vAd4#t=120)  
   - [Treadbot](http://www.youtube.com/watch?v=YblSltHDbIU)  
   - [Velociraptor robot](http://www.youtube.com/watch?v=lPEg83vF_Tw)  
+  - [Frits Lyneborg - Drum Machine robot](https://www.youtube.com/watch?v=Zn5RNgCWD_8)
 - Installations  
   - [The Bay Lights](http://thebaylights.org/)  
+  - [YaYoi Kusama - Infinity Mirrors](https://www.youtube.com/watch?v=mmFBlE4cg3w)
   - [Murmur Wall](http://www.future-cities-lab.net/projects/#/murmurwall/)  
   - [Floating Couch](http://vimeo.com/72826106)  
   - [Wooden Segment Mirror](https://www.youtube.com/watch?v=BZysu9QcceM#t=36)  
@@ -33,6 +36,7 @@
 - Drink-makers  
   - [Textspresso](http://www.youtube.com/watch?v=kx9D74t7GD8#t=89)  
   - [The Inebriator](http://www.youtube.com/watch?v=WqY7fchs7H0)  
+  - [Benjamin Cowden's cocktail machines](http://www.benjamincowden.com/cocktail/)
 - Computer Numerical Control (CNC)  
   - [Shapoko / tinyg](http://www.youtube.com/watch?v=pCC1GXnYfFI#t=11)  
   - [Makerbot Replicator](http://www.youtube.com/watch?v=NAbiAzYhTOQ) 
@@ -280,6 +284,10 @@ Projects website (which itself is a great resource for all sorts of projects).
 ## Transistors
 - Quite decent MOSFET [tutorial](http://www.radio-electronics.com/info/data/semicond/fet-field-effect-transistor/mosfet-basics-tutorial.php)
 - Quite good MOSFET [tutorial and usage guide](https://oscarliang.com/how-to-use-mosfet-beginner-tutorial/)
+
+## Forums
+
+- [Let's Make Robots](https://www.robotshop.com/community/forum/c/letsmakerobots)
 
 
 ## Github Resources
