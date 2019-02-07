@@ -124,7 +124,7 @@ by Arduino
 
 ## Arduino Multitasking Resources (How to blink an LED without using delay)
 
-- [Blink Without Delay Tutorial](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)on the official Arduino website
+- [Blink Without Delay Tutorial](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay) on the official Arduino website
 
 - [Another](https://www.baldengineer.com/millis-tutorial.html) explanation of Blink Without Delay
 
@@ -136,8 +136,7 @@ by Arduino
 - A detailed [explanation](https://programmingelectronics.com/tutorial-16-blink-an-led-without-using-the-delay-function-old-version/) of Blink Without Delay. 
 
 Very detailed line-by-line [explanation](https://www.baldengineer.com/blink-without-delay-explained.html)
-of Blink Without Delay, with links
-to explanations of related concepts every step of the way.
+of Blink Without Delay, with links to explanations of related concepts every step of the way.
 
 
 ## Arduino Tone Resources
