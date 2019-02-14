@@ -53,7 +53,6 @@
  - [Nicholas Feltron](http://feltron.com/FAR14.html)
 
 ### Mechanical or Primarily Mechanical
-
 - [Survival Research Labs](http://www.srl.org) Machine or industrial art
 - [Matt Heckert](http://www.mattheckert.com/) Machine and kinetic art, machine sound art, and creator of many early SRL
 machines
@@ -79,48 +78,35 @@ escapements, conversion of rotary motion to linear motion.
 
 ## Basic Arduino Resources
 - What is Arduino? [Arduino Introduction](https://www.arduino.cc/en/Guide/Introduction)
-
 - Arduino basics: Adafruit's Arduino [tutorials](http://www.ladyada.net/learn/arduino/index.html)
-
 - [Arduino in a Nutshell](http://hci.rwth-aachen.de/arduino)
-
 - Another [Getting Started with Arduino](http://reboot.yoha.co.uk/index.php?title=Getting_Started_with_Arduino)
 	with links to many other sources of information
-
 - [Introduction](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/introduction-sik-arduino-uno)
 to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
-
 - [Jeremy Bloom's Arduino Tutorials](https://www.youtube.com/playlist?list=PL162738B96C8291EB)
-
 - Great Scott Arduino Tutorials (recommended by Luis)
    - [Arduino Basics 101: Hardware Overview, Fundamental Code Commands](https://www.youtube.com/watch?v=BtLwoNJ6klE)
    - [Arduino Basics 102: Control Structures, Variables, Interrupts](https://www.youtube.com/watch?v=YT3birSKLLU)
-   
  
-## Arduino Sensor Resources: 
-- Adafruit [guide](http://www.ladyada.net/learn/sensors/) to sensors
-
-- [Reading a Potentiometer](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-2-reading-a-potentiometer)
-in the SparkFun Inventor's Kit for Arduino Experimenter's Guide
-
-- AnalogReadSerial [tutorial](http://arduino.cc/en/Tutorial/AnalogReadSerial)
-by Arduino
-
-- Photoresistor [Instructables](http://www.instructables.com/id/How-to-Use-a-Light-Dependent-Resistor-LDR/)
-
-- ITP [Analog In with Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
-
-- Infrared sensor
-   - [nice simple guide:](http://oomlout.com/PROX/PROX-Guide.pdf)
-   
-- Ultrasonic
-
-- Sound Sensor: [Freetronics Microphone Sound Input Module](https://www.freetronics.com.au/products/microphone-sound-input-module#.UVskURziD2F)
+ ### Arduino Types 
+- How do you choose the right board for your project?
+[Sparkfun Arduino board comparison](https://www.sparkfun.com/standard_arduino_comparison_guide)
 
 ## How to ...
+- [Blink an LED](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-1-blinking-an-led)
+- [Read a Potentiometer](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-2-reading-a-potentiometer)
+- [Use a Transistor to Control High Current Loads](https://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
 
-- [Blink an LED](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-1-blinking-an-led) in the SparkFun Inventor's Kit for Arduino Experimenter's Guide
-
+## Arduino Sensor Resources: 
+- ITP [Analog In with Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
+- AnalogReadSerial [tutorial](http://arduino.cc/en/Tutorial/AnalogReadSerial) by Arduino
+- Adafruit [guide](http://www.ladyada.net/learn/sensors/) to sensors
+- Photoresistor [Instructables](http://www.instructables.com/id/How-to-Use-a-Light-Dependent-Resistor-LDR/)
+- Infrared sensors
+   - [nice simple guide:](http://oomlout.com/PROX/PROX-Guide.pdf)
+- Ultrasonic sensors
+- Sound Sensor: [Freetronics Microphone Sound Input Module](https://www.freetronics.com.au/products/microphone-sound-input-module#.UVskURziD2F)
 
 ## Arduino Multitasking Resources (How to blink an LED without using delay)
 
@@ -142,11 +128,6 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 ## Arduino Tone Resources
 - Decent explanation [here](https://programmingelectronics.com/an-easy-way-to-make-noise-with-arduino-using-tone/)
 - Using switches to control the tone [here](http://arduino-tutorials.eu/creating-sounds-with-arduino-buzzer)
-
-
-### Arduino Types 
-- How do you choose the right board for your project?
-[Sparkfun Arduino board comparison](https://www.sparkfun.com/standard_arduino_comparison_guide]
 
 ## Making Sounds without Arduino
 1. Basic 40106 (hex Schmitt trigger inverter)
@@ -176,7 +157,6 @@ from The Exploratorium
 automata builder
 - How to Make Cardboard Automata [article](http://makezine.com/projects/make-cardboard-automata/) on Make:
 Projects website (which itself is a great resource for all sorts of projects).
-
 - [How to select the right size motor](http://www.orientalmotor.com/support/motor-sizing.html)
 
 
@@ -224,7 +204,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Processing [Coordinate System and Shapes](http://processing.org/tutorials/drawing/) tutorial
 - Processing [Color](http://processing.org/tutorials/color/) tutorial
 
-## Classes and Objects - Processing
+## Processing - Classes and Objects 
 - Daniel Shiffman’s [Objects](https://processing.org/tutorials/objects/) tutorial (Processing)
 - A simple Processing class [example](http://teachmetomake.com/wordpress/simple-processing-class-example)
 - "[Arduino the Object Oriented way](https://paulmurraycbr.github.io/ArduinoTheOOWay.html)" tutorial
@@ -247,6 +227,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 
 ## Othermill/Bantam Tools Printer Circuit Board mill
 - Getting Started [project](https://support.bantamtools.com/hc/en-us/articles/115003204926-Bantam-Tools-PCB-Badge)
+- Michael Shiloh's excellent Othermill tutorial
 
 ## Wireless Technologies
 - Wifi
@@ -288,6 +269,15 @@ Projects website (which itself is a great resource for all sorts of projects).
 
 - [Let's Make Robots](https://www.robotshop.com/community/forum/c/letsmakerobots)
 
+## Online Electronics retailers
+[Adafruit](https://www.adafruit.com/)
+[Sparkfun](https://www.sparkfun.com/)
+[RobotShop](https://www.robotshop.com/)
+[Solarbotics](https://solarbotics.com/)
+[Tayda Electronics](https://www.taydaelectronics.com/)
+[AllElectronics](https://www.allelectronics.com/)
+[Electronic Goldmine](https://www.goldmine-elec-products.com/)
+[Circuit Specialists](https://www.circuitspecialists.com/)
 
 ## Github Resources
 
