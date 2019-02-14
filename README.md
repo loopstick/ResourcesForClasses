@@ -270,14 +270,14 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Let's Make Robots](https://www.robotshop.com/community/forum/c/letsmakerobots)
 
 ## Online Electronics retailers
-[Adafruit](https://www.adafruit.com/)
-[Sparkfun](https://www.sparkfun.com/)
-[RobotShop](https://www.robotshop.com/)
-[Solarbotics](https://solarbotics.com/)
-[Tayda Electronics](https://www.taydaelectronics.com/)
-[AllElectronics](https://www.allelectronics.com/)
-[Electronic Goldmine](https://www.goldmine-elec-products.com/)
-[Circuit Specialists](https://www.circuitspecialists.com/)
+- [Adafruit](https://www.adafruit.com/)
+- [Sparkfun](https://www.sparkfun.com/)
+- [RobotShop](https://www.robotshop.com/)
+- [Solarbotics](https://solarbotics.com/)
+- [Tayda Electronics](https://www.taydaelectronics.com/)
+- [AllElectronics](https://www.allelectronics.com/)
+- [Electronic Goldmine](https://www.goldmine-elec-products.com/)
+- [Circuit Specialists](https://www.circuitspecialists.com/)
 
 ## Github Resources
 
