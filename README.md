@@ -260,6 +260,7 @@ Projects website (which itself is a great resource for all sorts of projects).
   - Adafruit [Arduino Lesson 15. DC Motor Reversing](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing/arduino-code?view=all)
   - Adafruit [Arduino Lesson 16. Stepper Motors](https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors/overview?view=all)
 - H-bridge [tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
+- [L298 HBridge tutorial](http://tronixstuff.com/2014/11/25/tutorial-l298n-dual-motor-controller-modules-and-arduino/)
 
 ## Transistors
 - Quite decent MOSFET [tutorial](http://www.radio-electronics.com/info/data/semicond/fet-field-effect-transistor/mosfet-basics-tutorial.php)
