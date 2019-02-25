@@ -145,7 +145,6 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - [Four Bar Linkages simulation](http://singsurf.org/things/fourbar.php)
 - A nice [overview](https://makezine.com/projects/make-your-own-gears/) ofmaking your own gears. Don't worry about the specifics (Inkscape etc.) but get the general concept which can be achieved in many different ways and using different tools.
 - [Machinations/Mechanisms](doc/machinations-mechanisms.pdf) by Paul Spooner
--[Gear generator](http://www.geargenerator.com)
 - [Free plans](http://cabaret.co.uk/store/downloads/) from Cabaret Mechanical Theatre
 - Instructables [tagged](http://www.instructables.com/tag/type-id/keyword-automata/) with the
 keyword Automata
@@ -167,6 +166,13 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Pages 272-281 in "Physical Computing: Sensing and Controlling the Physical World with Computers" by Igoe/O'Sullivan, available in the Hybrid Lab
 - "Making Things Move" book, available in the Hybrid Lab and in our library
 
+### How to make Gears
+- [MAKE: your own gears](https://makezine.com/2010/06/28/make-your-own-gears/)
+- [Gear generator](http://www.geargenerator.com)
+- Fusion 360 gear tutorials
+  - [The Easy Way to Design Gears in Fusion 360](https://www.instructables.com/id/The-Easy-Way-to-Design-Gears-in-Fusion-360/)
+  - [How to Make Gears in FUsion 360](https://grabcad.com/tutorials/how-to-make-gear-in-fusion-360-with-gear-calculation)
+  - [3D Printed Bevel Gear](https://www.gearbest.com/forum/topic-t1320.html)
 
 ## Schematics
 - A great [tutorial](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic) on schematics
