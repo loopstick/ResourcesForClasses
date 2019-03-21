@@ -235,6 +235,13 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Getting Started [project](https://support.bantamtools.com/hc/en-us/articles/115003204926-Bantam-Tools-PCB-Badge)
 - Michael Shiloh's excellent Othermill tutorial
 
+## Arduino Audio resources
+- Adafruit [Audio FX Sound Board + Amp](https://www.adafruit.com/product/2217)
+- Adafruit [Wav Shield](https://www.adafruit.com/product/94)
+- Adafruit [Music Maker MP3 Shield](https://www.adafruit.com/product/1790)
+- Open Music Labs [codecshield kit](https://synthcube.com/cart/open-music-labs-codecshield-kit)
+  - full fledged hi-res audio!
+
 ## Wireless Technologies
 - Wifi
   - Hard to use on some networks such as those that require logging inwith credentials or those that prevent peer-to-peer communication
@@ -251,8 +258,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Xbee
 	- Tricky to configure
 	- Very reliable
-
-	- Sparkfun [tutorial](https://learn.sparkfun.com/tutorials/xbee-shield-hookup-guide)
+	- Sparkfun [Xbee shielf hookup guide](https://learn.sparkfun.com/tutorials/xbee-shield-hookup-guide)
 
 - 433 MHz
   - [Part](http://www.oddwires.com/433-mhz-transmitter-and-receiver-modules-great-for-arduino/)
@@ -260,20 +266,28 @@ Projects website (which itself is a great resource for all sorts of projects).
 
 ## Motors
 - [Motors and Selecting the Right One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
-- Adaruit Motor Tutorials
+- Adarfuit Motor Tutorials
   - Adafruit [Arduino Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors?view=all)
-  - Adafruit [Arduino Lesson 14. Servo Motors](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/arduino-code-for-knob?view=all)
   - Adafruit [Arduino Lesson 15. DC Motor Reversing](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing/arduino-code?view=all)
-  - Adafruit [Arduino Lesson 16. Stepper Motors](https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors/overview?view=all)
+- Michael Shiloh's [Controlling Motors from Arduino](https://github.com/michaelshiloh/arduinoAndMotors)
+  
+ ## H-Bridge tutorials 
 - H-bridge [tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
 - [L298 HBridge tutorial](http://tronixstuff.com/2014/11/25/tutorial-l298n-dual-motor-controller-modules-and-arduino/)
+
+## Servo Motors
+ - Adafruit [Arduino Lesson 14. Servo Motors](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/arduino-code-for-knob?view=all)
+
+## Stepper Motors
+ - Adafruit [Arduino Lesson 16. Stepper Motors](https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors/overview?view=all)
+- [Evil Mad Scientist EBB Stepper Driver Board](https://shop.evilmadscientist.com/productsmenu/188)
+- [Adafruit Motor/Stepper/Servo Shield for Arduino v2](https://www.adafruit.com/product/1438)
 
 ## Transistors
 - Quite decent MOSFET [tutorial](http://www.radio-electronics.com/info/data/semicond/fet-field-effect-transistor/mosfet-basics-tutorial.php)
 - Quite good MOSFET [tutorial and usage guide](https://oscarliang.com/how-to-use-mosfet-beginner-tutorial/)
 
 ## Forums
-
 - [Let's Make Robots](https://www.robotshop.com/community/forum/c/letsmakerobots)
 
 ## Online Electronics retailers
@@ -281,13 +295,16 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Sparkfun](https://www.sparkfun.com/)
 - [RobotShop](https://www.robotshop.com/)
 - [Solarbotics](https://solarbotics.com/)
+- [Evil Mad Scientist](https://www.evilmadscientist.com/)
 - [Tayda Electronics](https://www.taydaelectronics.com/)
 - [AllElectronics](https://www.allelectronics.com/)
 - [Electronic Goldmine](https://www.goldmine-elec-products.com/)
 - [Circuit Specialists](https://www.circuitspecialists.com/)
+- [Banggood](https://www.banggood.com)
+- [elecrow](https://www.elecrow.com/)
+- [Seeed Studios](https://us.seeedstudio.com/)
 
 ## Github Resources
-
 1. How to create a Github account and your first repository
 [guide](https://github.com/zamfi/github-guide)
 
@@ -380,6 +397,5 @@ that says "Create new file" or "Upload files". How do I fix this?
 
 ## Wordpress
 
-1. Rather than upload a video to a Wordpress blog (or gitHub repository), it 
-is better to upload video to Vimeo or Youtube and to embed those in your post. [Here](http://www.wpbeginner.com/beginners-guide/how-to-easily-embed-videos-in-wordpress-blog-posts/) are instructions.
+1. Rather than upload a video to a Wordpress blog (or gitHub repository), it is better to upload video to Vimeo or Youtube and to embed those in your post. [Here](http://www.wpbeginner.com/beginners-guide/how-to-easily-embed-videos-in-wordpress-blog-posts/) are instructions.
 
