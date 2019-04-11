@@ -215,6 +215,9 @@ Projects website (which itself is a great resource for all sorts of projects).
 - A simple Processing class [example](http://teachmetomake.com/wordpress/simple-processing-class-example)
 - "[Arduino the Object Oriented way](https://paulmurraycbr.github.io/ArduinoTheOOWay.html)" tutorial
 
+## Connecting Processing to Arduino
+- SparkFun tutorial: [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
+
 ## Soldering
 - Adafruit [guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all) to excellent soldering
 
