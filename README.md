@@ -237,6 +237,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 ## Othermill/Bantam Tools Printer Circuit Board mill
 - Getting Started [project](https://support.bantamtools.com/hc/en-us/articles/115003204926-Bantam-Tools-PCB-Badge)
 - Michael Shiloh's excellent Othermill tutorial
+- [OtherMill video on YouTube](https://www.youtube.com/watch?v=DCGLEa2UUaY)
 
 ## Arduino Audio resources
 - Adafruit [Audio FX Sound Board + Amp](https://www.adafruit.com/product/2217)
