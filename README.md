@@ -263,6 +263,11 @@ Projects website (which itself is a great resource for all sorts of projects).
 - 433 MHz
   - [Part](http://www.oddwires.com/433-mhz-transmitter-and-receiver-modules-great-for-arduino/)
   - [Library](http://www.airspayce.com/mikem/arduino/RadioHead/)(untested)
+  
+  
+- ESP8266
+  - We've heard good things about the ESP8266!
+  - [Things you should know before using esp8266](https://www.hackster.io/PatelDarshil/things-you-should-know-before-using-esp8266-wifi-module-784001)
 
 ## Motors
 - [Motors and Selecting the Right One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
