@@ -175,6 +175,7 @@ Projects website (which itself is a great resource for all sorts of projects).
   - [The Easy Way to Design Gears in Fusion 360](https://www.instructables.com/id/The-Easy-Way-to-Design-Gears-in-Fusion-360/)
   - [How to Make Gears in FUsion 360](https://grabcad.com/tutorials/how-to-make-gear-in-fusion-360-with-gear-calculation)
   - [3D Printed Bevel Gear](https://www.gearbest.com/forum/topic-t1320.html)
+- [Arthur Ganson - making wire gears](http://www.youtube.com/watch?v=f0UNz-ayzrE)
 
 ## Schematics
 - A great [tutorial](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic) on schematics
