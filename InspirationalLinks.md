@@ -1,37 +1,9 @@
 ### Inspirational Artists, Designers, Collectives, Projects,etc
 
-
 List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](http://www.ultrafuzz.net/) 
-
-
-&nbsp; 
-#### Sound Art  - 
- - [Yuri Suzuki - sound artist, designer](http://yurisuzuki.com/artist)<http://yurisuzuki.com/archive/>
- - [Maywa Denki](https://www.maywadenki.com/)
- - [Christina Kubisch](http://www.christinakubisch.de/en/works)
- - [Tim Thompson - Space Palette](https://www.spacepalette.com/)
- - [Eric Singer (LEMUR)](http://www.singerbots.com)
- - [GamelaTron](https://gamelatron.com/)
- - [Gamelan Wizard](http://www.dualplover.com/gamelanwizard/index.html)
- - [Lucas Abela ](http://dualplover.com/abela/)
- - [quintron drum buddy](http://www.drumbuddy.com/)
- - [Marielle Jackobson](http://mariellejakobsons.com/?page_id=509)
- - [Michael Boyd](https://michaelrboyd.com/confessional)
- - [Bryan Jacobs - Subwhistle](http://www.fetafoundation.org/fetaprize/2016/1/1/bryan-jacobs-sub-whistle)
- - [Syzygryd](http://test.nicolation.net/installations/syzygryd/)
- - [Troy Rogers](http://www.troy82.com/)
- - [FLEX (Contraption Quartet)](https://eastbay.makerfaire.com/maker/entry/767/)
- - [Jay Kreimer](http://jaykreimer.com/)
- - [Jay's museum](http://www.jaysmuseum.com/fractaldulcimer.htm)
- - [Logos foundation ](https://www.logosfoundation.org/)
- - [Hugh Davies](https://www.youtube.com/watch?v=wPT9A0IsGgs)<http://sho-zyg.com/>
- - [David Rosenboom](http://www.lovely.com/bios/rosenboom.html)
- - [Yasmin Electro Mechanical Sequencer](https://www.youtube.com/watch?v=MjNB3nKPMb8)
- - [Frits Lyneborg - Drum Machine robot](https://www.youtube.com/watch?v=Zn5RNgCWD_8)
- - [ReacTable](https://www.youtube.com/user/marcosalonso )
- - [Laser harp](http://www.youtube.com/watch?v=sLVXmsbVwUs#t=20 )
 &nbsp;  
-#### Physical Computing - Robots  - 
+&nbsp;   
+#### Physical Computing - Robots  
  - [Survival Research Labs](http://www.srl.org/)
  - [Matt Heckert](http://www.mattheckert.com/)
  - [Carl Pisaturo](http://carlpisaturo.com/index.html)
@@ -82,18 +54,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Takis](https://atelierholsboer.wordpress.com/2015/02/19/takis-the-veneration-of-a-local-hero/)
  - [Tad Ermitano](http://www.1335mabini.com/tad-ermitano-selected-works/)
 &nbsp; 
-#### Drawing Machines - 
- - [Harvey Moon's Drawing Machines](https://www.youtube.com/watch?v=VufMgHvaoG0)
- - [Art Robots](http://vimeo.com/57082262#at=130)
- - [Robo Faber](http://vimeo.com/78771257)
- - [Eggbot](https://www.youtube.com/watch?v=w4cdbV2oaEc)
- - [Drawdio](https://www.youtube.com/watch?v=PV_w38ldZaE)
- - [Neil Mendoza - Hamster Powered Hamster Drawing Machine](http://www.neilmendoza.com/portfolio/hamster-powered-hamster-drawing-machine/)
- - [This is Colossal - Drawing Machines](https://www.thisiscolossal.com/tags/drawing-machines/)
- - [Design Boom - Drawing Machines](https://www.designboom.com/tag/drawing-machines/)
- - [Cycloid Drawing Machine](https://www.youtube.com/watch?v=LxapR3YIozQ)
-&nbsp; 
-#### Art & Design - 
+&nbsp;  
+#### Art & Design
  - [Cubli: Floating Cube](https://www.youtube.com/watch?v=n_6p-1J551Y)
  - [Erika Marthins](http://erikamarthins.com/)
  - [Lisa Park](https://www.thelisapark.com/)
@@ -120,22 +82,64 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Scott Kildall](https://kildall.com/)
  - [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)
 &nbsp; 
-#### Augmented Reality - Virtual Reality - 
+&nbsp;  
+#### Augmented Reality - Virtual Reality 
  - [Mandy Stobo](https://stoboart.com/mandy-stobo)
 &nbsp; 
-#### Data Visualization - 
+&nbsp;  
+#### Data Visualization  
  - [Ben Fry](https://benfry.com/projects/)
  - [Aaron Koblin](http://www.aaronkoblin.com/project/flight-patterns/)
  - [Jer Thorp](https://www.jerthorp.com/)
  - [Nicholas Feltron](http://feltron.com/FAR14.html)
  - [Phillip Stearns - Memory Textile weaving](https://vimeo.com/71044541)
+ &nbsp; 
+&nbsp;  
+#### Drawing Machines 
+ - [Harvey Moon's Drawing Machines](https://www.youtube.com/watch?v=VufMgHvaoG0)
+ - [Art Robots](http://vimeo.com/57082262#at=130)
+ - [Robo Faber](http://vimeo.com/78771257)
+ - [Eggbot](https://www.youtube.com/watch?v=w4cdbV2oaEc)
+ - [Drawdio](https://www.youtube.com/watch?v=PV_w38ldZaE)
+ - [Neil Mendoza - Hamster Powered Hamster Drawing Machine](http://www.neilmendoza.com/portfolio/hamster-powered-hamster-drawing-machine/)
+ - [This is Colossal - Drawing Machines](https://www.thisiscolossal.com/tags/drawing-machines/)
+ - [Design Boom - Drawing Machines](https://www.designboom.com/tag/drawing-machines/)
+ - [Cycloid Drawing Machine](https://www.youtube.com/watch?v=LxapR3YIozQ)
+ &nbsp; 
+  &nbsp; 
+#### Sound Art  
+ - [Yuri Suzuki - sound artist, designer](http://yurisuzuki.com/artist)<http://yurisuzuki.com/archive/>
+ - [Maywa Denki](https://www.maywadenki.com/)
+ - [Christina Kubisch](http://www.christinakubisch.de/en/works)
+ - [Tim Thompson - Space Palette](https://www.spacepalette.com/)
+ - [Eric Singer (LEMUR)](http://www.singerbots.com)
+ - [GamelaTron](https://gamelatron.com/)
+ - [Gamelan Wizard](http://www.dualplover.com/gamelanwizard/index.html)
+ - [Lucas Abela ](http://dualplover.com/abela/)
+ - [quintron drum buddy](http://www.drumbuddy.com/)
+ - [Marielle Jackobson](http://mariellejakobsons.com/?page_id=509)
+ - [Michael Boyd](https://michaelrboyd.com/confessional)
+ - [Bryan Jacobs - Subwhistle](http://www.fetafoundation.org/fetaprize/2016/1/1/bryan-jacobs-sub-whistle)
+ - [Syzygryd](http://test.nicolation.net/installations/syzygryd/)
+ - [Troy Rogers](http://www.troy82.com/)
+ - [FLEX (Contraption Quartet)](https://eastbay.makerfaire.com/maker/entry/767/)
+ - [Jay Kreimer](http://jaykreimer.com/)
+ - [Jay's museum](http://www.jaysmuseum.com/fractaldulcimer.htm)
+ - [Logos foundation ](https://www.logosfoundation.org/)
+ - [Hugh Davies](https://www.youtube.com/watch?v=wPT9A0IsGgs)<http://sho-zyg.com/>
+ - [David Rosenboom](http://www.lovely.com/bios/rosenboom.html)
+ - [Yasmin Electro Mechanical Sequencer](https://www.youtube.com/watch?v=MjNB3nKPMb8)
+ - [Frits Lyneborg - Drum Machine robot](https://www.youtube.com/watch?v=Zn5RNgCWD_8)
+ - [ReacTable](https://www.youtube.com/user/marcosalonso )
+ - [Laser harp](http://www.youtube.com/watch?v=sLVXmsbVwUs#t=20 )
 &nbsp; 
-#### Drink Making Machines - 
+&nbsp;  
+#### Drink Making Machines 
  - [Benjamin Cowden's cocktail machines](http://www.benjamincowden.com/cocktail/)
  - [Textspresso](http://www.youtube.com/watch?v=kx9D74t7GD8#t=89)
  - [The Inebriator](http://www.youtube.com/watch?v=WqY7fchs7H0)
  &nbsp; 
-#### Lo-fi tech art- 
+#### Lo-fi tech art
  - [Brick in a Washing Machine on a Trampoline](https://www.youtube.com/watch?v=779fMc8ubOo)
  - [Propulsion Painting](https://www.youtube.com/watch?v=TuP-26f0wJw)
  - [LED Throwies](http://www.graffitiresearchlab.com/blog/projects/led-throwies/)
