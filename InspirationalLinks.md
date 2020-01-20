@@ -68,7 +68,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [FURS](http://fursr.com/projects)
  - [Five Ton Crane](http://fivetoncrane.org/)
  - [Teamlab ](https://www.teamlab.art/)
- - [Meow Wolf](https://www.youtube.com/watch?v=lWFG9pRpDTA)<https://www.cbsnews.com/video/art-collective-meow-wolf/>
+ - [Meow Wolf](https://www.cbsnews.com/video/art-collective-meow-wolf/)
  - [Nokia Bell Labs E.A.T.](https://www.bell-labs.com/programs/experiments-art-and-technology/)
  - [Generative design](https://www.youtube.com/watch?v=pNkz8wEJljc)
  - [James Turell - light art, land art]( http://jamesturrell.com/work/type/)
@@ -108,7 +108,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  &nbsp; 
   &nbsp; 
 #### Sound Art  
- - [Yuri Suzuki - sound artist, designer](http://yurisuzuki.com/artist)<http://yurisuzuki.com/archive/>
+ - [Yuri Suzuki - sound artist, designer](http://yurisuzuki.com/artist)
  - [Maywa Denki](https://www.maywadenki.com/)
  - [Christina Kubisch](http://www.christinakubisch.de/en/works)
  - [Tim Thompson - Space Palette](https://www.spacepalette.com/)
@@ -126,7 +126,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Jay Kreimer](http://jaykreimer.com/)
  - [Jay's museum](http://www.jaysmuseum.com/fractaldulcimer.htm)
  - [Logos foundation ](https://www.logosfoundation.org/)
- - [Hugh Davies](https://www.youtube.com/watch?v=wPT9A0IsGgs)<http://sho-zyg.com/>
+ - [Hugh Davies](https://www.youtube.com/watch?v=wPT9A0IsGgs)
+ - [Hugh Davies - sho-zyg exhibition](http://sho-zyg.com/)
  - [David Rosenboom](http://www.lovely.com/bios/rosenboom.html)
  - [Yasmin Electro Mechanical Sequencer](https://www.youtube.com/watch?v=MjNB3nKPMb8)
  - [Frits Lyneborg - Drum Machine robot](https://www.youtube.com/watch?v=Zn5RNgCWD_8)
