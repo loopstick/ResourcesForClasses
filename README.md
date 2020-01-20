@@ -88,6 +88,8 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - Great Scott Arduino Tutorials (recommended by Luis)
    - [Arduino Basics 101: Hardware Overview, Fundamental Code Commands](https://www.youtube.com/watch?v=BtLwoNJ6klE)
    - [Arduino Basics 102: Control Structures, Variables, Interrupts](https://www.youtube.com/watch?v=YT3birSKLLU)
+- [Random Nerd Tutorials](https://RandomNerdTutorials.com/projects)
+
  
  ### Arduino Types 
 - How do you choose the right board for your project?
@@ -219,8 +221,9 @@ Projects website (which itself is a great resource for all sorts of projects).
 - SparkFun tutorial: [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
 
 ## Soldering
-- Adafruit [guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all) to excellent soldering
+- [Adafruit soldering guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all) 
 
+ &nbsp;
 ## Fritzing Resources
 - Download and install Fritzing from [fritzing.org](http://www.fritzing.org)
 - Fritzing’s [Getting Started](http://fritzing.org/learning/get-started/)
@@ -229,22 +232,26 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Michael Shiloh's [repository](https://github.com/michaelshiloh/Fritzing) of assorted Fritzing projects
  - [PCB: from Concept to design to fabrication and testing using Fritzing](http://www.whatimade.today/pcb-from-concept-to-design-to-fabrication-and-testing-using-fritzing/)
 
-
 ## Circuito.io Resources
-- [Circuito.io](https://www.circuito.io/) is a newer design tool like Fritzing 
+- [Circuito.io](https://www.circuito.io/) 
 
+## TinkerCad 
+- [TinkerCad](https://www.tinkercad.com/#/)
 
 ## Othermill/Bantam Tools Printer Circuit Board mill
 - Getting Started [project](https://support.bantamtools.com/hc/en-us/articles/115003204926-Bantam-Tools-PCB-Badge)
 - Michael Shiloh's excellent Othermill tutorial
 - [OtherMill video on YouTube](https://www.youtube.com/watch?v=DCGLEa2UUaY)
 
+ 
 ## Arduino Audio resources
 - Adafruit [Audio FX Sound Board + Amp](https://www.adafruit.com/product/2217)
 - Adafruit [Wav Shield](https://www.adafruit.com/product/94)
 - Adafruit [Music Maker MP3 Shield](https://www.adafruit.com/product/1790)
 - Open Music Labs [codecshield kit](https://synthcube.com/cart/open-music-labs-codecshield-kit)
   - full fledged hi-res audio!
+  
+  
 
 ## Wireless Technologies
 - Wifi
@@ -272,6 +279,14 @@ Projects website (which itself is a great resource for all sorts of projects).
 - ESP8266
   - We've heard good things about the ESP8266!
   - [Things you should know before using esp8266](https://www.hackster.io/PatelDarshil/things-you-should-know-before-using-esp8266-wifi-module-784001)
+  - [Adafruit ESP8266 Tutorial] (https://learn.adafruit.com/adafruit-feather-huzzah-esp8266)
+  
+- ESP32
+  - We've heard even better things about the ESP32!
+  - [Adafruit ESP32 Tutorial](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather)
+  - [ESPRESSIf ESP32 Forum](https://esp32.com/viewforum.php?f=19)
+
+
 
 ## Motors
 - [Motors and Selecting the Right One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
@@ -296,7 +311,10 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Quite decent MOSFET [tutorial](http://www.radio-electronics.com/info/data/semicond/fet-field-effect-transistor/mosfet-basics-tutorial.php)
 - Quite good MOSFET [tutorial and usage guide](https://oscarliang.com/how-to-use-mosfet-beginner-tutorial/)
 
+
+
 ## Forums
+- [Arduino Forum](https://forum.arduino.cc/)
 - [Let's Make Robots](https://www.robotshop.com/community/forum/c/letsmakerobots)
 
 ## Online Electronics retailers
@@ -312,6 +330,8 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Banggood](https://www.banggood.com)
 - [elecrow](https://www.elecrow.com/)
 - [Seeed Studios](https://us.seeedstudio.com/)
+
+
 
 ## Github Resources
 1. How to create a Github account and your first repository
