@@ -107,7 +107,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Cycloid Drawing Machine](https://www.youtube.com/watch?v=LxapR3YIozQ)
  &nbsp; 
   &nbsp; 
-#### Sound Art  
+#### Sound Art - Music  
  - [Yuri Suzuki - sound artist, designer](http://yurisuzuki.com/artist)
  - [Maywa Denki](https://www.maywadenki.com/)
  - [Christina Kubisch](http://www.christinakubisch.de/en/works)
@@ -131,8 +131,14 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [David Rosenboom](http://www.lovely.com/bios/rosenboom.html)
  - [Yasmin Electro Mechanical Sequencer](https://www.youtube.com/watch?v=MjNB3nKPMb8)
  - [Frits Lyneborg - Drum Machine robot](https://www.youtube.com/watch?v=Zn5RNgCWD_8)
- - [ReacTable](https://www.youtube.com/user/marcosalonso )
- - [Laser harp](http://www.youtube.com/watch?v=sLVXmsbVwUs#t=20 )
+ - [ReacTable](https://www.youtube.com/user/marcosalonso)
+ - [Laser harp](http://www.youtube.com/watch?v=sLVXmsbVwUs#t=20)
+ - [Wintergatan - Marble Machine](https://www.youtube.com/watch?v=IvUU8joBb1Q)
+ - Trimpin
+  - [Sound of Invention: trailer](https://www.youtube.com/watch?v=ahQKsW0LHEA)
+  - [Sound of Invention: EMP trailer](https://www.youtube.com/watch?v=lWF1Al8lYBs)
+  - [Klavierstucke (Piano pieces)](https://www.youtube.com/watch?v=LroQ6FmfRcc)
+  - [A Kinetic Retrospective](https://www.youtube.com/watch?v=cbxUHVCME-M)
 &nbsp; 
 &nbsp;  
 #### Drink Making Machines 
