@@ -58,6 +58,8 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - Decent explanation [here](https://programmingelectronics.com/an-easy-way-to-make-noise-with-arduino-using-tone/)
 - Using switches to control the tone [here](http://arduino-tutorials.eu/creating-sounds-with-arduino-buzzer)
 
+- Mozzi!
+
 ## Making Sounds without Arduino
 1. Basic 40106 (hex Schmitt trigger inverter)
 		[oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
@@ -93,7 +95,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [How to Design and Make Automata by Robert Addams](https://drive.google.com/open?id=0B43590UC58A9MXlRU0RTWnhtbkk) also [here](https://issuu.com/hmorenop/docs/addams_robert_-_how_to_design_and_m)
 - [Machinations: Mechanisms](https://drive.google.com/open?id=0B43590UC58A9ZHItNmxiWEs2UEk) by Paul Spooner
 - Pages 272-281 in "Physical Computing: Sensing and Controlling the Physical World with Computers" by Igoe/O'Sullivan, available in the Hybrid Lab
-- "Making Things Move" book, available in the Hybrid Lab and in our library
+- [Making Things Move](https://www.makingthingsmove.com/about-the-book/), available in the Hybrid Lab and in our library
 
 ### How to make Gears
 - [MAKE: your own gears](https://makezine.com/2010/06/28/make-your-own-gears/)
@@ -179,7 +181,8 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Open Music Labs [codecshield kit](https://synthcube.com/cart/open-music-labs-codecshield-kit)
   - full fledged hi-res audio!
   
-  
+## Microcontrollers
+ - [Picking a Microcontroller](https://itp.nyu.edu/physcomp/resources/picking-a-microcontroller/)
 
 ## Wireless Technologies
 - Wifi
@@ -214,6 +217,11 @@ Projects website (which itself is a great resource for all sorts of projects).
   - [Adafruit ESP32 Tutorial](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather)
   - [ESPRESSIf ESP32 Forum](https://esp32.com/viewforum.php?f=19)
 
+## LEDs
+- [The Ultimate Guide to Connecting LEDS to Arduino](https://www.makeuseof.com/tag/connect-led-light-strips-arduino/)
+- [Adafruit NeoPixel Überguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
+- [Blinkinlabs](https://shop.blinkinlabs.com/)
+- [PRJC: OctoWS2811](https://www.pjrc.com/teensy/td_libs_OctoWS2811.html)
 
 
 ## Motors
@@ -260,6 +268,11 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Seeed Studios](https://us.seeedstudio.com/)
 
 
+## Resources from other classes
+ - Tom Igoe's collection of resources, examples, and lecture notes for physical computing courses at ITP: [Physical Computing](http://tigoe.com/pcomp/) and [ITP Physical Computing](https://itp.nyu.edu/physcomp/)
+ - [Golan Levin's course links](http://golancourses.net/)
+ - [Interface](http://interface.cca.edu/)
+ 
 
 ## Github Resources
 1. How to create a Github account and your first repository
