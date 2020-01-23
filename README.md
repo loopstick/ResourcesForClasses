@@ -143,9 +143,10 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Processing [Color](http://processing.org/tutorials/color/) tutorial
 
 ## Processing - Classes and Objects 
+- [Hello Processing](https://hello.processing.org/)
 - Daniel Shiffman’s [Objects](https://processing.org/tutorials/objects/) tutorial (Processing)
 - A simple Processing class [example](http://teachmetomake.com/wordpress/simple-processing-class-example)
-- "[Arduino the Object Oriented way](https://paulmurraycbr.github.io/ArduinoTheOOWay.html)" tutorial
+- [Arduino the Object Oriented Way](https://paulmurraycbr.github.io/ArduinoTheOOWay.html) tutorial
 
 ## Connecting Processing to Arduino
 - SparkFun tutorial: [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
@@ -206,7 +207,6 @@ Projects website (which itself is a great resource for all sorts of projects).
   - [Part](http://www.oddwires.com/433-mhz-transmitter-and-receiver-modules-great-for-arduino/)
   - [Library](http://www.airspayce.com/mikem/arduino/RadioHead/)(untested)
   
-  
 - ESP8266
   - We've heard good things about the ESP8266!
   - [Things you should know before using esp8266](https://www.hackster.io/PatelDarshil/things-you-should-know-before-using-esp8266-wifi-module-784001)
@@ -219,6 +219,8 @@ Projects website (which itself is a great resource for all sorts of projects).
 
 ## LEDs
 - [The Ultimate Guide to Connecting LEDS to Arduino](https://www.makeuseof.com/tag/connect-led-light-strips-arduino/)
+- [Complete Guide to Selecting Individually Addressable LED Strips](http://www.thesmarthomehookup.com/the-complete-guide-to-selecting-individually-addressable-led-strips/)
+- [LED Strips, what's the difference? WS2811, WS2812B, 2812Eco, WS2813, WS2815, SK6812, SK9822](https://www.youtube.com/watch?v=QnvircC22hU&feature=youtu.be)
 - [Adafruit NeoPixel Überguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
 - [Blinkinlabs](https://shop.blinkinlabs.com/)
 - [PRJC: OctoWS2811](https://www.pjrc.com/teensy/td_libs_OctoWS2811.html)
