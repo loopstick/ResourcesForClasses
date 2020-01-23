@@ -80,6 +80,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Aaron Soloway](http://www.aaronsoloway.com/)
  - [Chris Milk](http://milk.co/forest-tate)
  - [Scott Kildall](https://kildall.com/)
+ - Christopher Vecchio](http://www.noisemantra.com/)
  - [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)
 &nbsp; 
 &nbsp;  
