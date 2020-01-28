@@ -35,7 +35,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Christian Ristow](http://christianristow.com/)
  - [Hand of Man](https://www.youtube.com/watch?v=rgpf7Rcjf-g)
  - [Neil Mendoza](http://www.neilmendoza.com/)
- - [Aaron Soloway](http://www.aaronsoloway.com/)
+ - [Martin Riches](http://martinriches.de/)
  - [Aaron Kramer](https://www.youtube.com/watch?v=ClFmDoOQb54)
  - [Blooms](http://www.johnedmark.com/)
  - [Evan Roth](http://www.evan-roth.com/)
