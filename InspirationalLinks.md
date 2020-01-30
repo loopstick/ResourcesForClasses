@@ -106,6 +106,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [This is Colossal - Drawing Machines](https://www.thisiscolossal.com/tags/drawing-machines/)
  - [Design Boom - Drawing Machines](https://www.designboom.com/tag/drawing-machines/)
  - [Cycloid Drawing Machine](https://www.youtube.com/watch?v=LxapR3YIozQ)
+ - [Laser Drawing Machine](https://www.instructables.com/id/Laser-Drawing-Machine/)
+ - [SCARA Robot](https://www.instructables.com/id/SCARA-Robot-Learning-About-Foward-and-Inverse-Kine/)
  &nbsp; 
   &nbsp; 
 #### Sound Art - Music  
