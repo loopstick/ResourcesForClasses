@@ -304,14 +304,14 @@ that says "Create new file" or "Upload files". How do I fix this?
 	
 	Answer: You can either:
 
-	1. Delete your repository and create a new one, this time with the box
+	Delete your repository and create a new one, this time with the box
 	checked.
 
-	2.  Click where it says "README" and then click "Commit new file" at the 
+	Click where it says "README" and then click "Commit new file" at the 
 	bottom of the page that comes up. This will create a "README" file.
 
 2. How to upload a file to Github
-	1. Click on "Upload files"
+   - Click on "Upload files"
 
 3. How to create a folder in Github
 
@@ -320,21 +320,21 @@ that says "Create new file" or "Upload files". How do I fix this?
 	when you _upload_ a file. The only way to create a folder is 
 	to create a _new_ file, and then to tell Github to put that new file
 	in a new folder:
-	1. Go to the folder inside which you want to create another folder.
-	2. Click on _Create new file_.
-	3. On the text field for the file name, first write the folder name you
+	- Go to the folder inside which you want to create another folder.
+	- Click on _Create new file_.
+	- On the text field for the file name, first write the folder name you
 		 want to create, then type _/_ (which creates the new folder) and then
 		 the name of the new file you want to create. The name doesn't matter.
-	5. Finally, save your new file by pressing the green _Commit new file_
+	- Finally, save your new file by pressing the green _Commit new file_
 		button at the bottom of the page
-	6. If you don't need the file, you may delete it now that the folder
+	- If you don't need the file, you may delete it now that the folder
 		has been created.
 
-4. How to delete a file
-	1. Browse to the file in your repository that you want to delete.
-	2. At the top of the file, click the icon of the trash can
-	4. Add a short description of why you are deleting this file
-	5. Finally, save your changes by pressing the green _Commit changes_
+4. How to delete a file.
+	- Browse to the file in your repository that you want to delete.
+	- At the top of the file, click the icon of the trash can
+	- Add a short description of why you are deleting this file
+	- Finally, save your changes by pressing the green _Commit changes_
 		button at the bottom of the page
 		
 4. How to rename a folder or file
