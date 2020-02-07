@@ -310,6 +310,12 @@ that says "Create new file" or "Upload files". How do I fix this?
 	Click where it says "README" and then click "Commit new file" at the 
 	bottom of the page that comes up. This will create a "README" file.
 
+5. How do I control the appearance of my README.md file?
+
+	- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+	- [GitHub MarkDown guide](https://guides.github.com/features/mastering-markdown/)
+	- [Markdown Basic syntax](https://www.markdownguide.org/basic-syntax/)
+
 2. How to upload a file to Github
    - Click on "Upload files"
 
@@ -343,23 +349,13 @@ that says "Create new file" or "Upload files". How do I fix this?
 	4. upload file with the correct name 
 	   - remember to download the file you want top rename - if you don't have it already!
 
+4. How to [organize folders and files](https://github.com/blog/1436-moving-and-renaming-files-on-github) 
+	in Github (move and rename)
+
 4. How to upload a code file so that Github formats it as code
 
 	Use the extension along with the file name. Github recognizes that .ino 
 	are code files. Github recognizes many other file extensions as code.
-
-4. How to [organize folders and files]
-(https://github.com/blog/1436-moving-and-renaming-files-on-github) 
-	in Github (move and rename)
-
-5. How do I control the appearance of my README.md file?
-
-	There are many guides to Github Markdown. I find
-	[this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-	particularly useful.
-
-	Any file that has the .md extension will be interpreted by Github as a
-	markdown file.
 
 4. How do I create code blocks within in a markdown (.md) file?
 
@@ -372,7 +368,7 @@ that says "Create new file" or "Upload files". How do I fix this?
 		console.log("notice the blank line before this function?");
 		}
 ```
-5. how do I upload a video?
+5. How do I upload a video?
 	
-	Rather than upload a video to a gitHub repository, it is better to upload video to Vimeo or Youtube and to embed those in your post. 
+	- Rather than upload a video to a gitHub repository, it is better to upload video to Vimeo or Youtube and to embed those in your post. 
 
