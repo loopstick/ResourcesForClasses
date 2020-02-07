@@ -336,6 +336,12 @@ that says "Create new file" or "Upload files". How do I fix this?
 	4. Add a short description of why you are deleting this file
 	5. Finally, save your changes by pressing the green _Commit changes_
 		button at the bottom of the page
+		
+4. How to rename a folder or file
+	1. not possible
+	2. delete the file
+	4. upload file with the correct name 
+	   - remember to download the file you want top rename - if you don't have it already!
 
 4. How to upload a code file so that Github formats it as code
 
@@ -366,8 +372,7 @@ that says "Create new file" or "Upload files". How do I fix this?
 		console.log("notice the blank line before this function?");
 		}
 ```
-
-## Wordpress
-
-1. Rather than upload a video to a Wordpress blog (or gitHub repository), it is better to upload video to Vimeo or Youtube and to embed those in your post. [Here](http://www.wpbeginner.com/beginners-guide/how-to-easily-embed-videos-in-wordpress-blog-posts/) are instructions.
+5. how do I upload a video?
+	
+	Rather than upload a video to a gitHub repository, it is better to upload video to Vimeo or Youtube and to embed those in your post. 
 
