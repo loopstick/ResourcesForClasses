@@ -368,7 +368,14 @@ that says "Create new file" or "Upload files". How do I fix this?
 		console.log("notice the blank line before this function?");
 		}
 ```
-5. How do I upload a video?
+4. How do I insert an image into my ReadMe?
+	- insert images in-line:
+	- put images in an images folder
+	- use this syntax: ![picture](/images/picture.jpg)
+
+4. How do I upload a video?
 	
 	- Rather than upload a video to a gitHub repository, it is better to upload video to Vimeo or Youtube and to embed those in your post. 
+	
+
 
