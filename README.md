@@ -371,7 +371,7 @@ that says "Create new file" or "Upload files". How do I fix this?
 4. How do I insert an image into my ReadMe?
 	- insert images in-line:
 	- put images in an images folder
-	- use this syntax: ![picture](/images/picture.jpg)
+	- use this syntax: ``![picture](/images/picture.jpg)``
 
 4. How do I upload a video?
 	
