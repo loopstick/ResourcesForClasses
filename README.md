@@ -100,11 +100,13 @@ Projects website (which itself is a great resource for all sorts of projects).
 ### How to make Gears
 - [MAKE: your own gears](https://makezine.com/2010/06/28/make-your-own-gears/)
 - [Gear generator](http://www.geargenerator.com)
+
 - Fusion 360 gear tutorials
   - [The Easy Way to Design Gears in Fusion 360](https://www.instructables.com/id/The-Easy-Way-to-Design-Gears-in-Fusion-360/)
   - [How to Make Gears in FUsion 360](https://grabcad.com/tutorials/how-to-make-gear-in-fusion-360-with-gear-calculation)
   - [3D Printed Bevel Gear](https://www.gearbest.com/forum/topic-t1320.html)
 - [Arthur Ganson - making wire gears](http://www.youtube.com/watch?v=f0UNz-ayzrE)
+- [Gears! But Were Afried To Ask: This Old Tony](https://www.youtube.com/watch?v=Q-XOM4E4RZQ)
 
 ## Schematics
 - A great [tutorial](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic) on schematics
@@ -225,6 +227,10 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Blinkinlabs](https://shop.blinkinlabs.com/)
 - [PRJC: OctoWS2811](https://www.pjrc.com/teensy/td_libs_OctoWS2811.html)
 
+## RGB LEDs (discrete)
+ - [Random Nerd Tutorials: How Do RGB LEDs Workd?](https://randomnerdtutorials.com/electronics-basics-how-do-rgb-leds-work/)
+ - [Common Cathode vs Common Anode](https://forum.arduino.cc/index.php?topic=22413.0)
+
 
 ## Motors
 - [Motors and Selecting the Right One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
@@ -249,7 +255,9 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Quite decent MOSFET [tutorial](http://www.radio-electronics.com/info/data/semicond/fet-field-effect-transistor/mosfet-basics-tutorial.php)
 - Quite good MOSFET [tutorial and usage guide](https://oscarliang.com/how-to-use-mosfet-beginner-tutorial/)
 
-
+## Shaft Coupling (for Motors)
+ - [McMaster Carr: shaft couplers to purchase](https://www.mcmaster.com/shaft-couplings)
+ - [OEP Couplers - overkill](https://www.youtube.com/watch?v=MkWQ9bAe5dA)
 
 ## Forums
 - [Arduino Forum](https://forum.arduino.cc/)
