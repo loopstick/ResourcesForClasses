@@ -76,7 +76,7 @@ If your wire is too thick to solder to header pins, use screw terminals instead:
 
 An alternative, especially for power connectors, is to use polarized barrel connectors, e.g. this[jack](https://www.adafruit.com/product/373) and corresponding [plug](https://www.adafruit.com/products/369):
 
-![Coaxial Jack & Plug](image/CoaxJackPlug.jpg)
+![Coaxial Jack & Plug](images/CoaxJackPlug.jpg)
 
 
 
@@ -90,7 +90,7 @@ An alternative, especially for power connectors, is to use polarized barrel conn
        ![Solid wire on perf board](images/SolidOnBoard.jpg)
 
  - So what do you do if you need to attach a stranded wire to a solderless breadboard? Solder a small piece of solid core wire to the stranded wire, and dress it nicely with heat shrink tubing:
- ![Stranded to Solid](image/SolidToStranded.jpg)
+ ![Stranded to Solid](images/SolidToStranded.jpg)
 
 
 ### Strip Wires as Little as Possible
@@ -98,7 +98,7 @@ An alternative, especially for power connectors, is to use polarized barrel conn
  - To avoid this, wires should be stripped no longer than whatever they are connected to.
  - For example, when soldering wires to the short side of header pins, strip the wire to this length. In fact, it is usually easier to strip the wire longer, tin the wire, and then trim it to the desired length.
 
-  ![Stripped too long](image/StrippedTooLong.jpg)
+  ![Stripped too long](images/StrippedTooLong.jpg)
 
 
 ### Use Heat Shrink Tubing Instead of Electrical Tape
@@ -106,7 +106,7 @@ An alternative, especially for power connectors, is to use polarized barrel conn
   - it stays in place better and can be removed by a single cut with sharp knife.
   - clear heat shrink tubing allows you to see that connections are intact:
 
-  ![Clear Heat Shrink](image/ClearHeatShrink.jpg)
+  ![Clear Heat Shrink](images/ClearHeatShrink.jpg)
 
 
 - Colored heat shrink tubing can also be used to color-code wires, such as red for positive and black for negative
