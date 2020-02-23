@@ -4,8 +4,9 @@ Most hardware stores will have a selection of tubing which you can purchase by t
   
 ![Vinyl Tubing](images/VinylTubing.jpg) 
 
-![TT Motor with Vinyl Shaft Coupler](TTMotor_WithVinylShaftCoupler.jpg) 
-1[Hospital Motor with fuel line coupler.jpg](images/HospitalMotor_withFuelLine.jpg)
+![TT Motor with Vinyl Shaft Coupler](images/TTMotor_WithVinylShaftCoupler.jpg) 
+
+![Hospital Motor with fuel line coupler.jpg](images/HospitalMotor_withFuelLine.jpg)
 
 "Spline" for repairing screen windows and doors is generally a good fit for hobby motors.
 
