@@ -57,12 +57,17 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 ## Arduino Tone Resources
 - Decent explanation [here](https://programmingelectronics.com/an-easy-way-to-make-noise-with-arduino-using-tone/)
 - Using switches to control the tone [here](http://arduino-tutorials.eu/creating-sounds-with-arduino-buzzer)
-
 - Mozzi!
 
+## Arduino Audio resources
+- Adafruit [Audio FX Sound Board + Amp](https://www.adafruit.com/product/2217)
+- Adafruit [Wav Shield](https://www.adafruit.com/product/94)
+- Adafruit [Music Maker MP3 Shield](https://www.adafruit.com/product/1790)
+- Open Music Labs [codecshield kit](https://synthcube.com/cart/open-music-labs-codecshield-kit)
+  - full fledged hi-res audio!
+
 ## Making Sounds without Arduino
-1. Basic 40106 (hex Schmitt trigger inverter)
-		[oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
+1. Basic 40106 (hex Schmitt trigger inverter) [oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
 2. Other 40106 [ideas](http://bleeplabs.com/rad-fi-analog/)
 3. 555 astable oscillators
 
@@ -87,7 +92,6 @@ from The Exploratorium
 automata builder
 - How to Make Cardboard Automata [article](http://makezine.com/projects/make-cardboard-automata/) on Make:
 Projects website (which itself is a great resource for all sorts of projects).
-- [How to select the right size motor](http://www.orientalmotor.com/support/motor-sizing.html)
 
 
 ### Mechatronics Books
@@ -156,7 +160,6 @@ Projects website (which itself is a great resource for all sorts of projects).
 ## Soldering
 - [Adafruit soldering guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all) 
 
- &nbsp;
 ## Fritzing Resources
 - Download and install Fritzing from [fritzing.org](http://www.fritzing.org)
 - Fritzing’s [Getting Started](http://fritzing.org/learning/get-started/)
@@ -176,13 +179,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Michael Shiloh's excellent Othermill tutorial
 - [OtherMill video on YouTube](https://www.youtube.com/watch?v=DCGLEa2UUaY)
 
- 
-## Arduino Audio resources
-- Adafruit [Audio FX Sound Board + Amp](https://www.adafruit.com/product/2217)
-- Adafruit [Wav Shield](https://www.adafruit.com/product/94)
-- Adafruit [Music Maker MP3 Shield](https://www.adafruit.com/product/1790)
-- Open Music Labs [codecshield kit](https://synthcube.com/cart/open-music-labs-codecshield-kit)
-  - full fledged hi-res audio!
+
   
 ## Microcontrollers
  - [Picking a Microcontroller](https://itp.nyu.edu/physcomp/resources/picking-a-microcontroller/)
@@ -238,6 +235,7 @@ Projects website (which itself is a great resource for all sorts of projects).
   - Adafruit [Arduino Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors?view=all)
   - Adafruit [Arduino Lesson 15. DC Motor Reversing](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing/arduino-code?view=all)
 - Michael Shiloh's [Controlling Motors from Arduino](https://github.com/michaelshiloh/arduinoAndMotors)
+- [How to select the right size motor](http://www.orientalmotor.com/support/motor-sizing.html)
   
  ## H-Bridge tutorials 
 - H-bridge [tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
