@@ -165,7 +165,8 @@ Note the loops of wire – this is always a good idea. It allows for necessary s
 - These are a little awkward to bring into projects.
   - You might make use of a panel jack, something like [this](https://www.adafruit.com/product/610):
 ![DC panel jack](images/CoaxPanelJack.jpg)
-or [this](https://www.adafruit.com/product/368) female screw terminal connector:
+
+- or [this](https://www.adafruit.com/product/368) female screw terminal connector:
 ![DC inline jack](images/CoaxScrew.jpg)
 
 - If these connectors are such a nuisance why are they used? Because they are polarized, meaning you can’t plug them in backwards.
