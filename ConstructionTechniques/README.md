@@ -1,8 +1,10 @@
-##Electronic Project Construction Techniques
+## Electronic Project Construction Techniques
 After an electronic project (with or without Arduino) has been prototyped and all the bugs have been worked out, the next step should be to construct it in a way that is robust, reliable, and safe. For example, you’d like to hand your project to someone and not have to say “don’t move this and don’t touch here”.
+
+
 In this tutorial we will discuss some of these construction techniques.
 
-###Contents
+### Contents
 		1 Why Should I Care?
 		2 Get off the Solderless Breadboard
 		3 Don’t Solder Modules to your Board, part 1
