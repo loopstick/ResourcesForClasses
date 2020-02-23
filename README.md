@@ -16,11 +16,13 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
    - [Arduino Basics 101: Hardware Overview, Fundamental Code Commands](https://www.youtube.com/watch?v=BtLwoNJ6klE)
    - [Arduino Basics 102: Control Structures, Variables, Interrupts](https://www.youtube.com/watch?v=YT3birSKLLU)
 - [Random Nerd Tutorials](https://RandomNerdTutorials.com/projects)
-
  
  ### Arduino Types 
 - How do you choose the right board for your project?
 [Sparkfun Arduino board comparison](https://www.sparkfun.com/standard_arduino_comparison_guide)
+
+## Microcontrollers
+ - [Picking a Microcontroller](https://itp.nyu.edu/physcomp/resources/picking-a-microcontroller/)
 
 ## How to ...
 - [Blink an LED](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-1-blinking-an-led)
@@ -57,7 +59,7 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 ## Arduino Tone Resources
 - Decent explanation [here](https://programmingelectronics.com/an-easy-way-to-make-noise-with-arduino-using-tone/)
 - Using switches to control the tone [here](http://arduino-tutorials.eu/creating-sounds-with-arduino-buzzer)
-- Mozzi!
+- [Mozzi](https://sensorium.github.io/Mozzi/)
 
 ## Arduino Audio resources
 - Adafruit [Audio FX Sound Board + Amp](https://www.adafruit.com/product/2217)
@@ -104,7 +106,6 @@ Projects website (which itself is a great resource for all sorts of projects).
 ### How to make Gears
 - [MAKE: your own gears](https://makezine.com/2010/06/28/make-your-own-gears/)
 - [Gear generator](http://www.geargenerator.com)
-
 - Fusion 360 gear tutorials
   - [The Easy Way to Design Gears in Fusion 360](https://www.instructables.com/id/The-Easy-Way-to-Design-Gears-in-Fusion-360/)
   - [How to Make Gears in FUsion 360](https://grabcad.com/tutorials/how-to-make-gear-in-fusion-360-with-gear-calculation)
@@ -180,10 +181,6 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [OtherMill video on YouTube](https://www.youtube.com/watch?v=DCGLEa2UUaY)
 
 
-  
-## Microcontrollers
- - [Picking a Microcontroller](https://itp.nyu.edu/physcomp/resources/picking-a-microcontroller/)
-
 ## Wireless Technologies
 - Wifi
   - Hard to use on some networks such as those that require logging inwith credentials or those that prevent peer-to-peer communication
@@ -254,6 +251,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Quite good MOSFET [tutorial and usage guide](https://oscarliang.com/how-to-use-mosfet-beginner-tutorial/)
 
 ## Shaft Coupling (for Motors)
+ - [DIY Shaft Coupling](/ShaftCoupling/README.md) with tubing and spline
  - [McMaster Carr: shaft couplers to purchase](https://www.mcmaster.com/shaft-couplings)
  - [OEP Couplers - overkill](https://www.youtube.com/watch?v=MkWQ9bAe5dA)
 
