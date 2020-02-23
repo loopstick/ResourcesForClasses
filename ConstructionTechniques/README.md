@@ -5,22 +5,20 @@ After an electronic project (with or without Arduino) has been prototyped and al
 In this tutorial we will discuss some of these construction techniques.
 
 ### Contents
-	- [Why Should I Care?](https://github.com/loopstick/ResourcesForClasses/blob/master/ConstructionTechniques/README.md#why-should-i-care)
- - [Why Should I Care?](README.md#why-should-i-care)
  - [Why Should I Care?](#why-should-i-care)
-2 Get off the Solderless Breadboard
-3 Don’t Solder Modules to your Board, part 1
-4 Don’t Solder WIres to your Board, part 2
-5 Disadvantage to the above two methods
-6 Don’t Use Solid Core Wire
-7 Strip Wires as Little as Possible
-8 Use Heat Shrink Tubing Instead of Electrical Tape
-9 Wire Colors Matter
-10 Use the Right Wire Thickness
-11 Multi Conductor Cable
-12 If you have multiple wires going between visible parts of your project, consider using multiple conductor cable:Wire Dressing
-13 Power Connectors
-14 Strain Relief
+ - [Get off the Solderless Breadboard](#Get-off-the-Solderless-Breadboard)
+ - Don’t Solder Modules to your Board, part 1
+ - Don’t Solder WIres to your Board, part 2
+ - Disadvantage to the above two methods
+ - Don’t Use Solid Core Wire
+ - Strip Wires as Little as Possible
+ - Use Heat Shrink Tubing Instead of Electrical Tape
+ - Wire Colors Matter
+ - Use the Right Wire Thickness
+ - Multi Conductor Cable
+ - If you have multiple wires going between visible parts of your project, consider using multiple conductor cable:Wire Dressing
+ - Power Connectors
+ - Strain Relief
 		
 		
 ### Why Should I Care?
