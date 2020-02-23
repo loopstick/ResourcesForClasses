@@ -25,7 +25,6 @@ In this tutorial we will discuss some of these construction techniques.
  - Very simply: To make sure your project works. I would guess that 90% of the time when I am called to fix a formerly working project, it is either because a wire has become disconnected, or a connection has occurred where it shouldn’t. Following these steps will help prevent this from happening and, if it does happen, will make it easier to find and fix the problem.
 
 
-
 ### Get off the Solderless Breadboard
 - The solderless breadboard is great for prototyping, but it is very unreliable. You probably experienced wires or components falling out during transportation, 
 or being pulled out accidentally when moving around. Your circuit needs to be soldered. There are multiple approaches to this:
@@ -38,15 +37,21 @@ or being pulled out accidentally when moving around. Your circuit needs to be so
 		
 		
 ### Don’t Solder Modules to your Board, part 1
-Whatever technique you use to construct your circuit, you should avoid soldering any modules 
+Whatever technique you use to construct your circuit, you should avoid soldering any modules or sensors
 ([Real Time Clocks](https://www.adafruit.com/products/264), [Bluetooth modules](https://www.adafruit.com/products/2633), etc.) to your board. Instead, solder the mating header (male or female) to your board, and plug the modules into the header:
 
+![Socketed Module](images/SocketedModule.jpg)
+
+Similarly, sensors should attached with headers, not directly soldered to your board. This makes it much easier to replace a damaged sesnor or swap sensors for testing:
 ![Socketed Sensor](images/SocketedSensor.jpg)
 
-Note that you can get right angle headers if you prefer. Use a silver Sharpie or paint pen to indicate which way to plug in, to avoid plugging it in backwards
-I can think of only two exceptions to this rule:
-	1.	Space constraints
-	2.	Extreme vibration (e.g. model rocket) requires something that can’t fall out
+ - There might be exceptions to this rule:
+   - Space constraints
+   - Extreme vibration (e.g. model rocket) requires something that can’t fall out
+	
+	
+ - Note that you can get right angle headers if you prefer. 
+ - Use a silver Sharpie or paint pen to indicate which way to plug in, to avoid plugging it in backwards
 	
 	
 ### Don’t Solder Wires to your Board, part 2 
