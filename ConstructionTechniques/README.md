@@ -14,7 +14,7 @@ In this tutorial we will discuss some of these construction techniques.
  - [Strip Wires as Little as Possible](#strip-wires-as-little-as-possible)
  - [Use Heat Shrink Tubing Instead of Electrical Tape](#use-heat-shrink-tubing-instead-of-electrical-tape)
  - [Wire Colors Matter](#wire-colors-matter)
- - [Use the Right Wire Thickness]
+ - [Use the Right Wire Thickness](#use-the-right-wire-thickness)
  - [Multi Conductor Cable](#multi-conductor-cable)
  - [Wire Dressing](#wire-dressing)
  - [Power Connectors](#power-connectors)
@@ -45,7 +45,7 @@ Whatever technique you use to construct your circuit, you should avoid soldering
 
 ![Socketed Module](images/SocketedModule.jpg)
 
-Similarly, sensors should attached with headers, not directly soldered to your board. This makes it much easier to replace a damaged sesnor or swap sensors for testing:
+Similarly, sensors should attached with headers, not directly soldered to your board. This makes it much easier to replace a damaged sensor or swap sensors quickly for testing:
 ![Socketed Sensor](images/SocketedSensor.jpg)
 
   - Exceptions:
@@ -57,11 +57,11 @@ Similarly, sensors should attached with headers, not directly soldered to your b
 
 
 ### Don’t Solder Wires to your Board, part 2 
-As with modules, you should avoid soldering wires directly to your board. Instead, solder the wires to headers (male or female) and solder a mating header to your board:
+- As with modules, you should avoid soldering wires directly to your board.
+  - Instead, solder the wires to headers (male or female) and solder a mating header to your board:
+    - Use a silver Sharpie to indicate which way to plug in, to avoid plugging it in backwards
 
-
-Use a silver Sharpie to indicate which way to plug in, to avoid plugging it in backwards
-If your wire is too thick to solder to header pins, use screw terminals instead:
+  - If your wire is too thick to solder to header pins, use screw terminals instead:
 
 ![Screw Terminals](image/ScrewTerminals.jpg)
 
@@ -72,21 +72,31 @@ If your wire is too thick to solder to header pins, use screw terminals instead:
      - smart designers arrange their sensor connections to avoid applying reverse power.
        - the simple trick is to put positive voltage in the middle, with ground and output on the outsides (of a 3 pin connection)
        - at worst, this kind of connection grounds out the input when plugged in backwards, but no damage results! (typically)
+     - Servo connections are arranged in this manner:
+
+     ![servo cable](images/ServoCable.jpg)    
+
    - Always put the black wire (ground) on one side of the connector, and indicate where the ground should go.
    - You can also print a label and glue it to the connectors or your board.
    - For screw terminals, use clear heat shrink to fix labels around the wires and tape or glue labels on the board.
 
 
  - An alternative, especially for power connectors, is to use polarized barrel connectors, e.g. this [jack](https://www.adafruit.com/product/373) and corresponding [plug](https://www.adafruit.com/products/369):
+
 ![Coaxial Jack & Plug](images/CoaxJackPlug.jpg)
+
  - Molex connectors are another type of connector that can only be plugged in one way
+
  ![Molex 2-pin](images/Molex2pin.jpg)
+
  ![Molex 3-pin](images/Molex3pin.jpg)
+
  - Many other connectors exist, offering various benefits
   - weatherproof
   - locking
   - cool-looking
   - multiple connections
+
   ![multi-conductor connector](images/MultiConnector.jpg)
 
 
@@ -145,7 +155,8 @@ If your wire is too thick to solder to header pins, use screw terminals instead:
 
 ### Multi Conductor Cable
 If you have multiple wires going between visible parts of your project, consider using multiple conductor cable:
-![multi-conductor cable](images/MultiConductor.jpg)
+![multi-conductor cable](images/MultiConductor1.jpg)
+![multi-conductor cable](images/MultiConductor2.jpg)
 
 ### Wire Dressing
 The expression wire dressing refers to organizing and bundling wires neatly. This project for example is not well dressed:
@@ -175,14 +186,18 @@ Note the loops of wire – this is always a good idea. It allows for necessary s
 
 ### Strain Relief
 Whenever wires leave a board or an enclosure think about what might happen if the wire gets yanked. The way to prevent this is to anchor the wire in some way. In this image a pair of holes have been cut near where the wire exits the box, and a zip tie is used to anchor the wire to the box:
+
 ![Strain Relief Zip](images/StrainReliefZip.jpg)
 
 In this project a knot is tied in the wire before it leaves the box, and the knot is glued to the box as well:
+
 ![Strain Relief Knot](images/StrainReliefKnot.jpg)
 
 Here a ziptie is used to prevent the wire from pulling on something potentially delicate inside the box:
+
 ![Internal Strain Relief](images/StrainReliefInternal.jpg)
 
 
 To prevent the wires from being pulled from this solderless breadboard, the builder has anchored the wires to the base of the breadboard:
+
 ![Breadboard Strain Relief](images/StrainReliefBreadboard.jpg)
