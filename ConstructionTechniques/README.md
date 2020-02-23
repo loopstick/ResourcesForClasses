@@ -9,16 +9,16 @@ In this tutorial we will discuss some of these construction techniques.
  - [Get off the Solderless Breadboard](#Get-off-the-Solderless-Breadboard)
  - [Don’t Solder Modules to your Board, part 1](#dont-solder-modules-to-your-board-part-1)
  - [Don’t Solder Wires to your Board, part 2](#dont-solder-modules-to-your-board-part-2)
- - Disadvantage to the above two methods
- - Don’t Use Solid Core Wire
- - Strip Wires as Little as Possible
- - Use Heat Shrink Tubing Instead of Electrical Tape
- - Wire Colors Matter
- - Use the Right Wire Thickness
- - Multi Conductor Cable
- - If you have multiple wires going between visible parts of your project, consider using multiple conductor cable:Wire Dressing
- - Power Connectors
- - Strain Relief
+ - [Disadvantage to the above two methods](#disadvantage-to-the-above-two-methods)
+ - [Don’t Use Solid Core Wire](#dont-use-solid-core-wire)
+ - [Strip Wires as Little as Possible](#strip-wires-as-little-as-possible)
+ - [Use Heat Shrink Tubing Instead of Electrical Tape](#use-heat-shrink-tubing-instead-of-electrical-tape)
+ - [Wire Colors Matter](#wire-colors-matter)
+ - [Use the Right Wire Thickness]
+ - [Multi Conductor Cable](#multi-conductor-cable)
+ - [Wire Dressing](#wire-dressing)
+ - [Power Connectors](#power-connectors)
+ - [Strain Relief](#strain-relief)
 
 
 ### Why Should I Care?
@@ -69,19 +69,29 @@ If your wire is too thick to solder to header pins, use screw terminals instead:
  - What happens if you plug the wires or module in the wrong way?
    - If you’re lucky, nothing, it simply doesn’t work.
    - But some devices will be damaged permanently by this. It is crucial to know the right way to plug things in.
-   - I always put the black wire (ground) on one side of the connector, and use a silver Sharpie to indicate where the ground should go.
+     - smart designers arrange their sensor connections to avoid applying reverse power.
+       - the simple trick is to put positive voltage in the middle, with ground and output on the outsides (of a 3 pin connection)
+       - at worst, this kind of connection grounds out the input when plugged in backwards, but no damage results! (typically)
+   - Always put the black wire (ground) on one side of the connector, and indicate where the ground should go.
    - You can also print a label and glue it to the connectors or your board.
-   - For screw terminals, tape labels around the wires and labels on the board.
+   - For screw terminals, use clear heat shrink to fix labels around the wires and tape or glue labels on the board.
 
 
-An alternative, especially for power connectors, is to use polarized barrel connectors, e.g. this[jack](https://www.adafruit.com/product/373) and corresponding [plug](https://www.adafruit.com/products/369):
-
+ - An alternative, especially for power connectors, is to use polarized barrel connectors, e.g. this [jack](https://www.adafruit.com/product/373) and corresponding [plug](https://www.adafruit.com/products/369):
 ![Coaxial Jack & Plug](images/CoaxJackPlug.jpg)
-
+ - Molex connectors are another type of connector that can only be plugged in one way
+ ![Molex 2-pin](images/Molex2pin.jpg)
+ ![Molex 3-pin](images/Molex3pin.jpg)
+ - Many other connectors exist, offering various benefits
+  - weatherproof
+  - locking
+  - cool-looking
+  - multiple connections
+  ![multi-conductor connector](images/MultiConnector.jpg)
 
 
 ### Don’t Use Solid Core Wire
- - Up to now you used solid core wire because it was easy to plug into your solderless breadboard.
+ - Up to now you used solid core wire or manufactured jumpers because they were easy to plug into your solderless breadboard.
    - Solid core wire has a severe disadvantage: it is brittle and breaks easily when bent more than a few times.
    - Even worse, soldering will create a stress point right where the wire meets the solder, making it much more likely to break.
    - For this reason, you should always use stranded wire in any situation where the wire will move.
@@ -89,7 +99,7 @@ An alternative, especially for power connectors, is to use polarized barrel conn
        - Wires that are soldered from one point on a board to another point on the same board:
        ![Solid wire on perf board](images/SolidOnBoard.jpg)
 
- - So what do you do if you need to attach a stranded wire to a solderless breadboard? Solder a small piece of solid core wire to the stranded wire, and dress it nicely with heat shrink tubing:
+ - So what do you do if you need to attach a stranded wire to a solderless breadboard? Solder a small piece of solid core wire to the stranded wire, and dress it nicely with heat shrink tubing (just like the manufactured jumpers):
  ![Stranded to Solid](images/SolidToStranded.jpg)
 
 
@@ -121,33 +131,57 @@ An alternative, especially for power connectors, is to use polarized barrel conn
 
  - Exceptions:
 	 - Something that comes pre-wired with colors that you can’t control. In this case use heat shrink tubing to indicate the color you want it to be. If you can’t find heat shrink tubing in the color you need, use white heat shrink tubing and color it properly with a permanent marker.
-Use the Right Wire Thickness
-Wire thickness is specified in AWG or gauge. Thicker wires have smaller gauge numbers. Thinner wire takes up less space but tears easily, thicker wire is strong but is hard to work with. The most common wire we use is 22 AWG as it’s a good balance of these features.
-If your project uses a lot of current, e.g. a heavy robot, you might need thicker wire (smaller gauge number) for the wires that carry that current, e.g. from the battery to the speed controller and then to the motor. The rest of the electronics don’t need thicker wire because they carry much less current.
+
+
+### Use the Right Wire Thickness
+ - Wire thickness is specified in AWG or gauge.
+   - Thicker wires have smaller gauge numbers.
+    - Thinner wire takes up less space but tears easily
+    - thicker wire is strong but is hard to work with.
+ - The most common wire we use is 22 AWG as it’s a good balance of these features.
+
+ - If your project uses a lot of current, e.g. a heavy robot, you might need thicker wire (smaller gauge number) for the wires that carry that current, e.g. from the battery to the speed controller and then to the motor.
+ - The rest of the electronics don’t need thicker wire because they carry much less current.
 
 ### Multi Conductor Cable
 If you have multiple wires going between visible parts of your project, consider using multiple conductor cable:
+![multi-conductor cable](images/MultiConductor.jpg)
 
 ### Wire Dressing
 The expression wire dressing refers to organizing and bundling wires neatly. This project for example is not well dressed:
+![not well dressed](images/NotWellDressed.jpg)
 
 This is an example of good cable dressing:
+![well dressed](images/WellDressed.jpg)
 
 Note the loops of wire – this is always a good idea. It allows for necessary slack when disconnecting a wire for any reason
+![service loop](images/ServiceLoop.jpg)
 
 
 ### Power Connectors
-Most power supplies come with round connectors that are called barrel- or coax- connectors:
+- Most power supplies come with round connectors that are called barrel - or coax - connectors:
+![Coaxial Jack & Plug](images/CoaxJackPlug.jpg)
 
-These are a little awkward to bring into projects. You might make use of this or this connector from Adafruit.
-If these connectors are such a nuisance why are they used? Because they are polarized, meaning you can’t plug them in backwards. One big disadvantage of using header pins or screw terminals is nothing prevents you from putting the wrong wire in the wrong place.
+- These are a little awkward to bring into projects.
+  - You might make use of a panel jack, something like [this](https://www.adafruit.com/product/610):
+![DC panel jack](images/CoaxPanelJack.jpg)
+or [this](https://www.adafruit.com/product/368) female screw terminal connector:
+![DC inline jack](images/CoaxScrew.jpg)
+
+- If these connectors are such a nuisance why are they used? Because they are polarized, meaning you can’t plug them in backwards.
+  - One big disadvantage of using header pins or screw terminals is nothing prevents you from putting the wrong wire in the wrong place.
 
 
 ### Strain Relief
 Whenever wires leave a board or an enclosure think about what might happen if the wire gets yanked. The way to prevent this is to anchor the wire in some way. In this image a pair of holes have been cut near where the wire exits the box, and a zip tie is used to anchor the wire to the box:
+![Strain Relief Zip](images/StrainReliefZip.jpg)
 
 In this project a knot is tied in the wire before it leaves the box, and the knot is glued to the box as well:
+![Strain Relief Knot](images/StrainReliefKnot.jpg)
 
 Here a ziptie is used to prevent the wire from pulling on something potentially delicate inside the box:
+![Internal Strain Relief](images/StrainReliefInternal.jpg)
+
 
 To prevent the wires from being pulled from this solderless breadboard, the builder has anchored the wires to the base of the breadboard:
+![Breadboard Strain Relief](images/StrainReliefBreadboard.jpg)
