@@ -5,9 +5,9 @@ After an electronic project (with or without Arduino) has been prototyped and al
 In this tutorial we will discuss some of these construction techniques.
 
 ### Contents
-1 [Why Should I Care?](https://github.com/loopstick/ResourcesForClasses/blob/master/ConstructionTechniques/README.md#why-should-i-care)
-- [Why Should I Care?](README.md#why-should-i-care)
-- [Why Should I Care?](#why-should-i-care)
+	- [Why Should I Care?](https://github.com/loopstick/ResourcesForClasses/blob/master/ConstructionTechniques/README.md#why-should-i-care)
+ - [Why Should I Care?](README.md#why-should-i-care)
+ - [Why Should I Care?](#why-should-i-care)
 2 Get off the Solderless Breadboard
 3 Don’t Solder Modules to your Board, part 1
 4 Don’t Solder WIres to your Board, part 2
