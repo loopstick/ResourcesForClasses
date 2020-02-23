@@ -22,25 +22,22 @@ In this tutorial we will discuss some of these construction techniques.
 		
 		
 ### Why Should I Care?
-Very simply: To make sure your project works. I would guess that 90% of the time when I am called to fix a formerly working project, it is either because a wire has become disconnected, or a connection has occurred where it shouldn’t. Following these steps will help prevent this from happening and, if it does happen, will make it easier to find and fix the problem.
+ - Very simply: To make sure your project works. I would guess that 90% of the time when I am called to fix a formerly working project, it is either because a wire has become disconnected, or a connection has occurred where it shouldn’t. Following these steps will help prevent this from happening and, if it does happen, will make it easier to find and fix the problem.
 
 
 
 ### Get off the Solderless Breadboard
-The solderless breadboard is great for prototyping, but it is very unreliable. You probably experienced wires or components falling out during transportation, 
+- The solderless breadboard is great for prototyping, but it is very unreliable. You probably experienced wires or components falling out during transportation, 
 or being pulled out accidentally when moving around. Your circuit needs to be soldered. There are multiple approaches to this:
-	▪	If your circuit connects to an Arduino, consider using an Arduino Prototyping Shield, such as [this one](https://store.arduino.cc/usa/proto-shield-rev3-uno-size)
-	from Arduino. These are available from other vendors as well, with slight variations that you might find advantageous. What they all have in common are places for the pins that plug right into an Arduino, and a large undedicated perforated area for you to build your circuit.
-	▪	If your circuit does not connect to Arduino, use a [perforated breadboard](https://en.wikipedia.org/wiki/Perfboard) (also called prototyping board or perf board) of your choice, such as [Perma-Proto boards](https://www.adafruit.com/category/466) from Adafruit which provide the connections and form factor of your solderless breadboard and might be easier for beginners. 
-	There are thousands of other sizes and some different shapes (e.g. round or oval). You also have a choice as to whether there are any [pre-made connections](http://www.busboard.com/PR3UC) or [not](http://www.busboard.com/PAD1).
-- [Perf boards](https://www.allelectronics.com/category/455/perf-boards/1.html) are available from most electronics suppliers
-- For a more professional circuit, design and make your own printed circuit board (PCB), for example using [Fritzing and an Othermill](https://web.archive.org/web/20170723212431/http://teachmetomake.com/wordpress/using-fritzing-to-design-an-arduino-shield-and-using-othermill-to-mill-the-board). 
-You can also send your design to various companies that will make your PCB for you, such as [ExpressPCB](http://www.expresspcb.com/)
+  - If your circuit connects to an Arduino, consider using an Arduino Prototyping Shield, such as [this one](https://store.arduino.cc/usa/proto-shield-rev3-uno-size) from Arduino. These are available from other vendors as well, with slight variations that you might find advantageous. What they all have in common are places for the pins that plug right into an Arduino, and a large undedicated perforated area for you to build your circuit.
+   - If your circuit does not connect to Arduino, use a [perforated breadboard](https://en.wikipedia.org/wiki/Perfboard) (also called prototyping board or perf board) of your choice, such as [Perma-Proto boards](https://www.adafruit.com/category/466) from Adafruit which provide the connections and form factor of your solderless breadboard and might be easier for beginners. 
+   - There are thousands of other sizes and some different shapes (e.g. round or oval). You also have a choice as to whether there are any [pre-made connections](http://www.busboard.com/PR3UC) or [not](http://www.busboard.com/PAD1).
+     - [Perf boards](https://www.allelectronics.com/category/455/perf-boards/1.html) are available from most electronics suppliers
+   - For a more professional circuit, design and make your own printed circuit board (PCB), for example using [Fritzing and an Othermill](https://web.archive.org/web/20170723212431/http://teachmetomake.com/wordpress/using-fritzing-to-design-an-arduino-shield-and-using-othermill-to-mill-the-board). 
+   - You can also send your design to various companies that will make your PCB for you, such as [ExpressPCB](http://www.expresspcb.com/)
 		
-	
-	
-	
-###Don’t Solder Modules to your Board, part 1
+		
+### Don’t Solder Modules to your Board, part 1
 Whatever technique you use to construct your circuit, you should avoid soldering any modules 
 ([Real Time Clocks](https://www.adafruit.com/products/264), [Bluetooth modules](https://www.adafruit.com/products/2633), etc.) to your board. Instead, solder the mating header (male or female) to your board, and plug the modules into the header:
 
