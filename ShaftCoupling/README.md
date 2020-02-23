@@ -3,7 +3,9 @@
 Most hardware stores will have a selection of tubing which you can purchase by the foot. Different sizes work for different motors. 
   
   
-![VinylTubing](/images/VinylTubing.jpg)  
+![VinylTubing](/images/VinylTubing.jpg) 
+
+![VinylTubing](VinylTubing.jpg)  
 
 
 "Spline" for repairing screen windows and doors is generally a good fit for hobby motors.
