@@ -13,3 +13,12 @@ Most hardware stores will have a selection of tubing which you can purchase by t
 ![Spline](images/Spline.jpg)
 
 Spline works well to give traction for the toy motors used on [Beetlebots](https://makezine.com/projects/make-12/beetlebots/)
+
+
+## DIY Shaft Couplers - make one!
+
+Drill a centered hole in a small piece of cylindrical material to use as a coupler between your motor shaft and and axle.
+
+Check out the technique described in this blog post for drilling a centered hole in a piece of cylindrical material to be used as a shaft coupler: http://www.thebitbangtheory.com/2013/05/high-torque-encoded-dc-motors-robots-car-window-motors/
+
+
