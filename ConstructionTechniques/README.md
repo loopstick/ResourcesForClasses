@@ -97,7 +97,7 @@ Similarly, sensors should attached with headers, not directly soldered to your b
   - cool-looking
   - multiple connections
   ![multi-conductor connector](images/MultiConnector.jpg)
-    ![multi-conductor connector](images/MultiConnector_7pin.jpg)
+    ![multi-conductor connector](images/MultiConnector_7Pin.jpg)
       ![Bendix](images/BendixClosed.jpg)
         ![Bendix](images/Bendix.jpg)
 
