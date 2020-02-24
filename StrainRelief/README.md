@@ -9,7 +9,7 @@ Use hot glue or zipties
 
 
 
-(Hot glue doesn't work well if you are in a hot place (like the desert) or it the motor is running hard enough to geet hot).
+(Hot glue doesn't work well if you are in a hot place (like the desert) or it the motor is running hard enough to get hot).
 
 
 
