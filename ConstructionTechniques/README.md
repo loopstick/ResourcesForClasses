@@ -89,15 +89,17 @@ Similarly, sensors should attached with headers, not directly soldered to your b
 
  ![Molex 2-pin](images/Molex2pin.jpg)
 
- ![Molex 3-pin](images/Molex3pin.jpg)
+ ![Molex 4-pin](images/Molex4pin.jpg)
 
  - Many other connectors exist, offering various benefits
   - weatherproof
   - locking
   - cool-looking
   - multiple connections
-
   ![multi-conductor connector](images/MultiConnector.jpg)
+    ![multi-conductor connector](images/MultiConnector_7pin.jpg)
+      ![Bendix](images/BendixClosed.jpg)
+        ![Bendix](images/Bendix.jpg)
 
 
 ### Don’t Use Solid Core Wire
@@ -176,7 +178,7 @@ Note the loops of wire – this is always a good idea. It allows for necessary s
 - These are a little awkward to bring into projects.
   - You might make use of a panel jack, something like [this](https://www.adafruit.com/product/610):
 
-  
+
 ![DC panel jack](images/CoaxPanelJack.jpg)
 
 - or [this](https://www.adafruit.com/product/368) female screw terminal connector:
@@ -204,3 +206,4 @@ Here a ziptie is used to prevent the wire from pulling on something potentially 
 To prevent the wires from being pulled from this solderless breadboard, the builder has anchored the wires to the base of the breadboard:
 
 ![Breadboard Strain Relief](images/StrainReliefBreadboard.jpg)
+![Breadboard Strain Relief](images/StrainRelief_IR.jpg)
