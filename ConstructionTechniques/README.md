@@ -96,6 +96,7 @@ Similarly, sensors should attached with headers, not directly soldered to your b
   - locking
   - cool-looking
   - multiple connections
+  
   ![multi-conductor connector](images/MultiConnector.jpg)
     ![multi-conductor connector](images/MultiConnector_7Pin.jpg)
       ![Bendix](images/BendixClosed.jpg)
@@ -109,9 +110,11 @@ Similarly, sensors should attached with headers, not directly soldered to your b
    - For this reason, you should always use stranded wire in any situation where the wire will move.
      - The only exception to this rule is:
        - Wires that are soldered from one point on a board to another point on the same board:
+
        ![Solid wire on perf board](images/SolidOnBoard.jpg)
 
  - So what do you do if you need to attach a stranded wire to a solderless breadboard? Solder a small piece of solid core wire to the stranded wire, and dress it nicely with heat shrink tubing (just like the manufactured jumpers):
+
  ![Stranded to Solid](images/SolidToStranded.jpg)
 
 
@@ -157,6 +160,7 @@ Similarly, sensors should attached with headers, not directly soldered to your b
 
 ### Multi Conductor Cable
 If you have multiple wires going between visible parts of your project, consider using multiple conductor cable:
+
 ![multi-conductor cable](images/MultiConductor1.jpg)
 ![multi-conductor cable](images/MultiConductor2.jpg)
 
@@ -168,11 +172,13 @@ This is an example of good cable dressing:
 ![well dressed](images/WellDressed.jpg)
 
 Note the loops of wire – this is always a good idea. It allows for necessary slack when disconnecting a wire for any reason
+
 ![service loop](images/ServiceLoop.jpg)
 
 
 ### Power Connectors
 - Most power supplies come with round connectors that are called barrel - or coax - connectors:
+
 ![Coaxial Jack & Plug](images/CoaxJackPlug.jpg)
 
 - These are a little awkward to bring into projects.
@@ -209,7 +215,8 @@ Some more examples of strain relief
 ![Breadboard Strain Relief](images/StrainRelief_HotGlue.jpg)
 ![Breadboard Strain Relief](images/StrainRelief_RotoWhisker.jpg)
 
-Sudhu's Minaret Boards and YEMRS wiring - for discussion
+
+### Sudhu's Minaret Boards and YEMRS wiring - for discussion
 
 ![Minaret Board](images/MinaretBoard.jpg)
 ![YEMRS wiring](images/YEMRS_wiring.jpg)
