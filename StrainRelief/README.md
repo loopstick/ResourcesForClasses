@@ -1,14 +1,15 @@
 ## Strain Relief!
   
 Making sure that your delicate electrical connections don't get yanked out is a great idea! 
-  
+ 
 
-Use hot glue (unless you are in a hot place (like the desert)).
+Use hot glue or zipties 
 
-![StrainRelief_HotGlue](images/StrainRelief_HotGlue.jpg)
+![StrainRelief_motors](images/StrainRelief_motors.jpg)
 
-Or zip ties 
 
-![StrainRelief_ZipTie](images/StrainRelief_ZipTie.jpg)
+
+(Hot glue doesn't work well if you are in a hot place (like the desert) or it the motor is running hard enough to geet hot).
+
 
 
