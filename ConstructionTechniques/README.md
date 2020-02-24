@@ -203,7 +203,13 @@ Here a ziptie is used to prevent the wire from pulling on something potentially 
 ![Internal Strain Relief](images/StrainReliefInternal.jpg)
 
 
-To prevent the wires from being pulled from this solderless breadboard, the builder has anchored the wires to the base of the breadboard:
+Some more examples of strain relief
 
-![Breadboard Strain Relief](images/StrainReliefBreadboard.jpg)
 ![Breadboard Strain Relief](images/StrainRelief_IR.jpg)
+![Breadboard Strain Relief](images/StrainRelief_HotGlue.jpg)
+![Breadboard Strain Relief](images/StrainRelief_RotoWhisker.jpg)
+
+Sudhu's Minaret Boards and YEMRS wiring - for discussion
+
+![Minaret Board](images/MinaretBoard.jpg)
+![YEMRS wiring](images/YEMRS_wiring.jpg)
