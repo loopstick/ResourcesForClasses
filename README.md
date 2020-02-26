@@ -16,6 +16,9 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
    - [Arduino Basics 101: Hardware Overview, Fundamental Code Commands](https://www.youtube.com/watch?v=BtLwoNJ6klE)
    - [Arduino Basics 102: Control Structures, Variables, Interrupts](https://www.youtube.com/watch?v=YT3birSKLLU)
 - [Random Nerd Tutorials](https://RandomNerdTutorials.com/projects)
+- [Arduino related Instructables](https://www.instructables.com/circuits/arduino/projects/)
+- Google anything you can think of and the word “Arduino”
+- One website’s opinion of the [top 40 Arduino Projects](http://hacknmod.com/hack/top-40-arduino-projects-of-the-web/)
  
  ### Arduino Types 
 - How do you choose the right board for your project?
@@ -30,6 +33,7 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - [Use a Transistor to Control High Current Loads](https://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
 
 ## Arduino Sensor Resources: 
+- ITP: Sensors - the Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
 - ITP [Analog In with Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
 - AnalogReadSerial [tutorial](http://arduino.cc/en/Tutorial/AnalogReadSerial) by Arduino
 - Adafruit [guide](http://www.ladyada.net/learn/sensors/) to sensors
@@ -38,6 +42,9 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
    - [nice simple guide:](http://oomlout.com/PROX/PROX-Guide.pdf)
 - Ultrasonic sensors
 - Sound Sensor: [Freetronics Microphone Sound Input Module](https://www.freetronics.com.au/products/microphone-sound-input-module#.UVskURziD2F)
+
+## Interfacing with Hardware
+ - [Interfacing with Hardware](http://playground.arduino.cc/Main/InterfacingWithHardware)
 
 ## Arduino Multitasking Resources (How to blink an LED without using delay)
 
@@ -258,6 +265,20 @@ Projects website (which itself is a great resource for all sorts of projects).
 ## Forums
 - [Arduino Forum](https://forum.arduino.cc/)
 - [Let's Make Robots](https://www.robotshop.com/community/forum/c/letsmakerobots)
+- [Arduino Google+](https://plus.google.com/+Arduino)
+- [Massive list of resources](http://arduino.cc/forum/index.php?board=3.0)
+
+## Resources from other classes
+ - Tom Igoe's collection of resources, examples, and lecture notes for physical computing courses at ITP: [Physical Computing](http://tigoe.com/pcomp/) and [ITP Physical Computing](https://itp.nyu.edu/physcomp/)
+ - [Golan Levin's course links](http://golancourses.net/)
+ - [Interface](http://interface.cca.edu/)
+
+#### Websites with parts, tutorials, examples
+- [Arduino](http://arduino.cc/)
+- [Adafruit Industries](https://www.adafruit.com/)
+- [Sparkfun](https://www.sparkfun.com/)
+- [Tronixstuff](https://tronixstuff.wordpress.com/)
+- [NYU ITP](http://itp.nyu.edu/physcomp/Tutorials/Tutorials)
 
 ## Online Electronics retailers
 - [Adafruit](https://www.adafruit.com/)
@@ -266,6 +287,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Solarbotics](https://solarbotics.com/)
 - [Evil Mad Scientist](https://www.evilmadscientist.com/)
 - [Tayda Electronics](https://www.taydaelectronics.com/)
+- [Marlin P. Jones](http://www.mpja.com/)
 - [AllElectronics](https://www.allelectronics.com/)
 - [Electronic Goldmine](https://www.goldmine-elec-products.com/)
 - [Circuit Specialists](https://www.circuitspecialists.com/)
@@ -273,11 +295,16 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [elecrow](https://www.elecrow.com/)
 - [Seeed Studios](https://us.seeedstudio.com/)
 
+#### Local shops with very knowledgeable staff
+- [Al Lasher’s](http://allashers.com/) (Berkeley)
 
-## Resources from other classes
- - Tom Igoe's collection of resources, examples, and lecture notes for physical computing courses at ITP: [Physical Computing](http://tigoe.com/pcomp/) and [ITP Physical Computing](https://itp.nyu.edu/physcomp/)
- - [Golan Levin's course links](http://golancourses.net/)
- - [Interface](http://interface.cca.edu/)
+*Local places to work on projects and get informal help*
+- [Open hack night](http://techliminal.com/open-hack-night/) every Wednesday at Tech Liminal in Oakland
+- Hacker spaces often welcome non-members to bring projects or questions
+- [Noisebridge](https://www.noisebridge.net/) (San Francisco)
+- [Sudo room](https://sudoroom.org/) (Oakland)
+- [Hacker Dojo](http://www.hackerdojo.com/) (Mountain View)
+- [Ace Monster Toys](http://acemonstertoys.org/) (Oakland)
  
 
 ## Github Resources
