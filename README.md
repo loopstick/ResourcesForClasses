@@ -33,8 +33,8 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - [Use a Transistor to Control High Current Loads](https://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
 
 ## Arduino Sensor Resources: 
-- ITP: Sensors - the Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
-- ITP [Analog In with Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
+- [ITP: Sensors - the Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
+- [ITP: Analog In with Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
 - AnalogReadSerial [tutorial](http://arduino.cc/en/Tutorial/AnalogReadSerial) by Arduino
 - Adafruit [guide](http://www.ladyada.net/learn/sensors/) to sensors
 - Photoresistor [Instructables](http://www.instructables.com/id/How-to-Use-a-Light-Dependent-Resistor-LDR/)
