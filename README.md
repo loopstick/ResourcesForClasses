@@ -405,8 +405,10 @@ that says "Create new file" or "Upload files". How do I fix this?
 	- use this syntax: ``![picture](/images/picture.jpg)``
 
 4. How do I upload a video?
-	
-	- Rather than upload a video to a gitHub repository, it is better to upload video to Vimeo or Youtube and to embed those in your post. 
+   - Rather than upload a video to a gitHub repository, it is better to upload video to Vimeo or Youtube and to embed those in your post. 
+   - **Even better - convert short video to GIF and post the GIF like an image!!!**
+     - use this syntax: ``![GIFvideo](/images/GIFvideo.gif)``
+     - the GIF will play in your README.md
 	
 
 
