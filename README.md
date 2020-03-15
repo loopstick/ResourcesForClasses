@@ -119,6 +119,7 @@ Projects website (which itself is a great resource for all sorts of projects).
   - [3D Printed Bevel Gear](https://www.gearbest.com/forum/topic-t1320.html)
 - [Arthur Ganson - making wire gears](http://www.youtube.com/watch?v=f0UNz-ayzrE)
 - [Gears! But Were Afried To Ask: This Old Tony](https://www.youtube.com/watch?v=Q-XOM4E4RZQ)
+- [Bushing and Gears: This Old Tony](https://www.youtube.com/watch?v=PFqjQ3l1MRA)
 
 ## Schematics
 - A great [tutorial](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic) on schematics
