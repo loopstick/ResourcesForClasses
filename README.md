@@ -32,17 +32,37 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - [Read a Potentiometer](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-2-reading-a-potentiometer)
 - [Use a Transistor to Control High Current Loads](https://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
 
-## Arduino Sensor Resources: 
+## Sensor Resources - General: 
 - [ITP: Sensors - the Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
 - [ITP: Analog In with Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
 - AnalogReadSerial [tutorial](http://arduino.cc/en/Tutorial/AnalogReadSerial) by Arduino
 - Adafruit [guide](http://www.ladyada.net/learn/sensors/) to sensors
+- [Sensors Portal.com)[https://www.sensorsportal.com/HTML/Sensor.htm]
+
+### Sensor Resources - Light/Motion
 - Photoresistor [Instructables](http://www.instructables.com/id/How-to-Use-a-Light-Dependent-Resistor-LDR/)
 - Infrared sensors
-   - [nice simple guide:](http://oomlout.com/PROX/PROX-Guide.pdf)
+  - [nice simple guide:](http://oomlout.com/PROX/PROX-Guide.pdf)
 - Ultrasonic sensors
+  - [NewPing - Arduino Playground](https://playground.arduino.cc/Code/NewPing/)
+  - [NewPing library](https://github.com/microflo/NewPing)
+- PIR sensors
+  - Adafruit [Using a PIR with Arduino](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/using-a-pir-w-arduino)
+  
+### Sensor Resources - Audio 
 - Sound Sensor: [Freetronics Microphone Sound Input Module](https://www.freetronics.com.au/products/microphone-sound-input-module#.UVskURziD2F)
 
+## Sensor Communication Protocols
+### I2C
+ - [How I2C Communication Works and How To Use It with Arduino](https://howtomechatronics.com/tutorials/arduino/how-i2c-communication-works-and-how-to-use-it-with-arduino/)
+ - [I2C Sensor Examples](  https://labjack.com/support/software/examples/lua-scripting/i2c)
+
+### SPI
+ - [Serial Peripheral interface](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all)
+ 
+### I2S 
+ - [Inter-IC Sound](https://en.wikipedia.org/wiki/I%C2%B2S)
+ 
 ## Interfacing with Hardware
  - [Interfacing with Hardware](http://playground.arduino.cc/Main/InterfacingWithHardware)
 
@@ -61,7 +81,6 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 
 Very detailed line-by-line [explanation](https://www.baldengineer.com/blink-without-delay-explained.html)
 of Blink Without Delay, with links to explanations of related concepts every step of the way.
-
 
 ## Arduino Tone Resources
 - Decent explanation [here](https://programmingelectronics.com/an-easy-way-to-make-noise-with-arduino-using-tone/)
