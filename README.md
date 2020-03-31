@@ -37,10 +37,11 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - [ITP: Analog In with Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
 - AnalogReadSerial [tutorial](http://arduino.cc/en/Tutorial/AnalogReadSerial) by Arduino
 - Adafruit [guide](http://www.ladyada.net/learn/sensors/) to sensors
-- [Sensors Portal.com)[https://www.sensorsportal.com/HTML/Sensor.htm]
+- [Sensors Portal.com](https://www.sensorsportal.com/HTML/Sensor.htm)
 
 ### Sensor Resources - Light/Motion
-- Photoresistor [Instructables](http://www.instructables.com/id/How-to-Use-a-Light-Dependent-Resistor-LDR/)
+- LDR / Photoresistor 
+  -[How to use a Light Dependent Resistor](http://www.instructables.com/id/How-to-Use-a-Light-Dependent-Resistor-LDR/)
 - Infrared sensors
   - [nice simple guide:](http://oomlout.com/PROX/PROX-Guide.pdf)
 - Ultrasonic sensors
