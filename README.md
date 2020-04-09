@@ -52,6 +52,9 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
   
 ### Sensor Resources - Audio 
 - Sound Sensor: [Freetronics Microphone Sound Input Module](https://www.freetronics.com.au/products/microphone-sound-input-module#.UVskURziD2F)
+- [Arduino Audio Input](https://www.instructables.com/id/Arduino-Audio-Input/) Instructable
+- [Arduino Frequency Detection](https://www.instructables.com/id/Arduino-Frequency-Detection/) Instructable
+- [Sound Sensor based on ZX sound board](https://www.instructables.com/id/Sound-Pressure-sensor-for-Arduino-based-on-ZX-soun/) 
 
 ## Sensor Communication Protocols
 ### I2C
