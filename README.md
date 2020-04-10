@@ -251,6 +251,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Adafruit NeoPixel Überguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
 - [Blinkinlabs](https://shop.blinkinlabs.com/)
 - [PRJC: OctoWS2811](https://www.pjrc.com/teensy/td_libs_OctoWS2811.html)
+- [Sipping Power with NeoPixels (or any type of LEDs)](https://learn.adafruit.com/sipping-power-with-neopixels)
 
 ## RGB LEDs (discrete)
  - [Random Nerd Tutorials: How Do RGB LEDs Workd?](https://randomnerdtutorials.com/electronics-basics-how-do-rgb-leds-work/)
