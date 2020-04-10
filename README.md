@@ -93,6 +93,7 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 
 ## Capacitive Touch Arduino Keyboards
 - [Capacitive-Touch Keyboard](https://www.instructables.com/id/Capacitive-Touch-Arduino-Keyboard-Piano/)
+- [Capacitive Sensing for Dummies](https://www.instructables.com/id/Capacitive-Sensing-for-Dummies/)
 
 ## Arduino MIDI controllers
 - [Capactive Touch Midi Controller](https://www.youtube.com/watch?v=DQ7lrEOZrwc)
