@@ -91,6 +91,13 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - Using switches to control the tone [here](http://arduino-tutorials.eu/creating-sounds-with-arduino-buzzer)
 - [Mozzi](https://sensorium.github.io/Mozzi/)
 
+## Capacitive Touch Arduino Keyboards
+- [Capacitive-Touch Keyboard](https://www.instructables.com/id/Capacitive-Touch-Arduino-Keyboard-Piano/)
+
+## Arduino MIDI controllers
+- [Capactive Touch Midi Controller](https://www.youtube.com/watch?v=DQ7lrEOZrwc)
+- [Building a MIDI Controller Using Arduino](https://www.youtube.com/watch?v=JZ5yPdoPooU)
+
 ## Arduino Audio resources
 - Adafruit [Audio FX Sound Board + Amp](https://www.adafruit.com/product/2217)
 - Adafruit [Wav Shield](https://www.adafruit.com/product/94)
