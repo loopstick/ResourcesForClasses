@@ -42,8 +42,9 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - Button/Switch
 - [Potentiometer](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-2-reading-a-potentiometer)
 - [Rotary Encoder](https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/)
-- FSR (Force Sensitive Resistor)
-- Capacitive Touch
+- [FSR (Force Sensitive Resistor)](https://lastminuteengineers.com/fsr-arduino-tutorial/)
+- [Flex Sensor](https://lastminuteengineers.com/flex-sensor-arduino-tutorial/)
+- [Capacitive Touch](https://playground.arduino.cc/Main/CapacitiveSensor/)
 
 ### Sensor Resources - Light/Motion/Distance
 - LDR / Photoresistor 
