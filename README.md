@@ -43,10 +43,13 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - LDR / Photoresistor 
   -[How to use a Light Dependent Resistor](http://www.instructables.com/id/How-to-Use-a-Light-Dependent-Resistor-LDR/)
 - Infrared sensors
+  - simple [Distance Measuring (IR) Sensor](https://create.arduino.cc/projecthub/jenniferchen/distance-measuring-sensor-900520)
+  - [How to use SHARP Infrared Sensors](https://www.makerguides.com/sharp-gp2y0a21yk0f-ir-distance-sensor-arduino-tutorial/)
   - [nice simple guide:](http://oomlout.com/PROX/PROX-Guide.pdf)
 - Ultrasonic sensors
   - [NewPing - Arduino Playground](https://playground.arduino.cc/Code/NewPing/)
-  - [NewPing library](https://github.com/microflo/NewPing)
+    - [NewPing library](https://github.com/microflo/NewPing)
+  - [UltraSonic library](https://github.com/ErickSimoes/Ultrasonic)
 - PIR sensors
   - Adafruit [Using a PIR with Arduino](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/using-a-pir-w-arduino)
   
