@@ -265,6 +265,9 @@ Projects website (which itself is a great resource for all sorts of projects).
   - We've heard even better things about the ESP32!
   - [Adafruit ESP32 Tutorial](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather)
   - [ESPRESSIf ESP32 Forum](https://esp32.com/viewforum.php?f=19)
+  
+## LCD - Liquid Crystal Display
+ - Last Minute Engineers [LCD Tutorial](https://lastminuteengineers.com/arduino-1602-character-lcd-tutorial/)
 
 ## LEDs
 - [The Ultimate Guide to Connecting LEDS to Arduino](https://www.makeuseof.com/tag/connect-led-light-strips-arduino/)
@@ -291,6 +294,8 @@ Projects website (which itself is a great resource for all sorts of projects).
  ## H-Bridge tutorials 
 - H-bridge [tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
 - [L298 HBridge tutorial](http://tronixstuff.com/2014/11/25/tutorial-l298n-dual-motor-controller-modules-and-arduino/)
+- Last Minute Engineers [L298N DC Motor Driver](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/)
+- Last Minute Engineers [L298N Stepper Driver](https://lastminuteengineers.com/stepper-motor-l298n-arduino-tutorial/)
 
 ## Servo Motors
  - Adafruit [Arduino Lesson 14. Servo Motors](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/arduino-code-for-knob?view=all)
