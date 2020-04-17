@@ -29,7 +29,6 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 
 ## How to ...
 - [Blink an LED](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-1-blinking-an-led)
-- [Read a Potentiometer](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-2-reading-a-potentiometer)
 - [Use a Transistor to Control High Current Loads](https://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
 
 ## Sensor Resources - General: 
@@ -39,7 +38,14 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - Adafruit [guide](http://www.ladyada.net/learn/sensors/) to sensors
 - [Sensors Portal.com](https://www.sensorsportal.com/HTML/Sensor.htm)
 
-### Sensor Resources - Light/Motion
+## Sensor Resources - Tactile interfaces: 
+- Button/Switch
+- [Potentiometer](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-2-reading-a-potentiometer)
+- [Rotary Encoder](https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/)
+- FSR (Force Sensitive Resistor)
+- Capacitive Touch
+
+### Sensor Resources - Light/Motion/Distance
 - LDR / Photoresistor 
   -[How to use a Light Dependent Resistor](http://www.instructables.com/id/How-to-Use-a-Light-Dependent-Resistor-LDR/)
 - Infrared sensors
@@ -50,9 +56,14 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
   - [NewPing - Arduino Playground](https://playground.arduino.cc/Code/NewPing/)
     - [NewPing library](https://github.com/microflo/NewPing)
   - [UltraSonic library](https://github.com/ErickSimoes/Ultrasonic)
+  - Last Minute Engineers [Ultrasonic sensor tutorial](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/)
 - PIR sensors
   - Adafruit [Using a PIR with Arduino](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/using-a-pir-w-arduino)
-  
+  - Last Minute Engineers [PIR sensor](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/) tutorial
+- Doppler Radar Motion Sensors
+  - [Doppler RADAR Motion Sensor 3.2GHz-MPJA.COM](https://www.mpja.com/Doppler-RADAR-Motion-Sensor-32GHz/productinfo/34685%20MP/)
+
+
 ### Sensor Resources - Audio 
 - Sound Sensor: [Freetronics Microphone Sound Input Module](https://www.freetronics.com.au/products/microphone-sound-input-module#.UVskURziD2F)
 - [Arduino Audio Input](https://www.instructables.com/id/Arduino-Audio-Input/) Instructable
