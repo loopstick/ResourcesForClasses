@@ -51,10 +51,6 @@ Serial.print("\t Distance: ");
 Serial.print(distance);
 delay(10);
 
-// if (redBrightness<130){
-//  redBrightness=0;
-//  }
-
 constrain(distance, 0, 200);
 redBrightness = map(distance, 200, 0, 0, 255);
 // set the brightness of RED - pin 9:
