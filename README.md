@@ -31,6 +31,9 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - [Blink an LED](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-1-blinking-an-led)
 - [Use a Transistor to Control High Current Loads](https://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
 
+## How NOT to ...
+ - [10 ways to destroy an Arduino](https://www.rugged-circuits.com/10-ways-to-destroy-an-arduino)
+
 ## Sensor Resources - General: 
 - [ITP: Sensors - the Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
 - [ITP: Analog In with Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
