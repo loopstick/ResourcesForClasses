@@ -260,6 +260,9 @@ Projects website (which itself is a great resource for all sorts of projects).
   - [Part](http://www.oddwires.com/433-mhz-transmitter-and-receiver-modules-great-for-arduino/)
   - [Library](http://www.airspayce.com/mikem/arduino/RadioHead/)(untested)
   
+- NRF42L01
+  - https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/
+  
 - ESP8266
   - We've heard good things about the ESP8266!
   - [Things you should know before using esp8266](https://www.hackster.io/PatelDarshil/things-you-should-know-before-using-esp8266-wifi-module-784001)
