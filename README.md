@@ -123,6 +123,9 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - Adafruit [Music Maker MP3 Shield](https://www.adafruit.com/product/1790)
 - Open Music Labs [codecshield kit](https://synthcube.com/cart/open-music-labs-codecshield-kit)
   - full fledged hi-res audio!
+- DF Player Mini
+  - http://educ8s.tv/arduino-mp3-player/ (recommended by Tom Zimmerman at Dorkbot)
+  - https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
 
 ## Making Sounds without Arduino
 1. Basic 40106 (hex Schmitt trigger inverter) [oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
