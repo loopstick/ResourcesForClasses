@@ -370,6 +370,10 @@ Projects website (which itself is a great resource for all sorts of projects).
  
 
 ## Github Resources
+
+All about GitHub videos by Daniel Shiftman: [Git and GitHub for Poets]( https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+
 1. How to create a Github account and your first repository
 [guide](https://github.com/zamfi/github-guide)
 
