@@ -22,7 +22,10 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
  
  ### Arduino Types 
 - How do you choose the right board for your project?
+[maker.pro comparison of popular Arduino boards](https://maker.pro/arduino/tutorial/a-comparison-of-popular-arduino-boards)
+[choosing an Arduino board for your project](https://learn.sparkfun.com/tutorials/choosing-an-arduino-for-your-project/all)
 [Sparkfun Arduino board comparison](https://www.sparkfun.com/standard_arduino_comparison_guide)
+
 
 ## Microcontrollers
  - [Picking a Microcontroller](https://itp.nyu.edu/physcomp/resources/picking-a-microcontroller/)
