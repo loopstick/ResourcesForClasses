@@ -289,10 +289,13 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Sipping Power with NeoPixels (or any type of LEDs)](https://learn.adafruit.com/sipping-power-with-neopixels)
 
 ## RGB LEDs (discrete)
- - [Random Nerd Tutorials: How Do RGB LEDs Workd?](https://randomnerdtutorials.com/electronics-basics-how-do-rgb-leds-work/)
+ - [Random Nerd Tutorials: How Do RGB LEDs Works?](https://randomnerdtutorials.com/electronics-basics-how-do-rgb-leds-work/)
  - [Common Cathode vs Common Anode](https://forum.arduino.cc/index.php?topic=22413.0)
 
-
+## Batteries
+ - [All About Batteries](https://learn.adafruit.com/all-about-batteries)
+ - [Li-Ion & LiPoly Batteries](https://learn.adafruit.com/li-ion-and-lipoly-batteries)
+ 
 ## Motors
 - [Motors and Selecting the Right One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
 - Adarfuit Motor Tutorials
