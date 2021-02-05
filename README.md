@@ -300,6 +300,7 @@ Projects website (which itself is a great resource for all sorts of projects).
  - [Li-Ion & LiPoly Batteries](https://learn.adafruit.com/li-ion-and-lipoly-batteries)
  
 ## Motors
+- [Meet the Motors](https://vimeo.com/84274150) - ITP/Jeff Feddersen
 - DC Motors: the Basics(https://itp.nyu.edu/physcomp/lessons/dc-motors-the-basics/#:~:text=Introduction&text=When%20trying%20to%20move%20things,RC%20servomotors%2C%20and%20stepper%20motors.)
 - [Motors and Selecting the Right One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
 - Adarfuit Motor Tutorials
