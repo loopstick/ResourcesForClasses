@@ -300,30 +300,32 @@ Projects website (which itself is a great resource for all sorts of projects).
  - [Li-Ion & LiPoly Batteries](https://learn.adafruit.com/li-ion-and-lipoly-batteries)
  
 ## Motors
+- DC Motors: the Basics(https://itp.nyu.edu/physcomp/lessons/dc-motors-the-basics/#:~:text=Introduction&text=When%20trying%20to%20move%20things,RC%20servomotors%2C%20and%20stepper%20motors.)
 - [Motors and Selecting the Right One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
 - Adarfuit Motor Tutorials
   - Adafruit [Arduino Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors?view=all)
   - Adafruit [Arduino Lesson 15. DC Motor Reversing](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing/arduino-code?view=all)
 - Michael Shiloh's [Controlling Motors from Arduino](https://github.com/michaelshiloh/arduinoAndMotors)
+https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors/overview?view=all)
 - [How to select the right size motor](http://www.orientalmotor.com/support/motor-sizing.html)
-  
- ## H-Bridge tutorials 
-- H-bridge [tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
-- [L298 HBridge tutorial](http://tronixstuff.com/2014/11/25/tutorial-l298n-dual-motor-controller-modules-and-arduino/)
-- Last Minute Engineers [L298N DC Motor Driver](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/)
-- Last Minute Engineers [L298N Stepper Driver](https://lastminuteengineers.com/stepper-motor-l298n-arduino-tutorial/)
 
 ## Servo Motors
  - Adafruit [Arduino Lesson 14. Servo Motors](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/arduino-code-for-knob?view=all)
 
 ## Stepper Motors
- - Adafruit [Arduino Lesson 16. Stepper Motors](https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors/overview?view=all)
+- Adafruit [Arduino Lesson 16. Stepper Motors](https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors/overview?view=all)
 - [Evil Mad Scientist EBB Stepper Driver Board](https://shop.evilmadscientist.com/productsmenu/188)
 - [Adafruit Motor/Stepper/Servo Shield for Arduino v2](https://www.adafruit.com/product/1438)
 
 ## Transistors
 - Quite decent MOSFET [tutorial](http://www.radio-electronics.com/info/data/semicond/fet-field-effect-transistor/mosfet-basics-tutorial.php)
 - Quite good MOSFET [tutorial and usage guide](https://oscarliang.com/how-to-use-mosfet-beginner-tutorial/)
+
+ ## H-Bridge tutorials 
+- H-bridge [tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
+- [L298 HBridge tutorial](http://tronixstuff.com/2014/11/25/tutorial-l298n-dual-motor-controller-modules-and-arduino/)
+- Last Minute Engineers [L298N DC Motor Driver](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/)
+- Last Minute Engineers [L298N Stepper Driver](https://lastminuteengineers.com/stepper-motor-l298n-arduino-tutorial/)
 
 ## Shaft Coupling (for Motors)
  - [DIY Shaft Coupling](/ShaftCoupling/README.md) with tubing and spline
