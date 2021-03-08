@@ -108,6 +108,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Cycloid Drawing Machine](https://www.youtube.com/watch?v=LxapR3YIozQ)
  - [Laser Drawing Machine](https://www.instructables.com/id/Laser-Drawing-Machine/)
  - [SCARA Robot](https://www.instructables.com/id/SCARA-Robot-Learning-About-Foward-and-Inverse-Kine/)
+ - [Cute machine found on Instagram](https://www.instagram.com/reel/CMC0_P2JAAm/?igshid=1x2t6v21g6ljx)
  &nbsp; 
   &nbsp; 
 #### Sound Art - Music  
