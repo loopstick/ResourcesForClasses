@@ -3,6 +3,10 @@
 ## Inspiration: Artists, Designers, Collectives, Collaborations, Projects, etc
  - <https://github.com/loopstick/ResourcesForClasses/blob/master/InspirationalLinks.md>
 
+## Electronics theory
+ - [How does electricity work?](https://www.youtube.com/watch?v=mc979OhitAg)
+ - [Physic videos:Electricity](https://www.youtube.com/playlist?list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y)
+
 ## Basic Arduino Resources
 - What is Arduino? [Arduino Introduction](https://www.arduino.cc/en/Guide/Introduction)
 - Arduino basics: Adafruit's Arduino [tutorials](http://www.ladyada.net/learn/arduino/index.html)
@@ -36,6 +40,10 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 
 ## How NOT to ...
  - [10 ways to destroy an Arduino](https://www.rugged-circuits.com/10-ways-to-destroy-an-arduino)
+
+## Elegoo kit
+- [Elegoo kit tutorial videos](https://www.youtube.com/playlist?list=PLMzVxVmsv2vnCy0GSZjXaMdBQKLbmHOZR)
+- [Elegoo kit tutorial examples](https://github.com/rmorenojr/ElegooTutorial)
 
 ## Sensor Resources - General: 
 - [ITP: Sensors - the Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
