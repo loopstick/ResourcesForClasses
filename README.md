@@ -72,6 +72,7 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
     - [NewPing library](https://github.com/microflo/NewPing)
   - [UltraSonic library](https://github.com/ErickSimoes/Ultrasonic)
   - Last Minute Engineers [Ultrasonic sensor tutorial](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/)
+  - How to Mechatronics [Ultrasonic sensor tutorial](https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/)
 - PIR sensors
   - Adafruit [Using a PIR with Arduino](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/using-a-pir-w-arduino)
   - Last Minute Engineers [PIR sensor](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/) tutorial
