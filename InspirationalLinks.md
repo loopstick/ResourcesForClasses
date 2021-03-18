@@ -95,6 +95,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Nicholas Feltron](http://feltron.com/FAR14.html)
  - [Phillip Stearns - Memory Textile weaving](https://vimeo.com/71044541)
  - [Julius Popp - bit.fall](https://www.illuminateproductions.co.uk/bitfall)
+ - [Mark Lotter - Cubatron](http://www.3waylabs.com/projects/mc/)
  &nbsp; 
 &nbsp;  
 #### Drawing Machines 
