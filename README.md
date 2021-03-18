@@ -3,6 +3,10 @@
 ## Inspiration: Artists, Designers, Collectives, Collaborations, Projects, etc
  - <https://github.com/loopstick/ResourcesForClasses/blob/master/InspirationalLinks.md>
 
+## Robot Resources
+ - [Open Robot Hardware projects](http://www.openrobothardware.org/linkedprojects/)
+
+
 ## Electronics theory
  - [How does electricity work?](https://www.youtube.com/watch?v=mc979OhitAg)
  - [Physic videos:Electricity](https://www.youtube.com/playlist?list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y)
