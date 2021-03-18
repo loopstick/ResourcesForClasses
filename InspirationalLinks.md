@@ -6,6 +6,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
 #### Physical Computing - Robots  
  - [Survival Research Labs](http://www.srl.org/)
  - [Matt Heckert](http://www.mattheckert.com/)
+ - [Jeff Feddersen](https://www.fddrsn.net/portfolio/)
  - [Carl Pisaturo](http://carlpisaturo.com/index.html)
  - [Arthur Ganson](http://arthurganson.com/ )
  - [Golan Levin: Art that looks back at you](https://www.youtube.com/watch?v=1G0MzlfMPuM)
@@ -17,7 +18,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Helen Leigh](https://hackaday.io/helenleigh)
  - [Daniel Rozin's mechanical mirrors](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
  - [Daniel Rozin website](http://www.smoothware.com/danny/)
- - [Steve Parker - War Tubas](https://www.steve-parker.net/war-tuba/)
+ - [Steve Parker - War Tubas](https://www.steve-parker.net/war-tuba/) - winner 2021 Guthman Musical instrument Competition
  - [Chales Sowers](https://www.charlessowers.com/)
  - [FURS](http://fursr.com/projects)
  - [Robb Godshaw](https://robb.cc/Art)
