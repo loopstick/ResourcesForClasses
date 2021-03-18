@@ -80,7 +80,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Aaron Soloway](http://www.aaronsoloway.com/)
  - [Chris Milk](http://milk.co/forest-tate)
  - [Scott Kildall](https://kildall.com/)
- - Christopher Vecchio](http://www.noisemantra.com/)
+ - [Christopher Vecchio](http://www.noisemantra.com/)
  - [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)
 &nbsp; 
 &nbsp;  
@@ -94,6 +94,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Jer Thorp](https://www.jerthorp.com/)
  - [Nicholas Feltron](http://feltron.com/FAR14.html)
  - [Phillip Stearns - Memory Textile weaving](https://vimeo.com/71044541)
+ - [Julius Popp - bit.fall](https://www.illuminateproductions.co.uk/bitfall)
  &nbsp; 
 &nbsp;  
 #### Drawing Machines 
