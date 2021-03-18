@@ -48,9 +48,6 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - [Elegoo kit tutorial videos](https://www.youtube.com/playlist?list=PLMzVxVmsv2vnCy0GSZjXaMdBQKLbmHOZR)
 - [Elegoo kit tutorial examples](https://github.com/rmorenojr/ElegooTutorial)
 
-## Physical Computing
- - [A collection of instructional videos for the ITP physical computing courses](https://vimeo.com/showcase/6565160)
-
 ## Sensor Resources - General: 
 - [ITP: Sensors - the Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
 - [ITP: Analog In with Arduino](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/)
@@ -322,7 +319,6 @@ Projects website (which itself is a great resource for all sorts of projects).
   - Adafruit [Arduino Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors?view=all)
   - Adafruit [Arduino Lesson 15. DC Motor Reversing](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing/arduino-code?view=all)
 - Michael Shiloh's [Controlling Motors from Arduino](https://github.com/michaelshiloh/arduinoAndMotors)
-https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors/overview?view=all)
 - [How to select the right size motor](http://www.orientalmotor.com/support/motor-sizing.html)
 
 ## Servo Motors
@@ -356,8 +352,10 @@ https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors/overview?vi
 
 ## Resources from other classes
  - Tom Igoe's collection of resources, examples, and lecture notes for physical computing courses at ITP: [Physical Computing](http://tigoe.com/pcomp/) and [ITP Physical Computing](https://itp.nyu.edu/physcomp/)
+ - [A collection of instructional videos for the ITP physical computing courses](https://vimeo.com/showcase/6565160)
  - [Golan Levin's course links](http://golancourses.net/)
  - [Interface](http://interface.cca.edu/)
+
 
 #### Websites with parts, tutorials, examples
 - [Arduino](http://arduino.cc/)
