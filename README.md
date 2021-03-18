@@ -6,7 +6,6 @@
 ## Robot Resources
  - [Open Robot Hardware projects](http://www.openrobothardware.org/linkedprojects/)
 
-
 ## Electronics theory
  - [How does electricity work?](https://www.youtube.com/watch?v=mc979OhitAg)
  - [Physic videos:Electricity](https://www.youtube.com/playlist?list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y)
@@ -48,6 +47,9 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 ## Elegoo kit
 - [Elegoo kit tutorial videos](https://www.youtube.com/playlist?list=PLMzVxVmsv2vnCy0GSZjXaMdBQKLbmHOZR)
 - [Elegoo kit tutorial examples](https://github.com/rmorenojr/ElegooTutorial)
+
+## Physical Computing
+ - [A collection of instructional videos for the ITP physical computing courses](https://vimeo.com/showcase/6565160)
 
 ## Sensor Resources - General: 
 - [ITP: Sensors - the Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
