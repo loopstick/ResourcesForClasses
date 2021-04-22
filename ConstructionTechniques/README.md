@@ -45,22 +45,23 @@ Whatever technique you use to construct your circuit, you should avoid soldering
 
 ![Socketed Module](images/SocketedModule.jpg)
 
-Similarly, sensors should attached with headers, not directly soldered to your board. This makes it much easier to replace a damaged sensor or swap sensors quickly for testing:
+Similarly, sensors should be attached with headers, not directly soldered to your board. This makes it much easier to replace a damaged sensor or swap sensors quickly for testing:
 ![Socketed Sensor](images/SocketedSensor.jpg)
 
   - Exceptions:
-    - Space constraints
+    - Space constraints (not enough space to use a header)
     - Extreme vibration (e.g. model rocket) requires something that can’t fall out
 
  - Note that you can get right angle headers if you prefer.
- - Use a silver Sharpie or paint pen to indicate which way to plug in, to avoid plugging it in backwards
+ - Use polarized headers whenever possible, so that you cannot connect incorrectly.
+ 	- If you can't use a polarized header: use a metallic Sharpie or paint pen to indicate matching connector sides, to avoid plugging in backwards
 
 
 ### Don’t Solder Wires to your Board, part 2 
 - As with modules, you should avoid soldering wires directly to your board.
   - Instead, solder the wires to headers (male or female) and solder a mating header to your board:
-    - Use a silver Sharpie to indicate which way to plug in, to avoid plugging it in backwards
-
+     - Use polarized headers whenever possible, so that you cannot connect incorrectly.
+ 	- If you can't use a polarized header: use a metallic Sharpie or paint pen to indicate matching connector sides, to avoid plugging in backwards
   - If your wire is too thick to solder to header pins, use screw terminals instead:
 
 ![Screw Terminals](image/ScrewTerminals.jpg)
@@ -79,7 +80,6 @@ Similarly, sensors should attached with headers, not directly soldered to your b
    - Always put the black wire (ground) on one side of the connector, and indicate where the ground should go.
    - You can also print a label and glue it to the connectors or your board.
    - For screw terminals, use clear heat shrink to fix labels around the wires and tape or glue labels on the board.
-
 
  - An alternative, especially for power connectors, is to use polarized barrel connectors, e.g. this [jack](https://www.adafruit.com/product/373) and corresponding [plug](https://www.adafruit.com/products/369):
 
