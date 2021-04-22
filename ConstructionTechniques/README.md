@@ -215,11 +215,14 @@ Here a ziptie is used to prevent the wire from pulling on something potentially 
 Some more examples of strain relief
 
 ![Breadboard Strain Relief](images/StrainRelief_IR.jpg)
+
 ![Breadboard Strain Relief](images/StrainRelief_HotGlue.jpg)
+
 ![Breadboard Strain Relief](images/StrainRelief_RotoWhisker.jpg)
 
 
 ### Sudhu's Minaret Boards and YEMRS wiring - for discussion
 
 ![Minaret Board](images/MinaretBoard.jpg)
+
 ![YEMRS wiring](images/YEMRS_wiring.jpg)
