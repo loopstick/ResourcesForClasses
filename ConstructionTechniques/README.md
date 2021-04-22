@@ -46,6 +46,7 @@ Whatever technique you use to construct your circuit, you should avoid soldering
 ![Socketed Module](images/SocketedModule.jpg)
 
 Similarly, sensors should be attached with headers, not directly soldered to your board. This makes it much easier to replace a damaged sensor or swap sensors quickly for testing:
+
 ![Socketed Sensor](images/SocketedSensor.jpg)
 
   - Exceptions:
@@ -166,9 +167,11 @@ If you have multiple wires going between visible parts of your project, consider
 
 ### Wire Dressing
 The expression wire dressing refers to organizing and bundling wires neatly. This project for example is not well dressed:
+
 ![not well dressed](images/NotWellDressed.jpg)
 
 This is an example of good cable dressing:
+
 ![well dressed](images/WellDressed.jpg)
 
 Note the loops of wire – this is always a good idea. It allows for necessary slack when disconnecting a wire for any reason
