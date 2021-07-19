@@ -147,11 +147,18 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 2. Other 40106 [ideas](http://bleeplabs.com/rad-fi-analog/)
 3. 555 astable oscillators
 
+## Spectrum Analysis, RTA, music visualizer
+	- untested
+- marcaubin's [Audio Spectrum Visualizer](https://www.hackster.io/marcaubin/audio-spectrum-visualiser-with-colour-selection-c43fcc)
+- [32 band audio spectrum analyser](https://create.arduino.cc/projecthub/shajeeb/32-band-audio-spectrum-visualizer-analyzer-902f51)
+- [Teensy 3.6 LED Music-Visualizer PCB Kit](https://www.tindie.com/products/diod_design/teensy-36-led-music-visualizer-pcb-kit/)
+- Adafruit [LED Ampli-Tie](https://learn.adafruit.com/led-ampli-tie/the-code)
+
 ## Mechatronic Resources
-- 507 Mechanical Movements](http://507movements.com/about.html), some animated
-- Mechanisms: http://www.technologystudent.com/cams/camdex.htm
-- Servo linkage basics](https://docs.google.com/document/d/1b0QdAfAoI1c5wIIlVZ22a3fBJ51FG91L76lW9aPa-Fs/edit?usp=sharing) 
-- Animated linkage mechanisms](http://www.mekanizmalar.com/menu_linkage.html) 
+- [507 Mechanical Movements](http://507movements.com/about.html), some animated
+- [Mechanisms] (http://www.technologystudent.com/cams/camdex.htm)
+- [Servo linkage basics](https://docs.google.com/document/d/1b0QdAfAoI1c5wIIlVZ22a3fBJ51FG91L76lW9aPa-Fs/edit?usp=sharing) 
+- [Animated linkage mechanisms](http://www.mekanizmalar.com/menu_linkage.html) 
 - [Short article on servo alignment](http://www.modelairplanenews.com/blog/2012/02/09/total-control-the-right-way-to-set-up-servos/)
 - Library of [kinematic models](http://kmoddl.library.cornell.edu/index.php) for design
 - [Four Bar Linkages simulation](http://singsurf.org/things/fourbar.php)
@@ -380,7 +387,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Seeed Studios](https://us.seeedstudio.com/)
 
 #### Local shops with very knowledgeable staff
-- [Al Lasher’s](http://allashers.com/) (Berkeley)
+- R.I.P. [Al Lasher’s](http://allashers.com/) (Berkeley)
 
 *Local places to work on projects and get informal help*
 - [Open hack night](http://techliminal.com/open-hack-night/) every Wednesday at Tech Liminal in Oakland
