@@ -7,13 +7,13 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Survival Research Labs](http://www.srl.org/)
  - [Matt Heckert](http://www.mattheckert.com/)
  - [Jeff Feddersen](https://www.fddrsn.net/portfolio/)
- - [Carl Pisaturo](http://carlpisaturo.com/index.html)
+ - [Carl Pisaturo](http://carlpisaturo.com/index.html) - local!
  - [Arthur Ganson](http://arthurganson.com/ )
  - [Golan Levin: Art that looks back at you](https://www.youtube.com/watch?v=1G0MzlfMPuM)
  - [Jacob Tonski - Balance From Within](https://vimeo.com/41786246)
  - [North Pitney](http://www.northpitney.com/) - used to teach Interface at CCA!!
- - [Alex Glow](http://alexglow.com/)
- - [Jordan Moss - robotics](https://www.hackster.io/Odd_Jayy/projects)
+ - [Alex Glow](http://alexglow.com/) - - local!
+ - [Jordan Moss - robotics](https://www.hackster.io/Odd_Jayy/projects) - - local!
  - [Sarah Petkus](http://zoness.com/)
  - [Helen Leigh](https://hackaday.io/helenleigh)
  - [Daniel Rozin's mechanical mirrors](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
@@ -29,8 +29,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Zimoun](https://www.zimoun.net/)
  - [Pe Lang](http://www.pelang.ch/http:)
  - [Gregory Barsimian](http://www.gregorybarsamian.com/)
- - [Reuben Margolin](https://www.reubenmargolin.com/)
- - [Bernie Lubbell](https://bernielubell.com/)
+ - [Reuben Margolin](https://www.reubenmargolin.com/) - local!
+ - [Bernie Lubbell](https://bernielubell.com/) - local!
  - [Harvey Moon video](https://m.youtube.com/watch?v=VufMgHvaoG0)
  - [Harvey Moon website](http://harveymoon.com/)
  - [Christian Ristow](http://christianristow.com/)
@@ -68,7 +68,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com/projects.php)
  - [Auger Loizeau](http://www.auger-loizeau.com/)
  - [FURS](http://fursr.com/projects)
- - [Five Ton Crane](http://fivetoncrane.org/)
+ - [Five Ton Crane](http://fivetoncrane.org/) - local!
  - [Teamlab ](https://www.teamlab.art/)
  - [Meow Wolf](https://www.cbsnews.com/video/art-collective-meow-wolf/)
  - [Nokia Bell Labs E.A.T.](https://www.bell-labs.com/programs/experiments-art-and-technology/)
@@ -76,8 +76,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [James Turell - light art, land art]( http://jamesturrell.com/work/type/)
  - [Jim Campbell](https://www.jimcampbell.tv/)
  - [Yayoi Kusama](https://www.youtube.com/watch?v=8VwJMw_fLvI)
- - [Christopher Schardt](http://schardt.org/)
- - [The Bay Lights](http://thebaylights.org/)
+ - [Christopher Schardt](http://schardt.org/) - local!
+ - [The Bay Lights](http://thebaylights.org/) - local!
  - [Murmur Wall](http://www.future-cities-lab.net/projects/#/murmurwall/)
  - [Aaron Soloway](http://www.aaronsoloway.com/) - teaches at CCA!!
  - [Chris Milk](http://milk.co/forest-tate)
@@ -119,13 +119,13 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Yuri Suzuki - sound artist, designer](http://yurisuzuki.com/artist)
  - [Maywa Denki](https://www.maywadenki.com/)
  - [Christina Kubisch](http://www.christinakubisch.de/en/works)
- - [Tim Thompson - Space Palette](https://www.spacepalette.com/)
+ - [Tim Thompson - Space Palette](https://www.spacepalette.com/) - local!
  - [Eric Singer (LEMUR)](http://www.singerbots.com)
  - [GamelaTron](https://gamelatron.com/)
  - [Gamelan Wizard](http://www.dualplover.com/gamelanwizard/index.html)
  - [Lucas Abela ](http://dualplover.com/abela/)
  - [quintron drum buddy](http://www.drumbuddy.com/)
- - [Marielle Jackobson](http://mariellejakobsons.com/?page_id=509)
+ - [Marielle Jackobson](http://mariellejakobsons.com/?page_id=509)- local!
  - [Michael Boyd](https://michaelrboyd.com/confessional)
  - [Bryan Jacobs - Subwhistle](http://www.fetafoundation.org/fetaprize/2016/1/1/bryan-jacobs-sub-whistle)
  - [Syzygryd](http://test.nicolation.net/installations/syzygryd/)
