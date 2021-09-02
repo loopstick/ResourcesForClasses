@@ -11,7 +11,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Arthur Ganson](http://arthurganson.com/ )
  - [Golan Levin: Art that looks back at you](https://www.youtube.com/watch?v=1G0MzlfMPuM)
  - [Jacob Tonski - Balance From Within](https://vimeo.com/41786246)
- - [North Pitney](http://www.northpitney.com/)
+ - [North Pitney](http://www.northpitney.com/) - used to teach Interface at CCA!!
  - [Alex Glow](http://alexglow.com/)
  - [Jordan Moss - robotics](https://www.hackster.io/Odd_Jayy/projects)
  - [Sarah Petkus](http://zoness.com/)
@@ -21,9 +21,9 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Steve Parker - War Tubas](https://www.steve-parker.net/war-tuba/) - winner 2021 Guthman Musical instrument Competition
  - [Chales Sowers](https://www.charlessowers.com/)
  - [FURS](http://fursr.com/projects)
- - [Robb Godshaw](https://robb.cc/Art)
+ - [Robb Godshaw](https://robb.cc/Art) - teaches at the Crucible!!
  - [Chico MacMurtrie](http://amorphicrobotworks.org/)
- - [Kal Spelletich](https://kaltek.wordpress.com/page/2/)
+ - [Kal Spelletich](https://kaltek.wordpress.com/page/2/) - used to teach at the San Francisco Art Institute!
  - [Theo Jansen](http://www.strandbeest.com/)
  - [Trimpin](https://en.wikipedia.org/wiki/Trimpin)
  - [Zimoun](https://www.zimoun.net/)
@@ -45,7 +45,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Pinaffo Pluvinage](https://pinaffo-pluvinage.com/)
  - [Norman Tuck](http://www.normantuck.com/index.html)
  - [Dance Dance Immolation](https://www.youtube.com/watch?v=7PV__5uEwio)
- - [Jacob Tonski - Balancing from Within](https://vimeo.com/72826106)
+ - [Jacob Tonski - Balance from Within](https://vimeo.com/72826106)
  - [Simone Geertz](http://www.simonegiertz.com/)
  - [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw)
  - [Aaron Sherwood - Firewall](http://aaron-sherwood.com/works/firewall/)
@@ -54,6 +54,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Random International - Rain Room](https://www.random-international.com/rain-room-2012)
  - [Takis](https://atelierholsboer.wordpress.com/2015/02/19/takis-the-veneration-of-a-local-hero/)
  - [Tad Ermitano](http://www.1335mabini.com/tad-ermitano-selected-works/)
+ - [Kuan-Ju Wu](https://wukuanju.com/) - teaches at CCA!!
 &nbsp; 
 &nbsp;  
 #### Art & Design
@@ -61,7 +62,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Erika Marthins](http://erikamarthins.com/)
  - [Lisa Park](https://www.thelisapark.com/)
  - [Mirabelle Jones](http://www.mirabellejones.com/)
- - [Scott Minneman](http://slminneman.com/)
+ - [Scott Minneman](http://slminneman.com/) - teaches at CCA!!
  - [Olafur Eliasson - design](https://www.olafureliasson.net/)
  - [Zeitguised](https://www.zeitguised.com/)
  - [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com/projects.php)
@@ -73,14 +74,14 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Nokia Bell Labs E.A.T.](https://www.bell-labs.com/programs/experiments-art-and-technology/)
  - [Generative design](https://www.youtube.com/watch?v=pNkz8wEJljc)
  - [James Turell - light art, land art]( http://jamesturrell.com/work/type/)
- - [JimCampbell](https://www.jimcampbell.tv/)
+ - [Jim Campbell](https://www.jimcampbell.tv/)
  - [Yayoi Kusama](https://www.youtube.com/watch?v=8VwJMw_fLvI)
  - [Christopher Schardt](http://schardt.org/)
  - [The Bay Lights](http://thebaylights.org/)
  - [Murmur Wall](http://www.future-cities-lab.net/projects/#/murmurwall/)
- - [Aaron Soloway](http://www.aaronsoloway.com/)
+ - [Aaron Soloway](http://www.aaronsoloway.com/) - teaches at CCA!!
  - [Chris Milk](http://milk.co/forest-tate)
- - [Scott Kildall](https://kildall.com/)
+ - [Scott Kildall](https://kildall.com/) - teaches at USF!!
  - [Christopher Vecchio](http://www.noisemantra.com/)
  - [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)
 &nbsp; 
