@@ -158,3 +158,10 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Brick in a Washing Machine on a Trampoline](https://www.youtube.com/watch?v=779fMc8ubOo)
  - [Propulsion Painting](https://www.youtube.com/watch?v=TuP-26f0wJw)
  - [LED Throwies](http://www.graffitiresearchlab.com/blog/projects/led-throwies/)
+ &nbsp; 
+#### "Practical" Electronics & Design
+ - [SpeechJammer TV short](https://www.youtube.com/watch?app=desktop&v=ADuaj7TsAVQ&d=n&ab_channel=Slate)
+ - [SpeechJammer](https://www.youtube.com/watch?app=desktop&d=n&feature=youtu.be&fbclid=IwAR1IeJS6sX0_xnLD1ZWOnA-Ry324YP_DEoO4WWpUDUIjzIcOLrWYG70NoQk&v=USDI3wnTZZg&ab_channel=tsukalab)
+ - [Creator Burger Robot](https://www.youtube.com/watch?v=5TBnwh7U1AU&ab_channel=RichDeMuro)
+ - [Creator owner/founder](https://www.youtube.com/watch?v=CbL_3le40qc&ab_channel=TechCrunch)
+ 
