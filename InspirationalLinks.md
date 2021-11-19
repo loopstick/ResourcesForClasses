@@ -56,6 +56,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Tad Ermitano](http://www.1335mabini.com/tad-ermitano-selected-works/)
  - [Kuan-Ju Wu](https://wukuanju.com/) - teaches at CCA!!
  - [Jie Qi - Origami Robots](http://technolojie.com/origami-robotics/)
+ - [Nathan Villicana-Shaw](https://www.nathanvillicanashaw.com/)
 &nbsp; 
 &nbsp;  
 #### Art & Design
