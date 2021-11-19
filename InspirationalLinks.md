@@ -148,6 +148,10 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
   - [Sound of Invention: EMP trailer](https://www.youtube.com/watch?v=lWF1Al8lYBs)
   - [Klavierstucke (Piano pieces)](https://www.youtube.com/watch?v=LroQ6FmfRcc)
   - [A Kinetic Retrospective](https://www.youtube.com/watch?v=cbxUHVCME-M)
+  - Don Buchla - Lightning
+   - [7 Styles in 7 Minutes](https://www.youtube.com/watch?v=-2juR1usQUQ)
+   - [What is Lightning](https://www.youtube.com/watch?v=iPAhZUZbgrU)
+   - [Out of Thin Air](https://www.youtube.com/watch?v=HSf8sYHWBsQ)
 &nbsp; 
 &nbsp;  
 #### Drink Making Machines 
