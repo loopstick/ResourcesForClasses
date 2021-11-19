@@ -153,6 +153,8 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - [32 band audio spectrum analyser](https://create.arduino.cc/projecthub/shajeeb/32-band-audio-spectrum-visualizer-analyzer-902f51)
 - [Teensy 3.6 LED Music-Visualizer PCB Kit](https://www.tindie.com/products/diod_design/teensy-36-led-music-visualizer-pcb-kit/)
 - Adafruit [LED Ampli-Tie](https://learn.adafruit.com/led-ampli-tie/the-code)
+- [MSGE7 Getting Started](https://rheingoldheavy.com/msgeq7-arduino-tutorial-01-getting-started/)
+- [Great Scott!'s Music Reactive Ferrofluid Display](https://www.hackster.io/news/greatscott-s-music-reactive-ferrofluid-display-a22266704130)
 
 ## Mechatronic Resources
 - [507 Mechanical Movements](http://507movements.com/about.html), some animated
