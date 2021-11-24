@@ -5,6 +5,9 @@
 
 ## Robot Resources
  - [Open Robot Hardware projects](http://www.openrobothardware.org/linkedprojects/)
+ 
+## CCA Hybrid Lab GitHub
+ - [COMPLETED WORKS developed in the Hybrid Lab at CCA that are useful for demonstration and remixing](https://github.com/CCAHybridLab)
 
 ## Electronics theory
  - [How does electricity work?](https://www.youtube.com/watch?v=mc979OhitAg)
