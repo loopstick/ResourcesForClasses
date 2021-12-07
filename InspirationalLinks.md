@@ -54,6 +54,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Random International - Rain Room](https://www.random-international.com/rain-room-2012)
  - [Takis](https://atelierholsboer.wordpress.com/2015/02/19/takis-the-veneration-of-a-local-hero/)
  - [Tad Ermitano](http://www.1335mabini.com/tad-ermitano-selected-works/)
+ - [Tim Hawkinson - Emoter](https://rvargasresearch.wordpress.com/2014/10/17/influence-tim-hawkinson-emoter/)
  - [Kuan-Ju Wu](https://wukuanju.com/) - teaches at CCA!!
  - [Jie Qi - Origami Robots](http://technolojie.com/origami-robotics/)
  - [Nathan Villicana-Shaw](https://www.nathanvillicanashaw.com/)
