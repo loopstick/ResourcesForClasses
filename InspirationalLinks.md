@@ -87,6 +87,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Scott Kildall](https://kildall.com/) - teaches at USF!!
  - [Christopher Vecchio](http://www.noisemantra.com/)
  - [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)
+ - [Emma Strebel](http://emmastrebel.com/) - recently featured vidos on Salesforce Tower
 &nbsp; 
 &nbsp;  
 #### Augmented Reality - Virtual Reality 
