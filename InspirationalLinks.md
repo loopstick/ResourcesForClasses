@@ -149,11 +149,11 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Laser harp](http://www.youtube.com/watch?v=sLVXmsbVwUs#t=20)
  - [Wintergatan - Marble Machine](https://www.youtube.com/watch?v=IvUU8joBb1Q)
  - Trimpin
-  - [Sound of Invention: trailer](https://www.youtube.com/watch?v=ahQKsW0LHEA)
-  - [Sound of Invention: EMP trailer](https://www.youtube.com/watch?v=lWF1Al8lYBs)
-  - [Klavierstucke (Piano pieces)](https://www.youtube.com/watch?v=LroQ6FmfRcc)
-  - [A Kinetic Retrospective](https://www.youtube.com/watch?v=cbxUHVCME-M)
-  - Don Buchla - Lightning
+   - [Sound of Invention: trailer](https://www.youtube.com/watch?v=ahQKsW0LHEA)
+   - [Sound of Invention: EMP trailer](https://www.youtube.com/watch?v=lWF1Al8lYBs)
+   - [Klavierstucke (Piano pieces)](https://www.youtube.com/watch?v=LroQ6FmfRcc)
+   - [A Kinetic Retrospective](https://www.youtube.com/watch?v=cbxUHVCME-M)
+ - Don Buchla - Lightning
    - [7 Styles in 7 Minutes](https://www.youtube.com/watch?v=-2juR1usQUQ)
    - [What is Lightning](https://www.youtube.com/watch?v=iPAhZUZbgrU)
    - [Out of Thin Air](https://www.youtube.com/watch?v=HSf8sYHWBsQ)
