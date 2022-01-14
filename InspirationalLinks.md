@@ -107,6 +107,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  &nbsp; 
 &nbsp;  
 #### Drawing Machines 
+ - Painting Robots [Paul Kirby](https://vimeo.com/594934366) 
  - [Harvey Moon's Drawing Machines](https://www.youtube.com/watch?v=VufMgHvaoG0)
  - [Art Robots](http://vimeo.com/57082262#at=130)
  - [Robo Faber](http://vimeo.com/78771257)
