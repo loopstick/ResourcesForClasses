@@ -12,8 +12,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Golan Levin: Art that looks back at you](https://www.youtube.com/watch?v=1G0MzlfMPuM)
  - [Jacob Tonski - Balance From Within](https://vimeo.com/41786246)
  - [North Pitney](http://www.northpitney.com/) - used to teach Interface at CCA!!
- - [Alex Glow](http://alexglow.com/) - - local!
- - [Jordan Moss - robotics](https://www.hackster.io/Odd_Jayy/projects) - - local!
+ - [Alex Glow](http://alexglow.com/) - local!
+ - [Jordan Moss - robotics](https://www.hackster.io/Odd_Jayy/projects) - local!
  - [Sarah Petkus](http://zoness.com/)
  - [Helen Leigh](https://hackaday.io/helenleigh)
  - [Daniel Rozin's mechanical mirrors](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
