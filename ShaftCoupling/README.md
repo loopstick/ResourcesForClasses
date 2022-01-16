@@ -1,4 +1,4 @@
-## DIY Shaft Couplers from hardware Store Tubing!
+## DIY Shaft Couplers from Hardware Store Tubing!
   
 Most hardware stores will have a selection of tubing which you can purchase by the foot. Different sizes work for different motors. 
   
