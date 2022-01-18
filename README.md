@@ -167,7 +167,7 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - [Short article on servo alignment](http://www.modelairplanenews.com/blog/2012/02/09/total-control-the-right-way-to-set-up-servos/)
 - Library of [kinematic models](http://kmoddl.library.cornell.edu/index.php) for design
 - [Four Bar Linkages simulation](http://singsurf.org/things/fourbar.php)
-- A nice [overview](https://makezine.com/projects/make-your-own-gears/) ofmaking your own gears. Don't worry about the specifics (Inkscape etc.) but get the general concept which can be achieved in many different ways and using different tools.
+- A nice [overview](https://makezine.com/projects/make-your-own-gears/) of making your own gears. Don't worry about the specifics (Inkscape etc.) but get the general concept which can be achieved in many different ways and using different tools.
 - [Machinations/Mechanisms](doc/machinations-mechanisms.pdf) by Paul Spooner
 - [Free plans](http://cabaret.co.uk/store/downloads/) from Cabaret Mechanical Theatre
 - Instructables [tagged](http://www.instructables.com/tag/type-id/keyword-automata/) with the
