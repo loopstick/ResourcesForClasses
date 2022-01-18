@@ -164,27 +164,26 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - [Mechanisms](http://www.technologystudent.com/cams/camdex.htm):  Cams and Linkages
 - [Servo linkage basics](https://docs.google.com/document/d/1b0QdAfAoI1c5wIIlVZ22a3fBJ51FG91L76lW9aPa-Fs/edit?usp=sharing) 
 - [Animated linkage mechanisms](https://www.mekanizmalar.com/menu-linkage.html) 
-- [Short article on servo alignment](http://www.modelairplanenews.com/blog/2012/02/09/total-control-the-right-way-to-set-up-servos/)
-- Library of [kinematic models](http://kmoddl.library.cornell.edu/index.php) for design
+- ~Library of [kinematic models](http://kmoddl.library.cornell.edu/index.php) for design~
 - [Four Bar Linkages simulation](http://singsurf.org/things/fourbar.php)
 - A nice [overview](https://makezine.com/projects/make-your-own-gears/) of making your own gears. Don't worry about the specifics (Inkscape etc.) but get the general concept which can be achieved in many different ways and using different tools.
 - [Machinations/Mechanisms](doc/machinations-mechanisms.pdf) by Paul Spooner
-- [Free plans](http://cabaret.co.uk/store/downloads/) from Cabaret Mechanical Theatre
-- Instructables [tagged](http://www.instructables.com/tag/type-id/keyword-automata/) with the
-keyword Automata
-- Nice collection of resources for [Cam and Crank toys](http://re.trotoys.com/projects/cat/cam-crank-toys/)
-- Simple [descriptions](http://www.mechanical-toys.com/mechanisums.htm) ofthe 6 basic mechanisms
+- ~[Free plans](http://cabaret.co.uk/store/downloads/) from Cabaret Mechanical Theatre~
+- ~Instructables [tagged](http://www.instructables.com/tag/type-id/keyword-automata/) with the
+keyword Automata~
+- collection of resources for [Cam and Crank toys](http://re.trotoys.com/projects/cat/cam-crank-toys/)
+- ~Simple [descriptions](http://www.mechanical-toys.com/mechanisums.htm) ofthe 6 basic mechanisms~
 - Cardboard Automata [pamphlet](https://www.exploratorium.edu/pie/downloads/Cardboard_Automata.pdf)
 from The Exploratorium
-- Free plans to download and other [resources](http://dugnorth.com/automaton-plans.aspx) from Dug North, a master
-automata builder
+- ~Free plans to download and other [resources](http://dugnorth.com/automaton-plans.aspx) from Dug North, a master
+automata builder~
 - How to Make Cardboard Automata [article](http://makezine.com/projects/make-cardboard-automata/) on Make:
 Projects website (which itself is a great resource for all sorts of projects).
 
 
 ### Mechatronics Books
-- [Cabaret Mechanical Movement](http://cmuems.com/resources/cabaret_mechanical_movement.pdf) by Aiden Lawrence Onn and Gary Alexander
-- [How to Design and Make Automata by Robert Addams](https://drive.google.com/open?id=0B43590UC58A9MXlRU0RTWnhtbkk) also [here](https://issuu.com/hmorenop/docs/addams_robert_-_how_to_design_and_m)
+- ~[Cabaret Mechanical Movement](http://cmuems.com/resources/cabaret_mechanical_movement.pdf) by Aiden Lawrence Onn and Gary Alexander~
+- ~[How to Design and Make Automata by Robert Addams](https://drive.google.com/open?id=0B43590UC58A9MXlRU0RTWnhtbkk) also [here](https://issuu.com/hmorenop/docs/addams_robert_-_how_to_design_and_m)~
 - [Machinations: Mechanisms](https://drive.google.com/open?id=0B43590UC58A9ZHItNmxiWEs2UEk) by Paul Spooner
 - Pages 272-281 in "Physical Computing: Sensing and Controlling the Physical World with Computers" by Igoe/O'Sullivan, available in the Hybrid Lab
 - [Making Things Move](https://www.makingthingsmove.com/about-the-book/), available in the Hybrid Lab and in our library
