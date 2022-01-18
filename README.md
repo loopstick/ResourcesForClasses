@@ -161,7 +161,7 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 
 ## Mechatronic Resources
 - [507 Mechanical Movements](http://507movements.com/about.html), some animated
-- [Mechanisms](http://www.technologystudent.com/cams/camdex.htm)
+- [Mechanisms](http://www.technologystudent.com/cams/camdex.htm):  Cams and Linkages
 - [Servo linkage basics](https://docs.google.com/document/d/1b0QdAfAoI1c5wIIlVZ22a3fBJ51FG91L76lW9aPa-Fs/edit?usp=sharing) 
 - [Animated linkage mechanisms](http://www.mekanizmalar.com/menu_linkage.html) 
 - [Short article on servo alignment](http://www.modelairplanenews.com/blog/2012/02/09/total-control-the-right-way-to-set-up-servos/)
