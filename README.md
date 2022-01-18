@@ -166,7 +166,6 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - [Animated linkage mechanisms](https://www.mekanizmalar.com/menu-linkage.html) 
 - ~Library of [kinematic models](http://kmoddl.library.cornell.edu/index.php) for design~
 - [Four Bar Linkages simulation](http://singsurf.org/things/fourbar.php)
-- A nice [overview](https://makezine.com/projects/make-your-own-gears/) of making your own gears. Don't worry about the specifics (Inkscape etc.) but get the general concept which can be achieved in many different ways and using different tools.
 - [Machinations/Mechanisms](doc/machinations-mechanisms.pdf) by Paul Spooner
 - ~[Free plans](http://cabaret.co.uk/store/downloads/) from Cabaret Mechanical Theatre~
 - ~Instructables [tagged](http://www.instructables.com/tag/type-id/keyword-automata/) with the
@@ -191,6 +190,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 ### How to make Gears
 - [MAKE: your own gears](https://makezine.com/2010/06/28/make-your-own-gears/)
 - [Gear generator](http://www.geargenerator.com)
+- A nice [overview](https://makezine.com/projects/make-your-own-gears/) of making your own gears. Don't worry about the specifics (Inkscape etc.) but get the general concept which can be achieved in many different ways and using different tools.
 - Fusion 360 gear tutorials
   - [The Easy Way to Design Gears in Fusion 360](https://www.instructables.com/id/The-Easy-Way-to-Design-Gears-in-Fusion-360/)
   - [How to Make Gears in FUsion 360](https://grabcad.com/tutorials/how-to-make-gear-in-fusion-360-with-gear-calculation)
