@@ -185,7 +185,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 - ~[How to Design and Make Automata by Robert Addams](https://drive.google.com/open?id=0B43590UC58A9MXlRU0RTWnhtbkk) also [here](https://issuu.com/hmorenop/docs/addams_robert_-_how_to_design_and_m)~
 - [Machinations: Mechanisms](https://drive.google.com/open?id=0B43590UC58A9ZHItNmxiWEs2UEk) by Paul Spooner
 - Pages 272-281 in "Physical Computing: Sensing and Controlling the Physical World with Computers" by Igoe/O'Sullivan, available in the Hybrid Lab
-- [Making Things Move](https://www.makingthingsmove.com/about-the-book/), available in the Hybrid Lab and in our library
+- [Making Things Move](https://www.makingthingsmove.com/about-the-book/) available in the Hybrid Lab, the CCA library and [here](https://mars1980.github.io/resources/making_things_move.pdf)
 
 ### How to make Gears
 - [MAKE: your own gears](https://makezine.com/2010/06/28/make-your-own-gears/)
@@ -198,6 +198,9 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Arthur Ganson - making wire gears](http://www.youtube.com/watch?v=f0UNz-ayzrE)
 - [Gears! But Were Afried To Ask: This Old Tony](https://www.youtube.com/watch?v=Q-XOM4E4RZQ)
 - [Bushing and Gears: This Old Tony](https://www.youtube.com/watch?v=PFqjQ3l1MRA)
+
+## Clocks
+- [ITP NYU Clock Club](https://itpnyu.github.io/clock-club/)
 
 ## Schematics
 - A great [tutorial](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic) on schematics
