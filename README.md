@@ -11,7 +11,8 @@
 
 ## Electronics theory
  - [How does electricity work?](https://www.youtube.com/watch?v=mc979OhitAg)
- - [Physic videos:Electricity](https://www.youtube.com/playlist?list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y)
+ - [Physic videos: Electricity](https://www.youtube.com/playlist?list=PLkyBCj4JhHt9dIWsO7GaTU149BkIFbo5y)
+ - ITP NYU [Electricity: the Basics](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
 
 ## Basic Arduino Resources
 - What is Arduino? [Arduino Introduction](https://www.arduino.cc/en/Guide/Introduction)
@@ -57,6 +58,7 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - AnalogReadSerial [tutorial](http://arduino.cc/en/Tutorial/AnalogReadSerial) by Arduino
 - Adafruit [guide](http://www.ladyada.net/learn/sensors/) to sensors
 - [Sensors Portal.com](https://www.sensorsportal.com/HTML/Sensor.htm)
+- [Tom Igoe GitHub Sensor Examples](https://github.com/tigoe/SensorExamples)
 
 ## Sensor Resources - Tactile interfaces: 
 - Button/Switch
@@ -283,6 +285,9 @@ Projects website (which itself is a great resource for all sorts of projects).
 		Add the appropriate header to mate with the module.		
   - Adafruit Bluefruit and Adafruit Motor Shield [tutorial](https://github.com/michaelshiloh/motorShieldAndBluefruit)
 
+- BluetoothLE
+  - [Tom Igoe GitHub BluetoothLE examples](https://github.com/tigoe/BluetoothLE-Examples)
+
 - Xbee
 	- Tricky to configure
 	- Very reliable
@@ -297,6 +302,7 @@ Projects website (which itself is a great resource for all sorts of projects).
   
 - ESP8266
   - We've heard good things about the ESP8266!
+  - only 1 Analog IN!
   - [Things you should know before using esp8266](https://www.hackster.io/PatelDarshil/things-you-should-know-before-using-esp8266-wifi-module-784001)
   - [Adafruit ESP8266 Tutorial] (https://learn.adafruit.com/adafruit-feather-huzzah-esp8266)
   
