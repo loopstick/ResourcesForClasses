@@ -91,6 +91,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)
  - [Emma Strebel](http://emmastrebel.com/) - recently featured vidos on Salesforce Tower
  - [HumansSince1982](https://www.humanssince1982.com/work)
+ - [NYU ITP Clock Club: works](https://www.humanssince1982.com/work) - links to many interesting clock projects
 &nbsp; 
 &nbsp;  
 #### Augmented Reality - Virtual Reality 
