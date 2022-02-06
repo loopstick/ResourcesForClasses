@@ -153,6 +153,7 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 3. 555 astable oscillators
 
 ## Spectrum Analysis, RTA, music visualizer
+- [How to recognize fake MSGEQ7 chips!](https://www.youtube.com/watch?v=ol-LANzmlDs)
 	- untested
 - marcaubin's [Audio Spectrum Visualizer](https://www.hackster.io/marcaubin/audio-spectrum-visualiser-with-colour-selection-c43fcc)
 - [32 band audio spectrum analyser](https://create.arduino.cc/projecthub/shajeeb/32-band-audio-spectrum-visualizer-analyzer-902f51)
