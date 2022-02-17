@@ -162,6 +162,18 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - [MSGE7 Getting Started](https://rheingoldheavy.com/msgeq7-arduino-tutorial-01-getting-started/)
 - [Great Scott!'s Music Reactive Ferrofluid Display](https://www.hackster.io/news/greatscott-s-music-reactive-ferrofluid-display-a22266704130)
 
+
+# Interfacing Arduino with other applications
+
+## Processing and Arduino
+- SparkFun [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
+- Arduino [Visualization with Arduino and Processing](https://www.arduino.cc/education/visualization-with-arduino-and-processing)
+
+## Max and Arduino
+- [Firmata](https://docs.arduino.cc/hacking/software/FirmataLibrary)
+- Maxuino
+- Arduino Playground: [Arduino and MaxMSP](https://playground.arduino.cc/Interfacing/MaxMSP/)
+
 ## Mechatronic Resources
 - [507 Mechanical Movements](http://507movements.com/about.html), some animated
 - [Mechanisms](http://www.technologystudent.com/cams/camdex.htm):  Cams and Linkages
