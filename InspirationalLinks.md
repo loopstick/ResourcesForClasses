@@ -95,6 +95,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
    - [Physical Computing](https://www.youtube.com/watch?v=ix4SHGWtWZg)
    - [Physicality and Conviviality](https://www.youtube.com/watch?v=fi4mN-Oicos)
  - [NYU ITP Clock Club: works](https://www.humanssince1982.com/work) - links to many interesting clock projects
+ - [Nassia Inglessis on interactive architecture](https://www.youtube.com/watch?v=qXFAq8EfpvQ)
 &nbsp; 
 &nbsp;  
 #### Augmented Reality - Virtual Reality 
