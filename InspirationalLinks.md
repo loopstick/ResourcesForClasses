@@ -96,6 +96,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
    - [Physicality and Conviviality](https://www.youtube.com/watch?v=fi4mN-Oicos)
  - [NYU ITP Clock Club: works](https://www.humanssince1982.com/work) - links to many interesting clock projects
  - [Nassia Inglessis on interactive architecture](https://www.youtube.com/watch?v=qXFAq8EfpvQ)
+ - [Dan Flavin](https://www.artsy.net/artist/dan-flavin)
+ - [Julie Orser](https://www.julieorser.com)
 &nbsp; 
 &nbsp;  
 #### Augmented Reality - Virtual Reality 
@@ -110,8 +112,6 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Phillip Stearns - Memory Textile weaving](https://vimeo.com/71044541)
  - [Julius Popp - bit.fall](https://www.illuminateproductions.co.uk/bitfall)
  - [Mark Lotter - Cubatron](http://www.3waylabs.com/projects/mc/)
- - [Dan Flavin] (https://www.artsy.net/artist/dan-flavin)
- - [Julie Orser](https://www.julieorser.com)
  &nbsp; 
 &nbsp;  
 #### Drawing Machines 
