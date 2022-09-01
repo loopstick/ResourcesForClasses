@@ -47,6 +47,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Dance Dance Immolation](https://www.youtube.com/watch?v=7PV__5uEwio)
  - [Jacob Tonski - Balance from Within](https://vimeo.com/72826106)
  - [Simone Geertz](http://www.simonegiertz.com/)
+   - [Simone Geertz on YouTube](https://www.youtube.com/c/simonegiertz) 
+   - [Simone Geertz Ted Talk](https://www.youtube.com/watch?v=c0bsKc4tiuY)
  - [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw)
  - [Aaron Sherwood - Firewall](http://aaron-sherwood.com/works/firewall/)
  - [Deito Manabe](http://www.daito.ws/en/work/electricstimulustoface_test.html)
