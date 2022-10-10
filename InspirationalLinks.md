@@ -102,8 +102,9 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Julie Orser](https://www.julieorser.com)
 &nbsp; 
 &nbsp;  
-#### Augmented Reality - Virtual Reality 
+#### Augmented Reality - Virtual Reality - AI - ML
  - [Mandy Stobo](https://stoboart.com/mandy-stobo)
+ - [Alexander Reben](https://areben.com/)
 &nbsp; 
 &nbsp;  
 #### Data Visualization  
