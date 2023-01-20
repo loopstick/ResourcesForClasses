@@ -196,8 +196,8 @@ Projects website (which itself is a great resource for all sorts of projects).
 
 
 ### Mechatronics Books
-- ~[Cabaret Mechanical Movement](http://cmuems.com/resources/cabaret_mechanical_movement.pdf) by Aiden Lawrence Onn and Gary Alexander~
-- ~[How to Design and Make Automata by Robert Addams](https://drive.google.com/open?id=0B43590UC58A9MXlRU0RTWnhtbkk) also [here](https://issuu.com/hmorenop/docs/addams_robert_-_how_to_design_and_m)~
+- [Cabaret Mechanical Movement](http://www.cs.cmu.edu/afs/cs/academic/class/15394u-s18/resources/cabaret_mechanical_movement.pdf) by Aiden Lawrence Onn and Gary Alexander
+- [How to Design and Make Automata by Robert Addams](http://dennissvoronos.com/yahoo_site_admin/assets/docs/automata1.188190813.pdf) 
 - [Machinations: Mechanisms](https://drive.google.com/open?id=0B43590UC58A9ZHItNmxiWEs2UEk) by Paul Spooner
 - Pages 272-281 in "Physical Computing: Sensing and Controlling the Physical World with Computers" by Igoe/O'Sullivan, available in the Hybrid Lab
 - [Making Things Move](https://www.makingthingsmove.com/about-the-book/) available in the Hybrid Lab, the CCA library and [here](https://mars1980.github.io/resources/making_things_move.pdf)
