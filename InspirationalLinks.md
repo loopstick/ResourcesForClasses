@@ -5,6 +5,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
 &nbsp;   
 #### Physical Computing - Robots  
  - [Survival Research Labs](http://www.srl.org/)
+ - [El Pulpo Mecanico video](https://www.youtube.com/watch?v=DNa6w1a_KIc)
+ - [El Pulpo Mecanico - Makezine](https://makezine.com/article/craft/the-amazing-blazing-elpulpo-mecanico/)
  - [Matt Heckert](http://www.mattheckert.com/)
  - [Jeff Feddersen](https://www.fddrsn.net/portfolio/)
  - [Carl Pisaturo](http://carlpisaturo.com/index.html) - local!
