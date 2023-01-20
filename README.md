@@ -283,6 +283,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Getting Started [project](https://support.bantamtools.com/hc/en-us/articles/115003204926-Bantam-Tools-PCB-Badge)
 - Michael Shiloh's excellent Othermill tutorial
 - [OtherMill video on YouTube](https://www.youtube.com/watch?v=DCGLEa2UUaY)
+- [Collin's Lab: PCB Milling](https://www.youtube.com/watch?v=Yvp9IfGyrXQ)
 
 
 ## Wireless Technologies
