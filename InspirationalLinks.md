@@ -7,7 +7,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Survival Research Labs](http://www.srl.org/)
  - [El Pulpo Mecanico video](https://www.youtube.com/watch?v=DNa6w1a_KIc)
  - [El Pulpo Mecanico - Makezine](https://makezine.com/article/craft/the-amazing-blazing-elpulpo-mecanico/)
- - [Elektra - dragon art car](https://www.engineeredartworks.com/Portfolio/elektra/)a
+ - [Elektra - dragon art car](https://www.engineeredartworks.com/Portfolio/elektra/)
  - [Matt Heckert](http://www.mattheckert.com/)
  - [Jeff Feddersen](https://www.fddrsn.net/portfolio/)
  - [Carl Pisaturo](http://carlpisaturo.com/index.html) - local!
