@@ -25,6 +25,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Chales Sowers](https://www.charlessowers.com/)
  - [FURS](http://fursr.com/projects)
  - [Robb Godshaw](https://robb.cc/Art) - teaches at the Crucible!!
+ - [Cory Barr](https://www.corybarr.com/#/karl/) - teaches at CCA
  - [Chico MacMurtrie](http://amorphicrobotworks.org/)
  - [Kal Spelletich](https://kaltek.wordpress.com/page/2/) - used to teach at the San Francisco Art Institute!
  - [Theo Jansen](http://www.strandbeest.com/)
