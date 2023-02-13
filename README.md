@@ -137,6 +137,10 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - [Capactive Touch Midi Controller](https://www.youtube.com/watch?v=DQ7lrEOZrwc)
 - [Building a MIDI Controller Using Arduino](https://www.youtube.com/watch?v=JZ5yPdoPooU)
 
+## MIDI hardware controllers - use MIDI to drive solenoids, relays, motors, etc
+- [PhOut12v2](https://www.tindie.com/products/knickknacksound/phout12-usb-midi-motor-controller-kit/)
+- [orgautomatech](https://orgautomatix.blog4ever.com/orgautomatech-midi2org64)
+
 ## Arduino Audio resources
 - Adafruit [Audio FX Sound Board + Amp](https://www.adafruit.com/product/2217)
 - Adafruit [Wav Shield](https://www.adafruit.com/product/94)
