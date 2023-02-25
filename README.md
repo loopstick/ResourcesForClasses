@@ -206,6 +206,11 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Pages 272-281 in "Physical Computing: Sensing and Controlling the Physical World with Computers" by Igoe/O'Sullivan, available in the Hybrid Lab
 - [Making Things Move](https://www.makingthingsmove.com/about-the-book/) available in the Hybrid Lab, the CCA library and [here](https://mars1980.github.io/resources/making_things_move.pdf)
 
+## Drawing Machine resources
+- [Gakken Mechanical writing machine](https://www.youtube.com/watch?v=O4k6NLZz2OU)
+- [Gakken Mechanical writing machine on adafruit](https://blog.adafruit.com/2014/08/13/new-product-auto-writing-machine-by-gakken/)
+- [Gakken Mechanical writing machine online app](https://otonanokagaku.net/magazine/vol41/appli/)
+
 ### How to make Gears
 - [MAKE: your own gears](https://makezine.com/2010/06/28/make-your-own-gears/)
 - [Gear generator](http://www.geargenerator.com)
