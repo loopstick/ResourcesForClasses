@@ -166,6 +166,9 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - [MSGE7 Getting Started](https://rheingoldheavy.com/msgeq7-arduino-tutorial-01-getting-started/)
 - [Great Scott!'s Music Reactive Ferrofluid Display](https://www.hackster.io/news/greatscott-s-music-reactive-ferrofluid-display-a22266704130)
 
+## Controlling LOTS of LEDs
+- [LXstudio](https://github.com/heronarts/LXStudio)
+
 
 # Interfacing Arduino with other applications
 
