@@ -66,6 +66,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Nathan Villicana-Shaw](https://www.nathanvillicanashaw.com/)
  - Kristin Neidlinger: [Sensoree](https://www.sensoree.com/artifacts/)
  - [Edwin Dertien](https://edwindertien.nl/)
+ - [Kinematics Lab](https://www.kinematicslab.com/)
 &nbsp; 
 &nbsp;  
 #### Art & Design
