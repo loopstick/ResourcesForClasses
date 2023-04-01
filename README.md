@@ -213,6 +213,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Gakken Mechanical writing machine](https://www.youtube.com/watch?v=O4k6NLZz2OU)
 - [Gakken Mechanical writing machine on adafruit](https://blog.adafruit.com/2014/08/13/new-product-auto-writing-machine-by-gakken/)
 - [Gakken Mechanical writing machine online app](https://otonanokagaku.net/magazine/vol41/appli/)
+- ([Dual Arm Plotter](https://www.instructables.com/CNC-Dual-Arm-Plotter/)
 
 ### How to make Gears
 - [MAKE: your own gears](https://makezine.com/2010/06/28/make-your-own-gears/)
