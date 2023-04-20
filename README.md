@@ -169,6 +169,9 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 ## Controlling LOTS of LEDs
 - [LXstudio](https://github.com/heronarts/LXStudio)
 
+## Video
+- [Multiple video playback with multiple Raspberry Pis](https://medium.com/@_telega/synchronised-video-playback-with-raspberry-pi-2-33e606363002)
+
 
 # Interfacing Arduino with other applications
 
