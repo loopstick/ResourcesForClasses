@@ -150,6 +150,9 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - DF Player Mini
   - http://educ8s.tv/arduino-mp3-player/ (recommended by Tom Zimmerman at Dorkbot)
   - https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
+  
+## Piezo Contact Microphones  
+ - [Mogees Gesture Recognition with Contact Mic](https://www.youtube.com/watch?v=-dPKHLiM9AM&ab_channel=NextTechAI)
 
 ## Making Sounds without Arduino
 1. Basic 40106 (hex Schmitt trigger inverter) [oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
