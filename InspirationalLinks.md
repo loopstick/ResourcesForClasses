@@ -110,6 +110,11 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
 #### Augmented Reality - Virtual Reality - AI - ML
  - [Mandy Stobo](https://stoboart.com/mandy-stobo)
  - [Alexander Reben](https://areben.com/)
+
+#### Projection Mapping
+ - [Bib Goes Home]([https://www.youtube.com/watch?v=eq2lJpIQcIU&t=7s](https://www.youtube.com/watch?v=mrPElNkAbto))
+ - [Joon Y Moon: Chasing Stars in Shadow](https://vimeo.com/782602226)
+   
 &nbsp; 
 &nbsp;  
 #### Data Visualization  
