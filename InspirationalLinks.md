@@ -189,10 +189,18 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Brick in a Washing Machine on a Trampoline](https://www.youtube.com/watch?v=779fMc8ubOo)
  - [Propulsion Painting](https://www.youtube.com/watch?v=TuP-26f0wJw)
  - [LED Throwies](http://www.graffitiresearchlab.com/blog/projects/led-throwies/)
+ &nbsp;
+#### simple kinetic art
+ - [La verdadera "corrida" cambiaria](https://www.instagram.com/reel/Cr00k-lIV5P/?igshid=NjZiM2M3MzIxNA%3D%3D)
  &nbsp; 
-#### "Practical" Electronics & Design
+&nbsp;
+#### Practical Electronics & Design
  - [SpeechJammer TV short](https://www.youtube.com/watch?app=desktop&v=ADuaj7TsAVQ&d=n&ab_channel=Slate)
  - [SpeechJammer](https://www.youtube.com/watch?app=desktop&d=n&feature=youtu.be&fbclid=IwAR1IeJS6sX0_xnLD1ZWOnA-Ry324YP_DEoO4WWpUDUIjzIcOLrWYG70NoQk&v=USDI3wnTZZg&ab_channel=tsukalab)
  - [Creator Burger Robot](https://www.youtube.com/watch?v=5TBnwh7U1AU&ab_channel=RichDeMuro)
  - [Creator owner/founder](https://www.youtube.com/watch?v=CbL_3le40qc&ab_channel=TechCrunch)
- 
+  &nbsp; 
+&nbsp;
+#### shadow art
+ - [Joon Moon portfolio](https://joonmoon.net/?fbclid=PAAab_O47ozrS3qKnjJgWssksOdapJE2C3E6c1gBUnKmhlPJaWFjDg_kxgsiU_aem_th_ARrU5YrVeWXk6xPx5QCjWeinWJSg-1Wu666OLHMBDGxSpP18A5GTOzTKfa93yG6i5nk)
+ - [Google Shadow Art](https://shadowart.withgoogle.com/?lang=en-us#)
