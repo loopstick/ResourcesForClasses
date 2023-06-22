@@ -209,3 +209,6 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
 #### shadow art
  - [Joon Moon portfolio](https://joonmoon.net/?fbclid=PAAab_O47ozrS3qKnjJgWssksOdapJE2C3E6c1gBUnKmhlPJaWFjDg_kxgsiU_aem_th_ARrU5YrVeWXk6xPx5QCjWeinWJSg-1Wu666OLHMBDGxSpP18A5GTOzTKfa93yG6i5nk)
  - [Google Shadow Art](https://shadowart.withgoogle.com/?lang=en-us#)
+
+#### Hacker Olympics
+ - [Muni-powered Prius](https://thebolditalic.com/hacked-prius-running-on-muni-power-lines-the-bold-italic-san-francisco-80cdbe55d68e)
