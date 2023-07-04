@@ -31,7 +31,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Theo Jansen](http://www.strandbeest.com/)
  - [Trimpin](https://en.wikipedia.org/wiki/Trimpin)
  - [Zimoun](https://www.zimoun.net/)
- - [Pe Lang](http://www.pelang.ch/http:)
+ - [Pe Lang](http://www.pelang.ch/)
  - [Gregory Barsimian](http://www.gregorybarsamian.com/)
  - [Reuben Margolin](https://www.reubenmargolin.com/) - local!
  - [Bernie Lubbell](https://bernielubell.com/) - local!
