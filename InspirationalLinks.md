@@ -152,6 +152,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [GamelaTron](https://gamelatron.com/)
  - [Gamelan Wizard](http://www.dualplover.com/gamelanwizard/index.html)
  - [Lucas Abela ](http://dualplover.com/abela/)
+    - [Vinyl Rally](http://dualplover.com/vinylrally/)
  - [quintron drum buddy](http://www.drumbuddy.com/)
  - [Marielle Jackobson](http://mariellejakobsons.com/?page_id=509)- local!
  - [Michael Boyd](https://michaelrboyd.com/confessional)
