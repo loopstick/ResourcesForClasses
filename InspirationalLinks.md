@@ -67,12 +67,14 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - Kristin Neidlinger: [Sensoree](https://www.sensoree.com/artifacts/)
  - [Edwin Dertien](https://edwindertien.nl/)
  - [Kinematics Lab](https://www.kinematicslab.com/)
+ - [Neil Mendoza](https://www.neilmendoza.com/)
 &nbsp; 
 &nbsp;  
 #### Art & Design
  - [Cubli: Floating Cube](https://www.youtube.com/watch?v=n_6p-1J551Y)
  - [Erika Marthins](http://erikamarthins.com/)
  - [Lisa Park](https://www.thelisapark.com/)
+ - [Nemo Gould](https://nemogould.com/)
  - [Mirabelle Jones](http://www.mirabellejones.com/)
  - [Scott Minneman](http://slminneman.com/) - teaches at CCA!!
  - [Olafur Eliasson - design](https://www.olafureliasson.net/)
@@ -105,6 +107,10 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Nassia Inglessis on interactive architecture](https://www.youtube.com/watch?v=qXFAq8EfpvQ)
  - [Dan Flavin](https://www.artsy.net/artist/dan-flavin)
  - [Julie Orser](https://www.julieorser.com)
+ - [Ned Kahn](https://nedkahn.com/)
+ - [Gadeken](https://www.charlesgadeken.com/)
+ - [Leo Villareal](http://villareal.net/)
+   
 &nbsp; 
 &nbsp;  
 #### Augmented Reality - Virtual Reality - AI - ML
