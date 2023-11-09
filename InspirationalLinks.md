@@ -47,10 +47,10 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Roman Signer](http://www.romansigner.ch/en/arbeiten/)
  - [Pedro Reyes](http://pedroreyes.net/)
  - [Pinaffo Pluvinage](https://pinaffo-pluvinage.com/)
- - [Norman Tuck](http://www.normantuck.com/index.html)
+ - [Norman Tuck](http://www.normantuck.com/index.html) - local!
  - [Dance Dance Immolation](https://www.youtube.com/watch?v=7PV__5uEwio)
  - [Jacob Tonski - Balance from Within](https://vimeo.com/72826106)
- - [Simone Geertz](http://www.simonegiertz.com/)
+ - [Simone Geertz](http://www.simonegiertz.com/) - local!
    - [Simone Geertz on YouTube](https://www.youtube.com/c/simonegiertz) 
    - [Simone Geertz Ted Talk](https://www.youtube.com/watch?v=c0bsKc4tiuY)
  - [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw)
@@ -63,8 +63,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Tim Hawkinson - Emoter](https://rvargasresearch.wordpress.com/2014/10/17/influence-tim-hawkinson-emoter/)
  - [Kuan-Ju Wu](https://wukuanju.com/) - teaches at CCA!!
  - [Jie Qi - Origami Robots](http://technolojie.com/origami-robotics/)
- - [Nathan Villicana-Shaw](https://www.nathanvillicanashaw.com/)
- - Kristin Neidlinger: [Sensoree](https://www.sensoree.com/artifacts/)
+ - [Nathan Villicana-Shaw](https://www.nathanvillicanashaw.com/) - local!
+ - Kristin Neidlinger: [Sensoree](https://www.sensoree.com/artifacts/) - local!
  - [Edwin Dertien](https://edwindertien.nl/)
  - [Kinematics Lab](https://www.kinematicslab.com/)
  - [Neil Mendoza](https://www.neilmendoza.com/)
@@ -74,7 +74,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Cubli: Floating Cube](https://www.youtube.com/watch?v=n_6p-1J551Y)
  - [Erika Marthins](http://erikamarthins.com/)
  - [Lisa Park](https://www.thelisapark.com/)
- - [Nemo Gould](https://nemogould.com/)
+ - [Nemo Gould](https://nemogould.com/) - local!
  - [Mirabelle Jones](http://www.mirabellejones.com/)
  - [Scott Minneman](http://slminneman.com/) - teaches at CCA!!
  - [Olafur Eliasson - design](https://www.olafureliasson.net/)
@@ -103,13 +103,12 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Tom Igoe](https://www.tigoe.com/projects.html)
    - [Physical Computing](https://www.youtube.com/watch?v=ix4SHGWtWZg)
    - [Physicality and Conviviality](https://www.youtube.com/watch?v=fi4mN-Oicos)
- - [NYU ITP Clock Club: works](https://www.humanssince1982.com/work) - links to many interesting clock projects
  - [Nassia Inglessis on interactive architecture](https://www.youtube.com/watch?v=qXFAq8EfpvQ)
  - [Dan Flavin](https://www.artsy.net/artist/dan-flavin)
  - [Julie Orser](https://www.julieorser.com)
- - [Ned Kahn](https://nedkahn.com/)
+ - [Ned Kahn](https://nedkahn.com/) - local!
  - [Gadeken](https://www.charlesgadeken.com/)
- - [Leo Villareal](http://villareal.net/)
+ - [Leo Villareal](http://villareal.net/) - local!
    
 &nbsp; 
 &nbsp;  
@@ -191,7 +190,13 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Nathaniel Ober](http://nathanielober.com/portfolio/)
  - [Bill & Mary Buchen](http://sonicarchitecture.com/)
 &nbsp; 
-&nbsp;  
+&nbsp;
+#### Clocks
+- [A Collection of Unusual Clocks YouTube playlist](https://www.youtube.com/playlist?list=PLAxrqEdgtyUVwklrr0-o5DU8HtXBR1BmG)
+- [NYU ITP Clock Club: works](https://itpnyu.github.io/clock-club/) - links to many interesting clock projects
+- [Humans Since 1982](https://www.humanssince1982.com/work)
+&nbsp; 
+&nbsp;
 #### Drink Making Machines 
  - [Benjamin Cowden's cocktail machines](http://www.benjamincowden.com/cocktail/)
  - [Textspresso](http://www.youtube.com/watch?v=kx9D74t7GD8#t=89)
