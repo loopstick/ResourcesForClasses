@@ -92,11 +92,15 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - Sound Sensor: [Freetronics Microphone Sound Input Module](https://www.freetronics.com.au/products/microphone-sound-input-module#.UVskURziD2F)
 - [Arduino Audio Input](https://www.instructables.com/id/Arduino-Audio-Input/) Instructable
 - [Arduino Frequency Detection](https://www.instructables.com/id/Arduino-Frequency-Detection/) Instructable
-- [Sound Sensor based on ZX sound board](https://www.instructables.com/id/Sound-Pressure-sensor-for-Arduino-based-on-ZX-soun/) 
+- [Sound Sensor based on ZX sound board](https://www.instructables.com/id/Sound-Pressure-sensor-for-Arduino-based-on-ZX-soun/)
+
+### Sensor Resources - biodata sensing - plants and Humans
+- [Biodata sonification](https://github.com/electricityforprogress/BiodataSonificationBreadboardKit/blob/ac8b28a86406faa1d3ad3d88cac917c3296f4fc5/Biodata%20Sonification%20-%20Arduino%20Shield%20Breadboard%20Kit%20v02.pdf)
+- EEG - [Mind Controlled Robot Using Arduino and Mindflex](https://www.hackster.io/jithinsanal1610/mind-controlled-robot-using-arduino-and-mindflex-2963f7)
 
 ## Sensor Communication Protocols
 ### I2C
- - [How I2C Communication Works and How To Use It with Arduino](https://howtomechatronics.com/tutorials/arduino/how-i2c-communication-works-and-how-to-use-it-with-arduino/)
+ - [How I2C Communication Works and How To Use It with )Arduino](https://howtomechatronics.com/tutorials/arduino/how-i2c-communication-works-and-how-to-use-it-with-arduino/)
  - [I2C Sensor Examples](  https://labjack.com/support/software/examples/lua-scripting/i2c)
 
 ### SPI
