@@ -144,6 +144,7 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 ## MIDI hardware controllers - use MIDI to drive solenoids, relays, motors, etc
 - [PhOut12v2](https://www.tindie.com/products/knickknacksound/phout12-usb-midi-motor-controller-kit/)
 - [orgautomatech](https://orgautomatix.blog4ever.com/orgautomatech-midi2org64)
+- [MIDI Switcher](https://www.tindie.com/products/hotchk155/midi-switcher-set-your-midi-free/)
 
 ## Arduino Audio resources
 - Adafruit [Audio FX Sound Board + Amp](https://www.adafruit.com/product/2217)
