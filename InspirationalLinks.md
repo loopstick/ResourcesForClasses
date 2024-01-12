@@ -20,8 +20,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Sarah Petkus](http://zoness.com/)
  - [Helen Leigh](https://hackaday.io/helenleigh)
  - [Daniel Rozin website](http://www.smoothware.com/danny/)
-   - [Daniel Rozin's mechanical mirrors (Mashable)](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
-   - [Daniel Rozin's mechanical mirrors (Wired)](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
+   - [Mechanical Mirrors (Mashable) 2min](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
+   - [How This Guy makes Amazing Mechanical Mirrors (Wired) 8min](https://www.youtube.com/watch?v=kV8v2GKC8WA&ab_channel=WIRED)
  - [Steve Parker - War Tubas](https://www.steve-parker.net/war-tuba/) - winner 2021 Guthman Musical instrument Competition
  - [Chales Sowers](https://www.charlessowers.com/)
  - [FURS](http://fursr.com/projects)
@@ -35,6 +35,9 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Pe Lang](http://www.pelang.ch/)
  - [Gregory Barsimian](http://www.gregorybarsamian.com/)
  - [Reuben Margolin](https://www.reubenmargolin.com/) - local!
+   - [On Kinetic Art, 18min]([https://www.youtube.com/watch?v=D2HF-1xjpP8)
+   - [Kinetic Sculpture, 4min](https://www.youtube.com/watch?v=AtKfpDezYYk&ab_channel=PerpetualUseless)
+   - [Sculpting waves in wood and time, 9min](https://www.youtube.com/watch?v=_L052IOoX0Y&ab_channel=TED)
  - [Bernie Lubbell](https://bernielubell.com/) - local!
  - [Harvey Moon video](https://m.youtube.com/watch?v=VufMgHvaoG0)
  - [Harvey Moon website](http://harveymoon.com/)
