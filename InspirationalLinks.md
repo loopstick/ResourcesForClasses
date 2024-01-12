@@ -19,8 +19,10 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Jordan Moss - robotics](https://www.hackster.io/Odd_Jayy/projects) - local!
  - [Sarah Petkus](http://zoness.com/)
  - [Helen Leigh](https://hackaday.io/helenleigh)
- - [Daniel Rozin's mechanical mirrors](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
- - [Daniel Rozin website](http://www.smoothware.com/danny/)
+ - Daniel Rozin
+  - [Daniel Rozin's mechanical mirrors (Mashable)](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
+  - [Daniel Rozin's mechanical mirrors (Wired)](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
+  - [Daniel Rozin website](http://www.smoothware.com/danny/)
  - [Steve Parker - War Tubas](https://www.steve-parker.net/war-tuba/) - winner 2021 Guthman Musical instrument Competition
  - [Chales Sowers](https://www.charlessowers.com/)
  - [FURS](http://fursr.com/projects)
