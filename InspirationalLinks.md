@@ -8,12 +8,15 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Tom Igoe](https://www.tigoe.com/projects.html)
    - [Physical Computing](https://www.youtube.com/watch?v=ix4SHGWtWZg)
    - [Physicality and Conviviality](https://www.youtube.com/watch?v=fi4mN-Oicos)
+ - [Kyle McDonald, People Staring At Computers](https://kylemcdonald.net/psac/)
+   - [When Art, Apple and the Secret Service Collide](https://www.wired.com/2012/07/people-staring-at-computers/)
  - [Survival Research Labs](http://www.srl.org/)
  - [Matt Heckert](http://www.mattheckert.com/)
  - Christian Ristow[website](http://christianristow.com/)
    - [Hand of Man](https://www.youtube.com/watch?v=rgpf7Rcjf-g)
  - [Kal Spelletich](https://kaltek.wordpress.com/page/2/) - used to teach at the San Francisco Art Institute!
  - [Chico MacMurtrie](http://amorphicrobotworks.org/)
+ - [Dance Dance Immolation](https://www.youtube.com/watch?v=7PV__5uEwio)
  - [Jeff Feddersen](https://www.fddrsn.net/portfolio/)
  - [Carl Pisaturo](http://carlpisaturo.com/index.html) - local!
  - [Jacob Tonski - Balance From Within](https://vimeo.com/41786246)
@@ -37,13 +40,12 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Neil Mendoza](http://www.neilmendoza.com/)
  - [Martin Riches](http://martinriches.de/)
  - [Aaron Kramer](https://www.youtube.com/watch?v=ClFmDoOQb54)
- - [Blooms](http://www.johnedmark.com/)
+ - [John Edmark](https://www.johnedmark.com/)
  - [Evan Roth](http://www.evan-roth.com/)
  - [Roman Signer](http://www.romansigner.ch/en/arbeiten/)
  - [Pedro Reyes](http://pedroreyes.net/)
  - [Pinaffo Pluvinage](https://pinaffo-pluvinage.com/)
  - [Norman Tuck](http://www.normantuck.com/index.html) - local!
- - [Dance Dance Immolation](https://www.youtube.com/watch?v=7PV__5uEwio)
  - [Jacob Tonski - Balance from Within](https://vimeo.com/72826106)
  - [Simone Geertz](http://www.simonegiertz.com/) - local!
    - [Simone Geertz on YouTube](https://www.youtube.com/c/simonegiertz) 
@@ -92,7 +94,6 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Christopher Vecchio](http://www.noisemantra.com/)
  - [Emma Strebel](http://emmastrebel.com/) - recently featured videos on Salesforce Tower
  - [HumansSince1982](https://www.humanssince1982.com/work)
-
  - [Nassia Inglessis on interactive architecture](https://www.youtube.com/watch?v=qXFAq8EfpvQ)
  - [Dan Flavin](https://www.artsy.net/artist/dan-flavin)
  - [Julie Orser](https://www.julieorser.com)
