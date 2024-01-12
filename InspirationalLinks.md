@@ -3,23 +3,26 @@
 List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](http://www.ultrafuzz.net/) 
 &nbsp;  
 &nbsp;   
-#### Physical Computing - Robots  
+#### Physical Computing - Robots 
+ - [Golan Levin: Art that looks back at you](https://www.youtube.com/watch?v=1G0MzlfMPuM)
+ - [Tom Igoe](https://www.tigoe.com/projects.html)
+   - [Physical Computing](https://www.youtube.com/watch?v=ix4SHGWtWZg)
+   - [Physicality and Conviviality](https://www.youtube.com/watch?v=fi4mN-Oicos)
  - [Survival Research Labs](http://www.srl.org/)
- - [El Pulpo Mecanico video](https://www.youtube.com/watch?v=DNa6w1a_KIc)
- - [El Pulpo Mecanico - Makezine](https://makezine.com/article/craft/the-amazing-blazing-elpulpo-mecanico/)
- - [Elektra - dragon art car](https://www.engineeredartworks.com/Portfolio/elektra/)
  - [Matt Heckert](http://www.mattheckert.com/)
+ - Christian Ristow[website](http://christianristow.com/)
+   - [Hand of Man](https://www.youtube.com/watch?v=rgpf7Rcjf-g)
+ - [Kal Spelletich](https://kaltek.wordpress.com/page/2/) - used to teach at the San Francisco Art Institute!
+ - [Chico MacMurtrie](http://amorphicrobotworks.org/)
  - [Jeff Feddersen](https://www.fddrsn.net/portfolio/)
  - [Carl Pisaturo](http://carlpisaturo.com/index.html) - local!
- - [Arthur Ganson](http://arthurganson.com/ )
- - [Golan Levin: Art that looks back at you](https://www.youtube.com/watch?v=1G0MzlfMPuM)
  - [Jacob Tonski - Balance From Within](https://vimeo.com/41786246)
  - [North Pitney](http://www.northpitney.com/) - used to teach Interface at CCA!!
  - [Alex Glow](http://alexglow.com/) - local!
  - [Jordan Moss - robotics](https://www.hackster.io/Odd_Jayy/projects) - local!
  - [Sarah Petkus](http://zoness.com/)
  - [Helen Leigh](https://hackaday.io/helenleigh)
- - [Daniel Rozin website](http://www.smoothware.com/danny/)
+ - Daniel Rozin [website](http://www.smoothware.com/danny/)
    - [Mechanical Mirrors (Mashable) 2min](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
    - [How This Guy makes Amazing Mechanical Mirrors (Wired) 8min](https://www.youtube.com/watch?v=kV8v2GKC8WA&ab_channel=WIRED)
  - [Steve Parker - War Tubas](https://www.steve-parker.net/war-tuba/) - winner 2021 Guthman Musical instrument Competition
@@ -27,22 +30,10 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [FURS](http://fursr.com/projects)
  - [Robb Godshaw](https://robb.cc/Art) - teaches at the Crucible!!
  - [Cory Barr](https://www.corybarr.com/#/karl/) - teaches at CCA
- - [Chico MacMurtrie](http://amorphicrobotworks.org/)
- - [Kal Spelletich](https://kaltek.wordpress.com/page/2/) - used to teach at the San Francisco Art Institute!
- - [Theo Jansen](http://www.strandbeest.com/)
- - [Trimpin](https://en.wikipedia.org/wiki/Trimpin)
- - [Zimoun](https://www.zimoun.net/)
- - [Pe Lang](http://www.pelang.ch/)
  - [Gregory Barsimian](http://www.gregorybarsamian.com/)
- - [Reuben Margolin](https://www.reubenmargolin.com/) - local!
-   - [On Kinetic Art, 18min]([https://www.youtube.com/watch?v=D2HF-1xjpP8)
-   - [Kinetic Sculpture, 4min](https://www.youtube.com/watch?v=AtKfpDezYYk&ab_channel=PerpetualUseless)
-   - [Sculpting waves in wood and time, 9min](https://www.youtube.com/watch?v=_L052IOoX0Y&ab_channel=TED)
  - [Bernie Lubbell](https://bernielubell.com/) - local!
- - [Harvey Moon video](https://m.youtube.com/watch?v=VufMgHvaoG0)
- - [Harvey Moon website](http://harveymoon.com/)
- - [Christian Ristow](http://christianristow.com/)
- - [Hand of Man](https://www.youtube.com/watch?v=rgpf7Rcjf-g)
+ - Harvey Moon [website](http://harveymoon.com/)
+   - [Harvey Moon video](https://m.youtube.com/watch?v=VufMgHvaoG0)  
  - [Neil Mendoza](http://www.neilmendoza.com/)
  - [Martin Riches](http://martinriches.de/)
  - [Aaron Kramer](https://www.youtube.com/watch?v=ClFmDoOQb54)
@@ -94,35 +85,50 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [James Turell - light art, land art]( http://jamesturrell.com/work/type/)
  - [Jim Campbell](https://www.jimcampbell.tv/)
  - [Yayoi Kusama](https://www.youtube.com/watch?v=8VwJMw_fLvI)
- - [Christopher Schardt](http://schardt.org/) - local!
- - [The Bay Lights](http://thebaylights.org/) - local!
  - [Murmur Wall](http://www.future-cities-lab.net/projects/#/murmurwall/)
  - [Aaron Soloway](http://www.aaronsoloway.com/) - teaches at CCA!!
  - [Chris Milk](http://milk.co/forest-tate)
  - [Scott Kildall](https://kildall.com/) - teaches at USF!!
  - [Christopher Vecchio](http://www.noisemantra.com/)
- - [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)
- - [Emma Strebel](http://emmastrebel.com/) - recently featured vidos on Salesforce Tower
+ - [Emma Strebel](http://emmastrebel.com/) - recently featured videos on Salesforce Tower
  - [HumansSince1982](https://www.humanssince1982.com/work)
- - [Tom Igoe](https://www.tigoe.com/projects.html)
-   - [Physical Computing](https://www.youtube.com/watch?v=ix4SHGWtWZg)
-   - [Physicality and Conviviality](https://www.youtube.com/watch?v=fi4mN-Oicos)
+
  - [Nassia Inglessis on interactive architecture](https://www.youtube.com/watch?v=qXFAq8EfpvQ)
  - [Dan Flavin](https://www.artsy.net/artist/dan-flavin)
  - [Julie Orser](https://www.julieorser.com)
- - [Ned Kahn](https://nedkahn.com/) - local!
- - [Gadeken](https://www.charlesgadeken.com/)
+
+ #### Light Art
+ - [Charles Gadeken](https://www.charlesgadeken.com/)
  - [Leo Villareal](http://villareal.net/) - local!
-   
+ - [Christopher Schardt](http://schardt.org/) - local!
+ - [The Bay Lights](http://thebaylights.org/) - local!
+ - 
+#### Kinetic Sculptures
+ - [Arthur Ganson](https://www.arthurganson.com/) 
+ - [Oliver DiCicco](https://www.oliverdicicco.com/) - local!
+ - [Ned Kahn](https://nedkahn.com/) - local!
+ - John Edmark [website](https://www.johnedmark.com/) - local!
+   - [Creating The Never-Ending Bloom](https://www.youtube.com/watch?v=B5p2A5mazEs&ab_channel=SciFri)
+ - David C. Roy [website](https://www.woodthatworks.com/)
+   - [How This Guy Builds Mesmerizing Kinetic Sculptures (WIRED) 11min](https://www.youtube.com/watch?v=ROP45rjvOHg&ab_channel=WIRED)
+  - [Theo Jansen](http://www.strandbeest.com/)
+ - Reuben Margolin[website](https://www.reubenmargolin.com/) - local!
+   - [On Kinetic Art, 18min]([https://www.youtube.com/watch?v=D2HF-1xjpP8)
+   - [Kinetic Sculpture, 4min](https://www.youtube.com/watch?v=AtKfpDezYYk&ab_channel=PerpetualUseless)
+   - [Sculpting waves in wood and time, 9min](https://www.youtube.com/watch?v=_L052IOoX0Y&ab_channel=TED)
+
 &nbsp; 
 &nbsp;  
 #### Augmented Reality - Virtual Reality - AI - ML
  - [Mandy Stobo](https://stoboart.com/mandy-stobo)
  - [Alexander Reben](https://areben.com/)
-
+ - 
+&nbsp; 
+&nbsp;  
 #### Projection Mapping
  - [Bib Goes Home]([https://www.youtube.com/watch?v=eq2lJpIQcIU&t=7s](https://www.youtube.com/watch?v=mrPElNkAbto))
  - [Joon Y Moon: Chasing Stars in Shadow](https://vimeo.com/782602226)
+ - [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)
    
 &nbsp; 
 &nbsp;  
@@ -156,24 +162,30 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Yuri Suzuki - sound artist, designer](http://yurisuzuki.com/artist)
  - [Maywa Denki](https://www.maywadenki.com/)
  - [Christina Kubisch](http://www.christinakubisch.de/en/works)
- - [Tim Thompson - Space Palette](https://www.spacepalette.com/) - local!
+ - Tim Thompson - Space Palettes[website](https://www.spacepalette.com/) - local!
+   - [Space Palette - an introduction](https://www.youtube.com/watch?v=kgY9QX3eDdI&ab_channel=TimThompson)
+   - [Adventures in Casual Instruments (C4NM) 1hour](https://www.youtube.com/watch?v=egHB8Sk5VNA&ab_channel=TimThompson)
  - [Eric Singer (LEMUR)](http://www.singerbots.com)
- - [GamelaTron](https://gamelatron.com/)
+ - Gamelatron[website](https://gamelatron.com/)
+   - [Gamelatron Project, 2018](https://www.youtube.com/watch?v=Oy4YJfVXV0U&ab_channel=gamelatron)
+   - [The Gamelatron, Project Video, 2015](https://www.youtube.com/watch?v=nGZ_6zjuw1U&ab_channel=gamelatron)
+   - [Gamelatron Robotic Orchestra](https://www.youtube.com/watch?v=-cN7nJz2aVk&ab_channel=WIRED)
  - [Gamelan Wizard](http://www.dualplover.com/gamelanwizard/index.html)
  - [Lucas Abela ](http://dualplover.com/abela/)
     - [Vinyl Rally](http://dualplover.com/vinylrally/)
- - [quintron drum buddy](http://www.drumbuddy.com/)
+ - [Quintron - drum buddy](http://www.drumbuddy.com/)
  - [Marielle Jackobson](http://mariellejakobsons.com/?page_id=509)- local!
  - [Michael Boyd](https://michaelrboyd.com/confessional)
  - [Bryan Jacobs - Subwhistle](http://www.fetafoundation.org/fetaprize/2016/1/1/bryan-jacobs-sub-whistle)
  - [Syzygryd](http://test.nicolation.net/installations/syzygryd/)
  - [Troy Rogers](http://www.troy82.com/)
- - [FLEX (Contraption Quartet)](https://eastbay.makerfaire.com/maker/entry/767/)
+ - [FLEX (Contraption Quartet)](https://www.contraptionquartet.com/)
  - [Jay Kreimer](http://jaykreimer.com/)
  - [Jay's museum](http://www.jaysmuseum.com/fractaldulcimer.htm)
  - [Logos foundation ](https://www.logosfoundation.org/)
- - [Hugh Davies](https://www.youtube.com/watch?v=wPT9A0IsGgs)
- - [Hugh Davies - sho-zyg exhibition](http://sho-zyg.com/)
+ - Hugh Davies[Wikipedia](https://en.wikipedia.org/wiki/Hugh_Davies_(composer))
+   - [Hugh Davies](https://www.youtube.com/watch?v=wPT9A0IsGgs)
+   - [Hugh Davies - sho-zyg exhibition](http://sho-zyg.com/)
  - [David Rosenboom](http://www.lovely.com/bios/rosenboom.html)
  - [Yasmin Electro Mechanical Sequencer](https://www.youtube.com/watch?v=MjNB3nKPMb8)
  - [Frits Lyneborg - Drum Machine robot](https://www.youtube.com/watch?v=Zn5RNgCWD_8)
@@ -193,6 +205,9 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
    - [We Are Here FM](https://www.wearehere.fm/?fbclid=IwAR3WV80L74hR0w8EYAt5jJ0DKqt-pBvm9g7VcGKgshVOo6pt56r2QeROx14) 
  - [Nathaniel Ober](http://nathanielober.com/portfolio/)
  - [Bill & Mary Buchen](http://sonicarchitecture.com/)
+ - [Oliver DiCicco](https://www.oliverdicicco.com/)
+ - [Zimoun](https://www.zimoun.net/)
+ - [Pe Lang](http://www.pelang.ch/)
 &nbsp; 
 &nbsp;
 #### Clocks
@@ -201,11 +216,19 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
 - [Humans Since 1982](https://www.humanssince1982.com/work)
 &nbsp; 
 &nbsp;
+#### Art Cars
+- El Pulpo Mecanico [website](https://www.elpulpomecanico.com/)
+  - [The Amazing, Blazing El Pulpo Mecanico (Makezine)](https://makezine.com/article/craft/the-amazing-blazing-elpulpo-mecanico/)
+  - [video](https://www.youtube.com/watch?v=DNa6w1a_KIc)
+ - [Elektra - dragon art car](https://www.engineeredartworks.com/Portfolio/elektra/)
+&nbsp; 
+&nbsp;
 #### Drink Making Machines 
  - [Benjamin Cowden's cocktail machines](http://www.benjamincowden.com/cocktail/)
  - [Textspresso](http://www.youtube.com/watch?v=kx9D74t7GD8#t=89)
  - [The Inebriator](http://www.youtube.com/watch?v=WqY7fchs7H0)
- &nbsp; 
+&nbsp; 
+&nbsp;
 #### Lo-fi tech art
  - [Brick in a Washing Machine on a Trampoline](https://www.youtube.com/watch?v=779fMc8ubOo)
  - [Propulsion Painting](https://www.youtube.com/watch?v=TuP-26f0wJw)
@@ -213,18 +236,19 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  &nbsp;
 #### simple kinetic art
  - [La verdadera "corrida" cambiaria](https://www.instagram.com/reel/Cr00k-lIV5P/?igshid=NjZiM2M3MzIxNA%3D%3D)
- &nbsp; 
+&nbsp; 
 &nbsp;
 #### Practical Electronics & Design
  - [SpeechJammer TV short](https://www.youtube.com/watch?app=desktop&v=ADuaj7TsAVQ&d=n&ab_channel=Slate)
  - [SpeechJammer](https://www.youtube.com/watch?app=desktop&d=n&feature=youtu.be&fbclid=IwAR1IeJS6sX0_xnLD1ZWOnA-Ry324YP_DEoO4WWpUDUIjzIcOLrWYG70NoQk&v=USDI3wnTZZg&ab_channel=tsukalab)
  - [Creator Burger Robot](https://www.youtube.com/watch?v=5TBnwh7U1AU&ab_channel=RichDeMuro)
  - [Creator owner/founder](https://www.youtube.com/watch?v=CbL_3le40qc&ab_channel=TechCrunch)
-  &nbsp; 
+&nbsp; 
 &nbsp;
 #### shadow art
  - [Joon Moon portfolio](https://joonmoon.net/?fbclid=PAAab_O47ozrS3qKnjJgWssksOdapJE2C3E6c1gBUnKmhlPJaWFjDg_kxgsiU_aem_th_ARrU5YrVeWXk6xPx5QCjWeinWJSg-1Wu666OLHMBDGxSpP18A5GTOzTKfa93yG6i5nk)
  - [Google Shadow Art](https://shadowart.withgoogle.com/?lang=en-us#)
-
+&nbsp; 
+&nbsp;
 #### Hacker Olympics
  - [Muni-powered Prius](https://thebolditalic.com/hacked-prius-running-on-muni-power-lines-the-bold-italic-san-francisco-80cdbe55d68e)
