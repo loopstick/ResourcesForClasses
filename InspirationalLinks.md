@@ -158,7 +158,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
 
 #### Sound Art - Music  
  - [Yuri Suzuki - sound artist, designer](http://yurisuzuki.com/artist)
- - [Maywa Denki](https://www.maywadenki.com/)
+ - Maywa Denki [website](https://www.maywadenki.com/)
+   - [Maywa Denki Ted Talk](https://www.youtube.com/watch?v=jKPBD3HHU4g&ab_channel=TEDxTalks) 
  - [Christina Kubisch](http://www.christinakubisch.de/en/works)
  - Tim Thompson - Space Palettes[website](https://www.spacepalette.com/) - local!
    - [Space Palette - an introduction](https://www.youtube.com/watch?v=kgY9QX3eDdI&ab_channel=TimThompson)
