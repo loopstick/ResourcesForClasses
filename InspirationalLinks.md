@@ -206,6 +206,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Oliver DiCicco](https://www.oliverdicicco.com/)
  - [Zimoun](https://www.zimoun.net/)
  - [Pe Lang](http://www.pelang.ch/)
+ - [Trace Bloom](https://tracebloom.com/projects)
 
 #### Clocks
 - [A Collection of Unusual Clocks YouTube playlist](https://www.youtube.com/playlist?list=PLAxrqEdgtyUVwklrr0-o5DU8HtXBR1BmG)
