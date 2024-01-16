@@ -231,6 +231,11 @@ Projects website (which itself is a great resource for all sorts of projects).
   - [Gakken Mechanical writing machine online app](https://otonanokagaku.net/magazine/vol41/appli/)
 - [Cycloid Drawing Machine (kickstarter)](https://www.kickstarter.com/projects/1765367532/cycloid-drawing-machine)
 - [Dual Arm Plotter](https://www.instructables.com/CNC-Dual-Arm-Plotter/)
+- [Experimental Form: Drawing Machines](https://www.youtube.com/watch?v=MiCP1FluiY0&ab_channel=cmudesign)
+- [Illumicon Drawing Machine](https://www.youtube.com/watch?v=Qc_Vo3SbfUE&ab_channel=WayneSchmidt)
+- [Homemade Harmonograph](https://www.youtube.com/watch?v=HJYvc-ISrf8&ab_channel=WayneSchmidt)
+- [Analog Drawing Machine](https://www.youtube.com/watch?v=TP8hVYSHvrs&ab_channel=RobertBalke)
+- [Meccano Guiloche Drawing Machine](https://www.youtube.com/watch?v=Csf-62DfY48&ab_channel=AntoniGualVia)
 
 ### How to make Gears
 - [MAKE: your own gears](https://makezine.com/2010/06/28/make-your-own-gears/)
