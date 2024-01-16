@@ -151,12 +151,15 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Eggbot](https://www.youtube.com/watch?v=w4cdbV2oaEc)
  - [Drawdio](https://www.youtube.com/watch?v=PV_w38ldZaE)
  - [Neil Mendoza - Hamster Powered Hamster Drawing Machine](http://www.neilmendoza.com/portfolio/hamster-powered-hamster-drawing-machine/)
+ - [Bryan Cera Drawing Machines](https://www.bryancera.com/drawing-machines)
  - [This is Colossal - Drawing Machines](https://www.thisiscolossal.com/tags/drawing-machines/)
  - [Design Boom - Drawing Machines](https://www.designboom.com/tag/drawing-machines/)
  - [Cycloid Drawing Machine](https://www.youtube.com/watch?v=LxapR3YIozQ)
+   - [Cycloid Drawing Machine (kiskstarter)](https://www.kickstarter.com/projects/1765367532/cycloid-drawing-machine)
  - [Laser Drawing Machine](https://www.instructables.com/id/Laser-Drawing-Machine/)
  - [SCARA Robot](https://www.instructables.com/id/SCARA-Robot-Learning-About-Foward-and-Inverse-Kine/)
  - [Cute machine found on Instagram](https://www.instagram.com/reel/CMC0_P2JAAm/?igshid=1x2t6v21g6ljx)
+ - 
  &nbsp; 
   &nbsp; 
 #### Sound Art - Music  
