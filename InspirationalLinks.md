@@ -12,7 +12,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
    - [When Art, Apple and the Secret Service Collide](https://www.wired.com/2012/07/people-staring-at-computers/)
  - [Survival Research Labs](http://www.srl.org/)
  - [Matt Heckert](http://www.mattheckert.com/)
- - Christian Ristow[website](http://christianristow.com/)
+ - Christian Ristow [website](http://christianristow.com/)
    - [Hand of Man](https://www.youtube.com/watch?v=rgpf7Rcjf-g)
  - [Kal Spelletich](https://kaltek.wordpress.com/page/2/) - used to teach at the San Francisco Art Institute!
  - [Chico MacMurtrie](http://amorphicrobotworks.org/)
