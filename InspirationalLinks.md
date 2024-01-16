@@ -103,6 +103,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Leo Villareal](http://villareal.net/) - local!
  - [Christopher Schardt](http://schardt.org/) - local!
  - [The Bay Lights](http://thebaylights.org/) - local!
+
  - 
 #### Kinetic Sculptures
  - [Arthur Ganson](https://www.arthurganson.com/) 
@@ -117,22 +118,18 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
    - [On Kinetic Art, 18min]([https://www.youtube.com/watch?v=D2HF-1xjpP8)
    - [Kinetic Sculpture, 4min](https://www.youtube.com/watch?v=AtKfpDezYYk&ab_channel=PerpetualUseless)
    - [Sculpting waves in wood and time, 9min](https://www.youtube.com/watch?v=_L052IOoX0Y&ab_channel=TED)
-
 &nbsp; 
 &nbsp;  
 #### Augmented Reality - Virtual Reality - AI - ML
  - [Mandy Stobo](https://stoboart.com/mandy-stobo)
  - [Alexander Reben](https://areben.com/)
  - 
-&nbsp; 
-&nbsp;  
+
 #### Projection Mapping
  - [Bib Goes Home]([https://www.youtube.com/watch?v=eq2lJpIQcIU&t=7s](https://www.youtube.com/watch?v=mrPElNkAbto))
  - [Joon Y Moon: Chasing Stars in Shadow](https://vimeo.com/782602226)
- - [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)
-   
-&nbsp; 
-&nbsp;  
+ - [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)   
+
 #### Data Visualization  
  - [Ben Fry](https://benfry.com/projects/)
  - [Aaron Koblin](http://www.aaronkoblin.com/project/flight-patterns/)
@@ -141,8 +138,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Phillip Stearns - Memory Textile weaving](https://vimeo.com/71044541)
  - [Julius Popp - bit.fall](https://www.illuminateproductions.co.uk/bitfall)
  - [Mark Lotter - Cubatron](http://www.3waylabs.com/projects/mc/)
- &nbsp; 
-&nbsp;  
+
 #### Drawing Machines 
  - Painting Robots [Paul Kirby](https://vimeo.com/594934366) 
  - [Harvey Moon's Drawing Machines](https://www.youtube.com/watch?v=VufMgHvaoG0)
@@ -155,13 +151,11 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [This is Colossal - Drawing Machines](https://www.thisiscolossal.com/tags/drawing-machines/)
  - [Design Boom - Drawing Machines](https://www.designboom.com/tag/drawing-machines/)
  - [Cycloid Drawing Machine](https://www.youtube.com/watch?v=LxapR3YIozQ)
-   - [Cycloid Drawing Machine (kiskstarter)](https://www.kickstarter.com/projects/1765367532/cycloid-drawing-machine)
+   - [Cycloid Drawing Machine (kickstarter)](https://www.kickstarter.com/projects/1765367532/cycloid-drawing-machine)
  - [Laser Drawing Machine](https://www.instructables.com/id/Laser-Drawing-Machine/)
  - [SCARA Robot](https://www.instructables.com/id/SCARA-Robot-Learning-About-Foward-and-Inverse-Kine/)
  - [Cute machine found on Instagram](https://www.instagram.com/reel/CMC0_P2JAAm/?igshid=1x2t6v21g6ljx)
- - 
- &nbsp; 
-  &nbsp; 
+
 #### Sound Art - Music  
  - [Yuri Suzuki - sound artist, designer](http://yurisuzuki.com/artist)
  - [Maywa Denki](https://www.maywadenki.com/)
@@ -212,8 +206,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Oliver DiCicco](https://www.oliverdicicco.com/)
  - [Zimoun](https://www.zimoun.net/)
  - [Pe Lang](http://www.pelang.ch/)
-&nbsp; 
-&nbsp;
+
 #### Clocks
 - [A Collection of Unusual Clocks YouTube playlist](https://www.youtube.com/playlist?list=PLAxrqEdgtyUVwklrr0-o5DU8HtXBR1BmG)
 - [NYU ITP Clock Club: works](https://itpnyu.github.io/clock-club/) - links to many interesting clock projects
