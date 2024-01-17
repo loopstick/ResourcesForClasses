@@ -208,7 +208,9 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Zimoun](https://www.zimoun.net/)
  - [Pe Lang](http://www.pelang.ch/)
  - [Trace Bloom](https://tracebloom.com/projects)
+ - [Bill Napier-Hemy](https://www.youtube.com/watch?v=c6H03YROFLo&ab_channel=BillNapier-Hemy)
 
+ - 
 #### Clocks
 - [A Collection of Unusual Clocks YouTube playlist](https://www.youtube.com/playlist?list=PLAxrqEdgtyUVwklrr0-o5DU8HtXBR1BmG)
 - [NYU ITP Clock Club: works](https://itpnyu.github.io/clock-club/) - links to many interesting clock projects
