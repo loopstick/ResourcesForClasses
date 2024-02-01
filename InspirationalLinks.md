@@ -65,6 +65,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Edwin Dertien](https://edwindertien.nl/)
  - [Kinematics Lab](https://www.kinematicslab.com/)
  - [Neil Mendoza](https://www.neilmendoza.com/)
+ - [Barbie Liberation Organization](https://www.barbieliberation.org/history)
 &nbsp; 
 &nbsp;  
 #### Art & Design
