@@ -25,11 +25,11 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Jordan Moss - robotics](https://www.hackster.io/Odd_Jayy/projects) - local!
  - [Sarah Petkus](http://zoness.com/)
  - [Helen Leigh](https://hackaday.io/helenleigh)
- - Daniel Rozin [website](http://www.smoothware.com/danny/)
+ - Daniel Rozin [website](http://www.smoothware.com/danny/) - ITP NYU
    - [Mechanical Mirrors (Mashable) 2min](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
    - [How This Guy makes Amazing Mechanical Mirrors (Wired) 8min](https://www.youtube.com/watch?v=kV8v2GKC8WA&ab_channel=WIRED)
  - [Steve Parker - War Tubas](https://www.steve-parker.net/war-tuba/) - winner 2021 Guthman Musical instrument Competition
- - [Chales Sowers](https://www.charlessowers.com/)
+ - [Chales Sowers](https://www.charlessowers.com/)- local! Works the Exploratorium!
  - [FURS](http://fursr.com/projects)
  - [Robb Godshaw](https://robb.cc/Art) - teaches at the Crucible!!
  - [Cory Barr](https://www.corybarr.com/#/karl/) - teaches at CCA
@@ -40,13 +40,13 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Neil Mendoza](http://www.neilmendoza.com/)
  - [Martin Riches](http://martinriches.de/)
  - [Aaron Kramer](https://www.youtube.com/watch?v=ClFmDoOQb54)
- - [John Edmark](https://www.johnedmark.com/)
+ - [John Edmark](https://www.johnedmark.com/) - local! (Stanford)
  - [Evan Roth](http://www.evan-roth.com/)
  - [Roman Signer](http://www.romansigner.ch/en/arbeiten/)
  - [Pedro Reyes](http://pedroreyes.net/)
  - [Pinaffo Pluvinage](https://pinaffo-pluvinage.com/)
  - [Norman Tuck](http://www.normantuck.com/index.html) - local!
- - [Jacob Tonski - Balance from Within](https://vimeo.com/72826106)
+ - [Jacob Tonski - Balance from Within](https://vimeo.com/72826106) - local! Works the Exploratorium!
  - [Simone Geertz](http://www.simonegiertz.com/) - local!
    - [Simone Geertz on YouTube](https://www.youtube.com/c/simonegiertz) 
    - [Simone Geertz Ted Talk](https://www.youtube.com/watch?v=c0bsKc4tiuY)
@@ -58,14 +58,15 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Takis](https://atelierholsboer.wordpress.com/2015/02/19/takis-the-veneration-of-a-local-hero/)
  - [Tad Ermitano](http://www.1335mabini.com/tad-ermitano-selected-works/)
  - [Tim Hawkinson - Emoter](https://rvargasresearch.wordpress.com/2014/10/17/influence-tim-hawkinson-emoter/)
- - [Kuan-Ju Wu](https://wukuanju.com/) - teaches at CCA!!
+ - [Kuan-Ju Wu](https://wukuanju.com/) - taught at CCA and UC Berkeley!!
  - [Jie Qi - Origami Robots](http://technolojie.com/origami-robotics/)
  - [Nathan Villicana-Shaw](https://www.nathanvillicanashaw.com/) - local!
  - Kristin Neidlinger: [Sensoree](https://www.sensoree.com/artifacts/) - local!
  - [Edwin Dertien](https://edwindertien.nl/)
  - [Kinematics Lab](https://www.kinematicslab.com/)
  - [Neil Mendoza](https://www.neilmendoza.com/)
- - [Barbie Liberation Organization](https://www.barbieliberation.org/history)
+ - [Barbie Liberation Organization](https://www.barbieliberation.org/history) - local!
+ - [Almost Scientific](https://www.almostscientific.com/) (Alan Rorie) - local!
 &nbsp; 
 &nbsp;  
 #### Art & Design
@@ -93,17 +94,18 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Chris Milk](http://milk.co/forest-tate)
  - [Scott Kildall](https://kildall.com/) - teaches at USF!!
  - [Christopher Vecchio](http://www.noisemantra.com/)
- - [Emma Strebel](http://emmastrebel.com/) - recently featured videos on Salesforce Tower
+ - [Emma Strebel](http://emmastrebel.com/) - manages video projections on Salesforce Tower
  - [HumansSince1982](https://www.humanssince1982.com/work)
  - [Nassia Inglessis on interactive architecture](https://www.youtube.com/watch?v=qXFAq8EfpvQ)
  - [Dan Flavin](https://www.artsy.net/artist/dan-flavin)
- - [Julie Orser](https://www.julieorser.com)
+ - [Julie Orser](https://www.julieorser.com) - 
 
  #### Light Art
- - [Charles Gadeken](https://www.charlesgadeken.com/)
+ - [Charles Gadeken](https://www.charlesgadeken.com/) - local!
  - [Leo Villareal](http://villareal.net/) - local!
+   - [The Bay Lights](http://thebaylights.org/) - local!
  - [Christopher Schardt](http://schardt.org/) - local!
- - [The Bay Lights](http://thebaylights.org/) - local!
+
 
  - 
 #### Kinetic Sculptures
@@ -123,7 +125,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
 &nbsp;  
 #### Augmented Reality - Virtual Reality - AI - ML
  - [Mandy Stobo](https://stoboart.com/mandy-stobo)
- - [Alexander Reben](https://areben.com/)
+ - [Alexander Reben](https://areben.com/) - local! Stochastic Labs in Berkeley
  - 
 
 #### Projection Mapping
@@ -205,7 +207,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
    - [We Are Here FM](https://www.wearehere.fm/?fbclid=IwAR3WV80L74hR0w8EYAt5jJ0DKqt-pBvm9g7VcGKgshVOo6pt56r2QeROx14) 
  - [Nathaniel Ober](http://nathanielober.com/portfolio/)
  - [Bill & Mary Buchen](http://sonicarchitecture.com/)
- - [Oliver DiCicco](https://www.oliverdicicco.com/)
+ - [Oliver DiCicco](https://www.oliverdicicco.com/) - local!
  - [Zimoun](https://www.zimoun.net/)
  - [Pe Lang](http://www.pelang.ch/)
  - [Trace Bloom](https://tracebloom.com/projects)
