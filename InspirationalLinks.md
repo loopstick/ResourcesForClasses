@@ -212,6 +212,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Pe Lang](http://www.pelang.ch/)
  - [Trace Bloom](https://tracebloom.com/projects)
  - [Bill Napier-Hemy](https://www.youtube.com/watch?v=c6H03YROFLo&ab_channel=BillNapier-Hemy)
+ - [Zach Poff](https://www.zachpoff.com/artwork/)
 
  - 
 #### Clocks
