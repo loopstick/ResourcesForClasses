@@ -93,6 +93,7 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - [Arduino Audio Input](https://www.instructables.com/id/Arduino-Audio-Input/) Instructable
 - [Arduino Frequency Detection](https://www.instructables.com/id/Arduino-Frequency-Detection/) Instructable
 - [Sound Sensor based on ZX sound board](https://www.instructables.com/id/Sound-Pressure-sensor-for-Arduino-based-on-ZX-soun/)
+- [Passive and Active Piezo Buzzer with Arduino](https://www.youtube.com/watch?v=gj-H_agfd6U)
 
 ### Sensor Resources - biodata sensing - plants and Humans
 - [Biodata sonification](https://github.com/electricityforprogress/BiodataSonificationBreadboardKit/blob/ac8b28a86406faa1d3ad3d88cac917c3296f4fc5/Biodata%20Sonification%20-%20Arduino%20Shield%20Breadboard%20Kit%20v02.pdf)
