@@ -31,6 +31,7 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - Google anything you can think of and the word “Arduino”
 - One website’s opinion of the [top 40 Arduino Projects](http://hacknmod.com/hack/top-40-arduino-projects-of-the-web/)
 - [Pull-up & Pull-down resistors](https://www.seeedstudio.com/blog/2020/02/21/pull-up-resistor-vs-pull-down-differences-arduino-guide/)
+- [Understanding pull-up resistors](https://www.instructables.com/Understanding-the-Pull-up-Resistor-With-Arduino/)
 
  
  ### Arduino Types 
