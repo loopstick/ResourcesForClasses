@@ -67,6 +67,10 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [Neil Mendoza](https://www.neilmendoza.com/)
  - [Barbie Liberation Organization](https://www.barbieliberation.org/history) - local!
  - [Almost Scientific](https://www.almostscientific.com/) (Alan Rorie) - local!
+ - [Michael Schippling](https://www.etantdonnes.com/main.html)
+   - [kinetic scullptures](https://www.etantdonnes.com/monkinetic.html)
+   - [youTube channel](https://www.youtube.com/@schip666/videos)
+   - [Feeling Abandoned](https://www.etantdonnes.com/KINETIC13/feelAbandon.html)
 &nbsp; 
 &nbsp;  
 #### Art & Design
