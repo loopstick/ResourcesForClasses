@@ -300,6 +300,10 @@ Projects website (which itself is a great resource for all sorts of projects).
 
 ## Connecting Processing to Arduino
 - SparkFun tutorial: [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
+- 
+## Raspberry Pi Video Looper
+- Simple instructions: (https://videolooper.de/)
+- a little more clear: (https://learn.adafruit.com/raspberry-pi-video-looper/installation)
 
 ## Soldering
 - [Adafruit soldering guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all) 
