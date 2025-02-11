@@ -194,6 +194,11 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - SparkFun [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
 - Arduino [Visualization with Arduino and Processing](https://www.arduino.cc/education/visualization-with-arduino-and-processing)
 
+## p5.js and Arduino
+- ITP NYU [Serial Input to P5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
+- Medium [Tutorial: Serial Communication with Arduino and p5.js](https://medium.com/@yyyyyyyuan/tutorial-serial-communication-with-arduino-and-p5-js-cd39b3ac10ce)
+- [Connecting Arduino to P5](https://pdm.lsupathways.org/4_physicalcomputing/3_serialcommunication/2_lesson_2/)
+
 ## Max and Arduino
 - [Firmata](https://docs.arduino.cc/hacking/software/FirmataLibrary)
 - Maxuino
