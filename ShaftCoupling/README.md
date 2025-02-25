@@ -1,3 +1,7 @@
+# SHAFT COUPLING
+It can be tough to connect a motor to a wheel or axle. Here are some ideas for how to do it!
+
+
 ## use Servo horns for servo motors!
 
 <!-- ![Servo Horns](images/servoHorns.jpg) -->
