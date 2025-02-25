@@ -1,7 +1,7 @@
 ## use Servo horns for servo motors!
 
 <!-- ![Servo Horns](images/servoHorns.jpg) -->
-<img src="/ShaftCoupling/images/servoHorns.jpgg" width="450">
+<img src="/ShaftCoupling/images/servoHorns.jpg" width="450">
 
 ## use manufactured solutions for connecting to TT motors!
 
