@@ -1,7 +1,7 @@
 ## use Servo horns for servo motors!
 
 <!-- ![Servo Horns](images/servoHorns.jpg) -->
-<img src="/ShaftCoupling/images/TTmotor_paddleWheel.jpg" width="450">
+<img src="/ShaftCoupling/images/servoHorns.jpgg" width="450">
 
 ## use manufactured solutions for connecting to TT motors!
 
@@ -9,7 +9,7 @@
 <img src="/ShaftCoupling/images/TTmotor_paddleWheel.jpg" width="450">
 
 <!-- ![TTmotor Pulley Wheel](images/TTmotor_pulleyWheel.jpg) -->
-<img src="/ShaftCoupling//imagesTTmotor_pulleyWheel.jpg" width="450">
+<img src="/ShaftCoupling//images/TTmotor_pulleyWheel.jpg" width="450">
 
 <img src="/ShaftCoupling/images/TTmotor_TechnicsWheel.jpg" width="450">
 
