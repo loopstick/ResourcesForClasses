@@ -1,13 +1,19 @@
 # SHAFT COUPLING
 It can be tough to connect a motor to a wheel or axle. Here are some ideas for how to do it!
 
+<img src="/ShaftCoupling/images/motor_SingleStageDrive.jpg" width="450">
+
 
 ## use Servo horns for servo motors!
 
 <!-- ![Servo Horns](images/servoHorns.jpg) -->
 <img src="/ShaftCoupling/images/servoHorns.jpg" width="450">
 
+
+
 ## use manufactured solutions for connecting to TT motors!
+
+[Adafruit TT motor wheels](https://www.adafruit.com/search?q=TT+motor+wheel)
 
 <!-- ![TTmotor Paddle Wheel](images/TTmotor_paddleWheel.jpg) -->
 <img src="/ShaftCoupling/images/TTmotor_paddleWheel.jpg" width="450">
@@ -17,7 +23,7 @@ It can be tough to connect a motor to a wheel or axle. Here are some ideas for h
 
 <img src="/ShaftCoupling/images/TTmotor_TechnicsWheel.jpg" width="450">
 
-[Adafruit TT motor wheels](https://www.adafruit.com/search?q=TT+motor+wheel)
+
 
 ## DIY - get a robot to make connectors for you!
 
