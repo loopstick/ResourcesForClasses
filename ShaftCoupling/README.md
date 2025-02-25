@@ -1,3 +1,30 @@
+## use Servo horns for servo motors!
+
+![Servo Horns](images/servoHorns.jpg) 
+
+## use manufactured solutions for connecting to TT motors!
+
+![TTmotor Paddle Wheel](images/TTmotor_paddleWheel.jpg) 
+
+![TTmotor Pulley Wheel](images/TTmotor_pulleyWheel.jpg) 
+
+![TTmotor Technics Wheel](images/TTmotor_TechnicsWheel.jpg) 
+
+[Adafruit TT motor wheels](https://www.adafruit.com/search?q=TT+motor+wheel)
+
+## DIY - get a robot to make connectors for you!
+
+Search for models tagged “TT motor”
+
+Thingiverse: https://www.thingiverse.com/search?q=TT+motor
+
+Printables (Prusa): https://www.printables.com/search/models?q=TT+motor
+
+Makerworld (Bambu): https://makerworld.com/en/search/models?keyword=TT+motor
+
+
+
+
 ## DIY Shaft Couplers from Hardware Store Tubing!
   
 Most hardware stores will have a selection of tubing which you can purchase by the foot. Different sizes work for different motors. 
