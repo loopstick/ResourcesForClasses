@@ -1,16 +1,17 @@
 ## use Servo horns for servo motors!
 
-![Servo Horns](images/servoHorns.jpg) 
+<!-- ![Servo Horns](images/servoHorns.jpg) -->
+<img src="/images/ShaftCoupling/TTmotor_paddleWheel.jpg" width="450">
 
 ## use manufactured solutions for connecting to TT motors!
 
 <!-- ![TTmotor Paddle Wheel](images/TTmotor_paddleWheel.jpg) -->
-<img src="/images/TTmotor_paddleWheel.jpg" width="450">
+<img src="/images/ShaftCoupling/TTmotor_paddleWheel.jpg" width="450">
 
 <!-- ![TTmotor Pulley Wheel](images/TTmotor_pulleyWheel.jpg) -->
-<img src="/images/TTmotor_pulleyWheel.jpg" width="450">
+<img src="/images/ShaftCoupling/TTmotor_pulleyWheel.jpg" width="450">
 
-<img src="/images/TTmotor_TechnicsWheel.jpg" width="450">
+<img src="/images/ShaftCoupling/TTmotor_TechnicsWheel.jpg" width="450">
 
 [Adafruit TT motor wheels](https://www.adafruit.com/search?q=TT+motor+wheel)
 
