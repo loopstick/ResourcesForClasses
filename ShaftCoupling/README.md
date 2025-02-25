@@ -4,11 +4,13 @@
 
 ## use manufactured solutions for connecting to TT motors!
 
-![TTmotor Paddle Wheel](images/TTmotor_paddleWheel.jpg) 
+<!-- ![TTmotor Paddle Wheel](images/TTmotor_paddleWheel.jpg) -->
+<img src="/images/TTmotor_paddleWheel.jpg" width="450">
 
-![TTmotor Pulley Wheel](images/TTmotor_pulleyWheel.jpg) 
+<!-- ![TTmotor Pulley Wheel](images/TTmotor_pulleyWheel.jpg) -->
+<img src="/images/TTmotor_pulleyWheel.jpg" width="450">
 
-![TTmotor Technics Wheel](images/TTmotor_TechnicsWheel.jpg) 
+<img src="/images/TTmotor_TechnicsWheel.jpg" width="450">
 
 [Adafruit TT motor wheels](https://www.adafruit.com/search?q=TT+motor+wheel)
 
