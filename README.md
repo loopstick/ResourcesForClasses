@@ -305,10 +305,17 @@ Projects website (which itself is a great resource for all sorts of projects).
 
 ## Connecting Processing to Arduino
 - SparkFun tutorial: [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
-- 
+
+## Connecting p5.js to Arduino
+- [Simple Web Serial](https://github.com/fmgrafikdesign/simplewebserial-arduino-library) - from J.D
+- [p5.js Serial In}(https://makeabilitylab.github.io/physcomp/communication/p5js-serial.html#p5js-examples-written-in-the-online-editor) - from Shm
+
 ## Raspberry Pi Video Looper
 - Simple instructions: (https://videolooper.de/)
 - a little more clear: (https://learn.adafruit.com/raspberry-pi-video-looper/installation)
+
+## TouchDesigner
+- [TouchDesigner Basics Master Class](https://www.youtube.com/watch?v=nxI8VLtgi_c&ab_channel=AshwanKadam)
 
 ## Soldering
 - [Adafruit soldering guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all) 
