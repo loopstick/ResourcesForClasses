@@ -52,7 +52,7 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
    - [Simone Geertz Ted Talk](https://www.youtube.com/watch?v=c0bsKc4tiuY)
  - [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw)
  - [Aaron Sherwood - Firewall](http://aaron-sherwood.com/works/firewall/)
- - [Deito Manabe](http://www.daito.ws/en/work/electricstimulustoface_test.html)
+ - [Daito Manabe](http://www.daito.ws/en/work/electricstimulustoface_test.html) - facial electro stim
  - [Gmunk](https://gmunk.com/BOX)
  - [Random International - Rain Room](https://www.random-international.com/rain-room-2012)
  - [Takis](https://atelierholsboer.wordpress.com/2015/02/19/takis-the-veneration-of-a-local-hero/)
