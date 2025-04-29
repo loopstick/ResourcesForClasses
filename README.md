@@ -98,9 +98,26 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - [Sound Sensor based on ZX sound board](https://www.instructables.com/id/Sound-Pressure-sensor-for-Arduino-based-on-ZX-soun/)
 - [Passive and Active Piezo Buzzer with Arduino](https://www.youtube.com/watch?v=gj-H_agfd6U)
 
-### Sensor Resources - biodata sensing - plants and Humans
+### Sensor Resources - biodata sensing - Plants and Humans
 - [Biodata sonification](https://github.com/electricityforprogress/BiodataSonificationBreadboardKit/blob/ac8b28a86406faa1d3ad3d88cac917c3296f4fc5/Biodata%20Sonification%20-%20Arduino%20Shield%20Breadboard%20Kit%20v02.pdf)
 - EEG - [Mind Controlled Robot Using Arduino and Mindflex](https://www.hackster.io/jithinsanal1610/mind-controlled-robot-using-arduino-and-mindflex-2963f7)
+
+## Raspberry Pi resources
+
+### Raspberry Pi sound
+- [Blokas PiSound](https://blokas.io/pisound/)
+- [PiSound Micro](https://blokas.io/pisound-micro/docs/)
+
+## Raspberry Pi Video Looper
+- Simple instructions: (https://videolooper.de/)
+- a little more clear: (https://learn.adafruit.com/raspberry-pi-video-looper/installation)
+
+## Video
+- [Multiple video playback with multiple Raspberry Pis](https://medium.com/@_telega/synchronised-video-playback-with-raspberry-pi-2-33e606363002)
+
+## TouchDesigner
+- [TouchDesigner Basics Master Class](https://www.youtube.com/watch?v=nxI8VLtgi_c&ab_channel=AshwanKadam)
+
 
 ## Sensor Communication Protocols
 ### I2C
@@ -184,9 +201,6 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 ## Controlling LOTS of LEDs
 - [LXstudio](https://github.com/heronarts/LXStudio)
 
-## Video
-- [Multiple video playback with multiple Raspberry Pis](https://medium.com/@_telega/synchronised-video-playback-with-raspberry-pi-2-33e606363002)
-
 
 # Interfacing Arduino with other applications
 
@@ -264,7 +278,6 @@ Projects website (which itself is a great resource for all sorts of projects).
 ## Schematics
 - A great [tutorial](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic) on schematics
 
-
 ## Edge Detection 
 - Arduino [tutorial](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
 - Adafruit [tutorial](http://www.ladyada.net/learn/arduino/lesson5.html)
@@ -303,19 +316,6 @@ Projects website (which itself is a great resource for all sorts of projects).
 - A simple Processing class [example](http://teachmetomake.com/wordpress/simple-processing-class-example)
 - [Arduino the Object Oriented Way](https://paulmurraycbr.github.io/ArduinoTheOOWay.html) tutorial
 
-## Connecting Processing to Arduino
-- SparkFun tutorial: [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
-
-## Connecting p5.js to Arduino
-- [Simple Web Serial](https://github.com/fmgrafikdesign/simplewebserial-arduino-library) - from J.D
-- [p5.js Serial In}(https://makeabilitylab.github.io/physcomp/communication/p5js-serial.html#p5js-examples-written-in-the-online-editor) - from Shm
-
-## Raspberry Pi Video Looper
-- Simple instructions: (https://videolooper.de/)
-- a little more clear: (https://learn.adafruit.com/raspberry-pi-video-looper/installation)
-
-## TouchDesigner
-- [TouchDesigner Basics Master Class](https://www.youtube.com/watch?v=nxI8VLtgi_c&ab_channel=AshwanKadam)
 
 ## Soldering
 - [Adafruit soldering guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all) 
