@@ -102,7 +102,8 @@ List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](
  - [HumansSince1982](https://www.humanssince1982.com/work)
  - [Nassia Inglessis on interactive architecture](https://www.youtube.com/watch?v=qXFAq8EfpvQ)
  - [Dan Flavin](https://www.artsy.net/artist/dan-flavin)
- - [Julie Orser](https://www.julieorser.com) - 
+ - [Julie Orser](https://www.julieorser.com)
+ - [CW&T](https://cwandt.com/)
 
  #### Light Art
  - [Charles Gadeken](https://www.charlesgadeken.com/) - local!
