@@ -159,6 +159,7 @@ of Blink Without Delay, with links to explanations of related concepts every ste
 - [Capacitive Sensing for Dummies](https://www.instructables.com/id/Capacitive-Sensing-for-Dummies/)
 
 ## Arduino MIDI controllers
+- [MIDI overview](https://learn.adafruit.com/midi-for-makers)
 - [Capactive Touch Midi Controller](https://www.youtube.com/watch?v=DQ7lrEOZrwc)
 - [Building a MIDI Controller Using Arduino](https://www.youtube.com/watch?v=JZ5yPdoPooU)
 
