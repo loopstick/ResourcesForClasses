@@ -3,7 +3,8 @@
 <!-- List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](http://www.ultrafuzz.net/) -->
 
 Recommended Listening (from Kal Spelletich)
-[Brian Eno - John Peel Lecture 28, September 2015](https://www.youtube.com/watch?app=desktop&v=Sw-8pmioR-Q&ab_channel=DavidNewman)
+
+- [Brian Eno - John Peel Lecture 28, September 2015](https://www.youtube.com/watch?app=desktop&v=Sw-8pmioR-Q&ab_channel=DavidNewman)
 
  
 #### Physical Computing - Robots 
