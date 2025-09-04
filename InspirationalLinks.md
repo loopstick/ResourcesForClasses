@@ -251,6 +251,7 @@ Recommended Listening (from Kal Spelletich)
  &nbsp;
 #### simple kinetic art
  - [La verdadera "corrida" cambiaria](https://www.instagram.com/reel/Cr00k-lIV5P/?igshid=NjZiM2M3MzIxNA%3D%3D)
+ - [Triosophia](https://www.instagram.com/reel/DNqB9AHsxWJ/?igsh=ZGUzMzM3NWJiOQ%3D%3D) by [Paul Chan](https://greenenaftaligallery.com/artists/paul-chan)
 &nbsp; 
 &nbsp;
 #### Practical Electronics & Design
