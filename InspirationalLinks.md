@@ -1,8 +1,11 @@
 ### Inspirational Artists, Designers, Collectives, Projects,etc
 
-List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](http://www.ultrafuzz.net/) 
-&nbsp;  
-&nbsp;   
+<!-- List of [inspirational movies](http://eat.cca.edu) collected by [Barney Haynes](http://www.ultrafuzz.net/) -->
+
+Recommended Listening (from Kal Spelletich)
+[Brian Eno - John Peel Lecture 28, September 2015](https://www.youtube.com/watch?app=desktop&v=Sw-8pmioR-Q&ab_channel=DavidNewman)
+
+ 
 #### Physical Computing - Robots 
  - [Golan Levin: Art that looks back at you](https://www.youtube.com/watch?v=1G0MzlfMPuM)
  - [Tom Igoe](https://www.tigoe.com/projects.html)
