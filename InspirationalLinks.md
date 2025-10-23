@@ -108,6 +108,7 @@ Recommended Listening (from Kal Spelletich)
  - [Dan Flavin](https://www.artsy.net/artist/dan-flavin)
  - [Julie Orser](https://www.julieorser.com)
  - [CW&T](https://cwandt.com/)
+ - [Ralph Borland: African Robots](https://africanrobots.net/))
 
  #### Light Art
  - [Charles Gadeken](https://www.charlesgadeken.com/) - local!
@@ -130,6 +131,7 @@ Recommended Listening (from Kal Spelletich)
    - [On Kinetic Art, 18min]([https://www.youtube.com/watch?v=D2HF-1xjpP8)
    - [Kinetic Sculpture, 4min](https://www.youtube.com/watch?v=AtKfpDezYYk&ab_channel=PerpetualUseless)
    - [Sculpting waves in wood and time, 9min](https://www.youtube.com/watch?v=_L052IOoX0Y&ab_channel=TED)
+   - [David Rector](https://blog.rectorsquid.com/art-projects/)
 &nbsp; 
 &nbsp;  
 #### Augmented Reality - Virtual Reality - AI - ML
@@ -223,6 +225,7 @@ Recommended Listening (from Kal Spelletich)
  - [Bill Napier-Hemy](https://www.youtube.com/watch?v=c6H03YROFLo&ab_channel=BillNapier-Hemy)
  - [Zach Poff](https://www.zachpoff.com/artwork/)
  - [Koka Nikoladze](https://www.koka.one/)
+ - Ralph Borland [Dubship: BlackStarliner](https://africanrobots.net/dubship-i-black-starliner-2019/)
 
  - 
 #### Clocks
