@@ -317,7 +317,6 @@ Projects website (which itself is a great resource for all sorts of projects).
 - A simple Processing class [example](http://teachmetomake.com/wordpress/simple-processing-class-example)
 - [Arduino the Object Oriented Way](https://paulmurraycbr.github.io/ArduinoTheOOWay.html) tutorial
 
-
 ## Soldering
 - [Adafruit soldering guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all) 
 
@@ -327,7 +326,17 @@ Projects website (which itself is a great resource for all sorts of projects).
 - Getting started with Fritzing’s [Project View](http://fritzing.org/learning/get-started/project-view/)
 - Fritzing's Designing PCB [tutorial](http://fritzing.org/learning/tutorials/designing-pcb/)
 - Michael Shiloh's [repository](https://github.com/michaelshiloh/Fritzing) of assorted Fritzing projects
- - [PCB: from Concept to design to fabrication and testing using Fritzing](http://www.whatimade.today/pcb-from-concept-to-design-to-fabrication-and-testing-using-fritzing/)
+- [PCB: from Concept to design to fabrication and testing using Fritzing](http://www.whatimade.today/pcb-from-concept-to-design-to-fabrication-and-testing-using-fritzing/)
+
+## Fritzing alternatives
+- [KiCad](https://www.kicad.org/)
+- [ExpressPCB](https://www.expresspcb.com/)
+
+## PCB Resources
+- [Osh Park](https://oshpark.com/) - Oregon
+- [JLCPCB](https://jlcpcb.com/)
+- [free online Gerber file viewer](https://www.nextpcb.com/free-online-gerber-viewer.html)
+- [KiCad Gerber file viewer](https://www.kicad.org/discover/gerber-viewer/)
 
 ## Circuito.io Resources
 - [Circuito.io](https://www.circuito.io/) 
