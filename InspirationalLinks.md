@@ -109,15 +109,15 @@ Recommended Listening (from Kal Spelletich)
  - [Julie Orser](https://www.julieorser.com)
  - [CW&T](https://cwandt.com/)
  - [Ralph Borland: African Robots](https://africanrobots.net/))
+   - [Ralph Borland: Dubship 1: Black Starliner](https://dubships.spacecraft.africa/)
 
  #### Light Art
  - [Charles Gadeken](https://www.charlesgadeken.com/) - local!
  - [Leo Villareal](http://villareal.net/) - local!
    - [The Bay Lights](http://thebaylights.org/) - local!
  - [Christopher Schardt](http://schardt.org/) - local!
-
-
- - 
+ - [Lachlan Turczan](https://www.youtube.com/watch?v=qqY6f4J1ywU)
+   
 #### Kinetic Sculptures
  - [Arthur Ganson](https://www.arthurganson.com/) 
  - [Oliver DiCicco](https://www.oliverdicicco.com/) - local!
