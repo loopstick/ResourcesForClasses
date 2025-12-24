@@ -400,6 +400,9 @@ Projects website (which itself is a great resource for all sorts of projects).
   - We've heard even better things about the ESP32!
   - [Adafruit ESP32 Tutorial](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather)
   - [ESPRESSIf ESP32 Forum](https://esp32.com/viewforum.php?f=19)
+
+- webAPI
+  - [Roopa's excellent ESP32 webAPI tutorial](https://github.com/roopa-ramanujam/ESP32-web-api-example)
   
 ## LCD - Liquid Crystal Display
  - Last Minute Engineers [LCD Tutorial](https://lastminuteengineers.com/arduino-1602-character-lcd-tutorial/)
