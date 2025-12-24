@@ -350,6 +350,13 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [OtherMill video on YouTube](https://www.youtube.com/watch?v=DCGLEa2UUaY)
 - [Collin's Lab: PCB Milling](https://www.youtube.com/watch?v=Yvp9IfGyrXQ)
 
+## 3D printing resources
+- [Slant 3D](https://www.slant3d.com/) - print on demand and mass production
+- [Slant 3D youTube channel](https://www.youtube.com/@slant3d)
+  - [How to Design a Print with Perfect Tolerance EVERY Time](https://www.youtube.com/watch?v=XKrDUnZCmQQ)
+  - [Stop Using Brims, Use Mouse Ears Instead](https://www.youtube.com/watch?v=MCcFMDv_4eo)
+
+
 
 ## Wireless Technologies
 - Wifi
