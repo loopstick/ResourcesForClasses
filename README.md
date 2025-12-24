@@ -356,7 +356,8 @@ Projects website (which itself is a great resource for all sorts of projects).
   - [How to Design a Print with Perfect Tolerance EVERY Time](https://www.youtube.com/watch?v=XKrDUnZCmQQ)
   - [Stop Using Brims, Use Mouse Ears Instead](https://www.youtube.com/watch?v=MCcFMDv_4eo)
 
-
+## Lasercutter Resources
+- Instructables {Ultimate Guide to Laser Cut Box Generators](https://www.instructables.com/The-Ultimate-Guide-to-Laser-cut-Box-Generators/)
 
 ## Wireless Technologies
 - Wifi
