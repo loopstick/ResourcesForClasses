@@ -71,6 +71,9 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - [Flex Sensor](https://lastminuteengineers.com/flex-sensor-arduino-tutorial/)
 - [Capacitive Touch](https://playground.arduino.cc/Main/CapacitiveSensor/)
 
+## Sensor Resources - "emotion" sensors
+- [emotibit](https://shop.openbci.com/products/emotibit)
+
 ### Sensor Resources - Light/Motion/Distance
 - LDR / Photoresistor 
   -[How to use a Light Dependent Resistor](http://www.instructables.com/id/How-to-Use-a-Light-Dependent-Resistor-LDR/)
