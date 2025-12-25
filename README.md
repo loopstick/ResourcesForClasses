@@ -358,6 +358,7 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Slant 3D youTube channel](https://www.youtube.com/@slant3d)
   - [How to Design a Print with Perfect Tolerance EVERY Time](https://www.youtube.com/watch?v=XKrDUnZCmQQ)
   - [Stop Using Brims, Use Mouse Ears Instead](https://www.youtube.com/watch?v=MCcFMDv_4eo)
+  - [20+ Ways to Make Your 3D Prints Stronger](https://www.youtube.com/watch?v=81qmDc5unYM)
 
 ## Lasercutter Resources
 - Instructables {Ultimate Guide to Laser Cut Box Generators](https://www.instructables.com/The-Ultimate-Guide-to-Laser-cut-Box-Generators/)
