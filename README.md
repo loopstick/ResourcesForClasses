@@ -241,6 +241,7 @@ from The Exploratorium
 automata builder~
 - How to Make Cardboard Automata [article](http://makezine.com/projects/make-cardboard-automata/) on Make:
 Projects website (which itself is a great resource for all sorts of projects).
+- [Linkage Mechanism Designer & Simulator](https://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/)
 
 
 ### Mechatronics Books
