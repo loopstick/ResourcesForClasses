@@ -179,15 +179,15 @@ Recommended Listening (from Kal Spelletich)
    - [Space Palette - an introduction](https://www.youtube.com/watch?v=kgY9QX3eDdI&ab_channel=TimThompson)
    - [Adventures in Casual Instruments (C4NM) 1hour](https://www.youtube.com/watch?v=egHB8Sk5VNA&ab_channel=TimThompson)
  - [Eric Singer (LEMUR)](http://www.singerbots.com)
- - Gamelatron[website](https://gamelatron.com/)
+ - Gamelatron [website](https://gamelatron.com/)
    - [Gamelatron Project, 2018](https://www.youtube.com/watch?v=Oy4YJfVXV0U&ab_channel=gamelatron)
    - [The Gamelatron, Project Video, 2015](https://www.youtube.com/watch?v=nGZ_6zjuw1U&ab_channel=gamelatron)
    - [Gamelatron Robotic Orchestra](https://www.youtube.com/watch?v=-cN7nJz2aVk&ab_channel=WIRED)
  - [Gamelan Wizard](http://www.dualplover.com/gamelanwizard/index.html)
- - [Lucas Abela ](http://dualplover.com/abela/)
+ - [Lucas Abela](http://dualplover.com/abela/)
     - [Vinyl Rally](http://dualplover.com/vinylrally/)
  - [Quintron - drum buddy](http://www.drumbuddy.com/)
- - [Marielle Jackobson](http://mariellejakobsons.com/?page_id=509)- local!
+ - [Marielle Jackobson](http://mariellejakobsons.com/?page_id=509) - local!
  - [Michael Boyd](https://michaelrboyd.com/confessional)
  - [Bryan Jacobs - Subwhistle](http://www.fetafoundation.org/fetaprize/2016/1/1/bryan-jacobs-sub-whistle)
  - [Syzygryd](http://test.nicolation.net/installations/syzygryd/)
@@ -196,7 +196,7 @@ Recommended Listening (from Kal Spelletich)
  - [Jay Kreimer](http://jaykreimer.com/)
  - [Jay's museum](http://www.jaysmuseum.com/fractaldulcimer.htm)
  - [Logos foundation ](https://www.logosfoundation.org/)
- - Hugh Davies[Wikipedia](https://en.wikipedia.org/wiki/Hugh_Davies_(composer))
+ - Hugh Davies [Wikipedia](https://en.wikipedia.org/wiki/Hugh_Davies_(composer))
    - [Hugh Davies](https://www.youtube.com/watch?v=wPT9A0IsGgs)
    - [Hugh Davies - sho-zyg exhibition](http://sho-zyg.com/)
  - [David Rosenboom](http://www.lovely.com/bios/rosenboom.html)
@@ -228,7 +228,7 @@ Recommended Listening (from Kal Spelletich)
  - Ralph Borland [Dubship: BlackStarliner](https://africanrobots.net/dubship-i-black-starliner-2019/)
  - Ben Neil [Mutantrumpet](https://benneill.com/mutantrumpet/)
 
- - 
+
 #### Clocks
 - [A Collection of Unusual Clocks YouTube playlist](https://www.youtube.com/playlist?list=PLAxrqEdgtyUVwklrr0-o5DU8HtXBR1BmG)
 - [NYU ITP Clock Club: works](https://itpnyu.github.io/clock-club/) - links to many interesting clock projects
