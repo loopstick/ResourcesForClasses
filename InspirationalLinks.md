@@ -110,6 +110,8 @@ Recommended Listening (from Kal Spelletich)
  - [CW&T](https://cwandt.com/)
  - [Ralph Borland: African Robots](https://africanrobots.net/))
    - [Ralph Borland: Dubship 1: Black Starliner](https://dubships.spacecraft.africa/)
+ - [Patrick Anthony Monte](https://patrickmonte.com/work) - CCA grad!
+ - [Marc Villanova](https://marcvilanova.com/)
 
  #### Light Art
  - [Charles Gadeken](https://www.charlesgadeken.com/) - local!
