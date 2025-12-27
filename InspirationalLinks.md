@@ -112,6 +112,7 @@ Recommended Listening (from Kal Spelletich)
    - [Ralph Borland: Dubship 1: Black Starliner](https://dubships.spacecraft.africa/)
  - [Patrick Anthony Monte](https://patrickmonte.com/work) - CCA grad!
  - [Marc Villanova](https://marcvilanova.com/)
+ - [Vivian Caccuri](https://viviancaccuri.com/)
 
  #### Light Art
  - [Charles Gadeken](https://www.charlesgadeken.com/) - local!
