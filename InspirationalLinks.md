@@ -135,6 +135,7 @@ Recommended Listening (from Kal Spelletich)
    - [Kinetic Sculpture, 4min](https://www.youtube.com/watch?v=AtKfpDezYYk&ab_channel=PerpetualUseless)
    - [Sculpting waves in wood and time, 9min](https://www.youtube.com/watch?v=_L052IOoX0Y&ab_channel=TED)
    - [David Rector](https://blog.rectorsquid.com/art-projects/)
+ - [Bernie Lubell](https://bernielubell.com/index.htm) - local!
 &nbsp; 
 &nbsp;  
 #### Augmented Reality - Virtual Reality - AI - ML
