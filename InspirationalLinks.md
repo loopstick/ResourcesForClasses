@@ -231,6 +231,7 @@ Recommended Listening (from Kal Spelletich)
  - [Koka Nikoladze](https://www.koka.one/)
  - Ralph Borland [Dubship: BlackStarliner](https://africanrobots.net/dubship-i-black-starliner-2019/)
  - Ben Neil [Mutantrumpet](https://benneill.com/mutantrumpet/)
+ - Bryan Day [Clamorworks}(https://www.clamorworks.com/bryanday/projects) - local!
 
 
 #### Clocks
