@@ -92,6 +92,8 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
   - Last Minute Engineers [PIR sensor](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/) tutorial
 - Doppler Radar Motion Sensors
   - [Doppler RADAR Motion Sensor 3.2GHz-MPJA.COM](https://www.mpja.com/Doppler-RADAR-Motion-Sensor-32GHz/productinfo/34685%20MP/)
+- WiFi Human Detector
+  - Detect human movement THROUGH WALLS using WiFi! [ESPectre Human Detector for Feather](https://learn.adafruit.com/espectre-human-detector-for-feather)
 
 
 ### Sensor Resources - Audio 
