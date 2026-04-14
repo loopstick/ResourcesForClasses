@@ -113,13 +113,6 @@ Recommended Listening (from Kal Spelletich)
  - [Patrick Anthony Monte](https://patrickmonte.com/work) - CCA grad!
  - [Marc Villanova](https://marcvilanova.com/)
  - [Vivian Caccuri](https://viviancaccuri.com/)
-
- #### Light Art
- - [Charles Gadeken](https://www.charlesgadeken.com/) - local!
- - [Leo Villareal](http://villareal.net/) - local!
-   - [The Bay Lights](http://thebaylights.org/) - local!
- - [Christopher Schardt](http://schardt.org/) - local!
- - [Lachlan Turczan](https://www.youtube.com/watch?v=qqY6f4J1ywU)
    
 #### Kinetic Sculptures
  - [Arthur Ganson](https://www.arthurganson.com/) 
@@ -135,18 +128,27 @@ Recommended Listening (from Kal Spelletich)
    - [Kinetic Sculpture, 4min](https://www.youtube.com/watch?v=AtKfpDezYYk&ab_channel=PerpetualUseless)
    - [Sculpting waves in wood and time, 9min](https://www.youtube.com/watch?v=_L052IOoX0Y&ab_channel=TED)
    - [David Rector](https://blog.rectorsquid.com/art-projects/)
- - [Bernie Lubell](https://bernielubell.com/index.htm) - local!
-&nbsp; 
-&nbsp;  
-#### Augmented Reality - Virtual Reality - AI - ML
- - [Mandy Stobo](https://stoboart.com/mandy-stobo)
- - [Alexander Reben](https://areben.com/) - local! Stochastic Labs in Berkeley
- - 
+   - [Bernie Lubell](https://bernielubell.com/index.htm) - local! 
 
+ #### Light Art - Pixeletors
+ - [Aram Barthol](https://arambartholl.com/archive/) - [TV filter](https://arambartholl.com/tv-filter/)
+ - [Jason Eppink](https://jasoneppink.com/) - [Pixelator](https://jasoneppink.com/pixelator/?pid=77)
+ - [Ji Le](https://pleaseenjoy.com/) - [Abstractor](https://pleaseenjoy.com/abstractor) 
+
+ 
+ #### Light Art
+ - [Charles Gadeken](https://www.charlesgadeken.com/) - local!
+ - [Leo Villareal](http://villareal.net/) - local!
+   - [The Bay Lights](http://thebaylights.org/) - local!
+ - [Christopher Schardt](http://schardt.org/) - local!
+ - [Lachlan Turczan](https://www.youtube.com/watch?v=qqY6f4J1ywU)
+
+   
 #### Projection Mapping
  - [Bib Goes Home]([https://www.youtube.com/watch?v=eq2lJpIQcIU&t=7s](https://www.youtube.com/watch?v=mrPElNkAbto))
  - [Joon Y Moon: Chasing Stars in Shadow](https://vimeo.com/782602226)
  - [Projection mapping](https://www.youtube.com/watch?v=czuhNcNU6qU)   
+
 
 #### Data Visualization  
  - [Ben Fry](https://benfry.com/projects/)
@@ -156,6 +158,13 @@ Recommended Listening (from Kal Spelletich)
  - [Phillip Stearns - Memory Textile weaving](https://vimeo.com/71044541)
  - [Julius Popp - bit.fall](https://www.illuminateproductions.co.uk/bitfall)
  - [Mark Lotter - Cubatron](http://www.3waylabs.com/projects/mc/)
+
+
+#### Augmented Reality - Virtual Reality - AI - ML
+ - [Mandy Stobo](https://stoboart.com/mandy-stobo)
+ - [Alexander Reben](https://areben.com/) - local! Stochastic Labs in Berkeley
+
+   
 
 #### Drawing Machines 
  - Painting Robots [Paul Kirby](https://vimeo.com/594934366) 
