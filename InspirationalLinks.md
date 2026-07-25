@@ -241,6 +241,13 @@ Recommended Listening (from Kal Spelletich)
  - Ralph Borland [Dubship: BlackStarliner](https://africanrobots.net/dubship-i-black-starliner-2019/)
  - Ben Neil [Mutantrumpet](https://benneill.com/mutantrumpet/)
  - Bryan Day [Clamorworks](https://www.clamorworks.com/bryanday/projects) - local!
+ - [Céleste Boursier-Mougenot](https://www.paulacoopergallery.com/artists/celeste-boursier-mougenot#tab:thumbnails)
+   - [Clinamen](https://www.youtube.com/watch?v=qi1CuWSeMNk  )
+   - [From Here to Ear](https://www.youtube.com/watch?v=stFyG_AAje8)
+ - [Leonel Vasquez](https://www.leonelvasquez.com/obras/)
+ - [Chris Wright](https://cone8.co.uk/) - ceramic sound objects
+ - [Duo Siedl/Cao](https://siedlcao.com/)
+ 
 
 
 #### Clocks
