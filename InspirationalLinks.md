@@ -247,6 +247,7 @@ Recommended Listening (from Kal Spelletich)
  - [Leonel Vasquez](https://www.leonelvasquez.com/obras/)
  - [Chris Wright](https://cone8.co.uk/) - ceramic sound objects
  - [Duo Siedl/Cao](https://siedlcao.com/)
+ - [Clara Hastrup](https://www.clarahastrup.com/)
  
 
 
