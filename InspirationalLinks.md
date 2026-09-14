@@ -113,6 +113,7 @@ Recommended Listening (from Kal Spelletich)
  - [Patrick Anthony Monte](https://patrickmonte.com/work) - CCA grad!
  - [Marc Villanova](https://marcvilanova.com/)
  - [Vivian Caccuri](https://viviancaccuri.com/)
+ - [Rachel Youn](https://rachelyoun.com/)
    
 #### Kinetic Sculptures
  - [Arthur Ganson](https://www.arthurganson.com/) 
