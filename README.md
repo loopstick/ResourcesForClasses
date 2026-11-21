@@ -324,7 +324,9 @@ Projects website (which itself is a great resource for all sorts of projects).
 - [Arduino the Object Oriented Way](https://paulmurraycbr.github.io/ArduinoTheOOWay.html) tutorial
 
 ## Soldering
-- [Adafruit soldering guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all) 
+- [Adafruit soldering guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
+- Dr Sudhu's [How to Solder: Neopixel Strip](https://www.youtube.com/watch?v=vME-nWMkEM4)
+- Dr Sudhu's [How to Solder: ESP32v2 Feather Header Pins](https://www.youtube.com/watch?v=vME-nWMkEM4)
 
 ## Fritzing Resources
 - Download and install Fritzing from [fritzing.org](http://www.fritzing.org)
@@ -364,7 +366,7 @@ Projects website (which itself is a great resource for all sorts of projects).
   - [20+ Ways to Make Your 3D Prints Stronger](https://www.youtube.com/watch?v=81qmDc5unYM)
 
 ## Lasercutter Resources
-- Instructables {Ultimate Guide to Laser Cut Box Generators](https://www.instructables.com/The-Ultimate-Guide-to-Laser-cut-Box-Generators/)
+- Instructables [Ultimate Guide to Laser Cut Box Generators](https://www.instructables.com/The-Ultimate-Guide-to-Laser-cut-Box-Generators/)
 
 ## Wireless Technologies
 - Wifi
