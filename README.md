@@ -113,11 +113,11 @@ to the SparkFun Inventor's Kit for Arduino Experimenter's Guide
 - [Blokas PiSound](https://blokas.io/pisound/)
 - [PiSound Micro](https://blokas.io/pisound-micro/docs/)
 
-## Raspberry Pi Video Looper
+### Raspberry Pi Video Looper
 - Simple instructions: (https://videolooper.de/)
 - a little more clear: (https://learn.adafruit.com/raspberry-pi-video-looper/installation)
 
-## Video
+### Video
 - [Multiple video playback with multiple Raspberry Pis](https://medium.com/@_telega/synchronised-video-playback-with-raspberry-pi-2-33e606363002)
 
 ## TouchDesigner
